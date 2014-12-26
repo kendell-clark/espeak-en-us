@@ -665,7 +665,7 @@ ocd	$abbrev
 ocr	$abbrev
 odf	$abbrev
 oecd	$abbrev
-//oem	$abbrev
+oem	$abbrev
 oic	$abbrev
 ok	$abbrev
 olpc	$abbrev
