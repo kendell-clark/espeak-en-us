@@ -1,6 +1,10 @@
 ﻿	//espeak mispronunciations
 //exceptions to the glottal stop rules
 felten f'Elt2@n
+//common abbreviations
+rofl $abbrev $only
+lmao $abbrev $only
+roflmao $abbrev $only
 //normal words
 orchestra 'o@kI#str@
 quesodilla keIs@'di:@
