@@ -48,6 +48,7 @@ berelain b'e@I#leIn
 beyonce bi;'0nseI
 benz b'Enz
 besty b'Esti
+(bichon frise) bi:'Z0nfri:'zeI
 bingaman bIN@m@n $1
 birgitte be@'gi:t2@
 bozone boUzoUn
@@ -195,6 +196,7 @@ nissan 'ni:s0n
 nisura nI#'sU@@
 norelco no@'ElkoU
 obamacare oU'b0ma#||ke@
+(obi wan kenobi) 'oUbi||'w0n||k@'noUbi
 obnoxious @bn'0kS@s
 odbc $abbrev
 ocz $abbrev $allcaps
@@ -369,7 +371,7 @@ logain loU'geIn
 majhere m0'dZi@3
 malkier mal'ki@3
 sedai sI#'daI
-semirhage s'Em3r0D
+semirhage s'Em3r0g
 tuatha'an tu:'0T@||'0n
 elmindreda Elm'IndreId@
  ghealdan g'eIld@n
@@ -460,12 +462,10 @@ kakariko kak@'ri:koU
 la'garwin l@'gA@wIn
 dûr 'dU@
 mordor 'mo@do@
-sigul 'sIdZ@L
 palaver p@'lav3
 atropos atr@poUs
 (mortefus sententia) 'mO@t#@f@s||sEn'tEnS@
 oceania @'si:ni@
-(obi wan kenobi) 'oUbi||'w0n||k@'noUbi
 dogan 'doUg0n
 sayre 'se@
 oriza @r'aIz@
@@ -493,9 +493,8 @@ leanansidhe li@'nanSi
 arctis 'A@ktI#s
 absente @b'zEnteI
 alitheia a#'lITi@
-(bichon frise) bi:'Z0nfri:'zeI
 phobophage 'foUboUfeIdZ
-malk 'mOk
+//malk 'mOk
 ibsa $abbrev
 kalona k@'loUn@
 guinevere 'gInI#vi@3
@@ -505,7 +504,6 @@ Anórien a#'no@i@n
 athame 'aT@meI
 balin 'b0lIn
  Éomer 'eIoUme@
-erebus 'e@rI#b@s
 (caras galadhon) 'karasga'ladhO:n
 gwaihir 'gwaIhi@3
 Cirith 'kIrIT $capital
@@ -521,8 +519,6 @@ SMÉAGOL 'smi:g0l
 nazgul 'nazgu:l
 lenobia l@'noUbi@
 perineum p3'Ini@m
-prestigious prEs'ti:Z@s
-stygian 'stIdZ@n
 despot  'dEsp@t
 canton 'kant@n
 coliceum k0l@'si:@m
