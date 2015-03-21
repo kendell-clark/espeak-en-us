@@ -1,6 +1,10 @@
 ﻿	//espeak mispronunciations
 //exceptions to the glottal stop rules
 felten f'Elt2@n
+//common abbreviations
+rofl $abbrev $only
+lmao $abbrev $only
+roflmao $abbrev $only
 //normal words
 orchestra 'o@kI#str@
 quesodilla keIs@'di:@
@@ -9,6 +13,7 @@ accc $abbrev $allcaps
 acclimate 'aklImeIt
 adelin 'ad@lIn
 (à la) '0l@
+alibied 'al@baId
 poulin 'paUlIn
 aacs $abbrev
 aclu $abbrev
@@ -18,6 +23,7 @@ aesthetic a#s'TEt#Ik
 aka $abbrev
 alestorm 'eIlstO@m
 alicen 'alIs@n
+alibaba alI'b0b@
 aleecia a#'li:S@
 aliev a#'li:v
 amys 0'mi:s
@@ -25,11 +31,13 @@ amaeture 'amItS3
 (amon amarth) a#'m0n||a#'mA@T
 antechamber 'antItSeImb3
 antiperspirant ant2I'p3sp3@nt
+archy 'A@tSi
 asio $abbrev
 aslr $abbrev //address space layout randomization
 atari a#'tA@i
 asiago 0si:'0goU
 //attribute @trIbju:t $2 $nounf
+atreyu a#'treIu:
 avers 'eIv3z $capital $only
 avr $abbrev
 nicci n'i:tSi
@@ -42,18 +50,24 @@ beatin b'i:?n- $only
 berelain b'e@I#leIn
 beyonce bi;'0nseI
 benz b'Enz
-besty b'Esti
+bestie b'Esti $onlys
+besty b'Esti $only
+(bichon frise) bi:'Z0nfri:'zeI
 bingaman bIN@m@n $1
 birgitte be@'gi:t2@
 bozone boUzoUn
 breastfed br'EstfEd
+brocade broUkeId
 bronzesmith 'br0nzsmIT
+browbeating  braUbi:t#IN
 bryne 'brIn
 bouchard bu:'SA@d
 cabal k@'b0l
 caden k'eId@n
 Cádiz k@'di:z
 calzone kal'zoUn
+canoodle k@'nu:d@L
+canoodling k@'nu:dlIN
 cardamom k'A@d@m@m
 cartain k'A@?n-
 cedega sI#'deIg@
@@ -65,10 +79,15 @@ chiparus 'SIpr@s
 christmasland kr'Ism@s||land
 chutzpah h'Utsp@
 cleburne 'kli:b3n
+cockleburr k'0k@Lb3:
 composite k@mp'0zIt
+constantinople k0nstant2@n'oUp@L
 copasetic koUp@'sEt#Ik
 coproduce koUpr@du:s
+councelor k'aUns@l3
+counselor k'aUns@l3
 cryptovalentine krIptoUv'al@nt2aIn
+cutoff k'VtOf
 datacenter d'eIt#@sEnt23
 davoli d@v'oUli
 dauterive 'doUtri:v
@@ -96,6 +115,7 @@ edubuntu Edu:b'u:nt2u:
 effectivity EfI#k't2IvI#t#i
 egotistic i:goUt2'IstIk
 egwene I'gweIn
+//elaborate I#'lab3@t $verbf $only
 élan eI'l0n
 elaida Il'aId@
 ellision Il'IZ@n
@@ -107,17 +127,23 @@ epds $abbrev //emergency present delivery system, specific to alter aeon
 eta $abbrev
 evelyn 'EvI#lIn
 fcra $abbrev $allcaps
+fedorahosted fI'do@@||h'oUstI#d
+fedoramagazine fI'do@@||mag@'zi:n
 fedoraproject fI'do@@||'pr0dZEkt
 fettuccine fEt#@'tSi:ni
 fido f'aIdoU
 floortile fl'o@t2aIl
 forfeiture f'O@fItS3
+freeride fri:raId
+freerider fri:raId3
 freida 'fri:d@
 furor f'jU@3
 gareth g'A@@T
+gaebril g'eIbr@L
 gauguin goUg'an //yet another painter
 gauntleted g'O:ntl@tI#d
 gavalia dZ@'v0li@
+gerbil 'dZ3b@L
 gianes gaI'anz
 giannarelli dZ0n3Eli $3
 gnupg g@'nu:||pi:'dZi:
@@ -125,10 +151,13 @@ gobuntu goUb'u:nt2u:
 grooveyard gru:vjA@d
 gutier gu:t2i'eI
 hashtable h'aSteIb@L
+hortensius ho@'tEnsI2;@s
 huseby hju:zbi $1
 hyannis haI'anIs
+illumine ilu:mI#n
 ishamael IS0meI'El
 isis 'aIsIs $capital
+isochronous aI's0kr@n@s
 jung 'jUN $capital $only
 joachim hw0'ki:m
 Jean 'ZA~n $capital $only
@@ -142,21 +171,28 @@ kudos 'ku:doUz
 labesia lI#b'i:S@
 ldap $abbrev
 leane li:'an $only
+leanore l'i:@nO@
 leadfoot 'lEdfUt2
 leches  'lEtSe
 lemke l'Emki
 lenovo l@'noUvoU
 liandrin li:'andrIn
+liaise li:'eIz $onlys
+liaising li:'eIzIN
 librejs 'li:br@||dZeI'Es
 linus l'aIn@s
 louvre l'u:v //french
 lovehatetragedy l'Vv||h'eIt2||tr'adZI#t#i
+marshaled m'A@S@Ld
+ marshaling m'A@S@LIN
 martinelli mA@?n-'Eli
 masema ma#'si:m@
 matanya m@'t0nj@
+me $abbrev $allcaps $only //medical examiner
 measiled mi:z@Ld
 megaladon 'mEga#l@d0n
 melindhra m@'lIndr@
+mefistofeles  mEfI'st0fI#li:z
 mesoamerica mEzoU||a#m'ErIk@
 mesoamerican mEzoU||a#m'ErIk@n
 mettalic mI#'talIk
@@ -169,11 +205,13 @@ mushz mVS||zi:
 nabisco na#'bIskoU
 nathrach nOTr0x
 navarro n@'vA@oU
-nemoi n'i:mOI
+nemoy n'i:mOI
+nginx EndZIn||Eks
 nissan 'ni:s0n
 nisura nI#'sU@@
 norelco no@'ElkoU
 obamacare oU'b0ma#||ke@
+(obi wan kenobi) 'oUbi||'w0n||k@'noUbi
 obnoxious @bn'0kS@s
 odbc $abbrev
 ocz $abbrev $allcaps
@@ -194,6 +232,8 @@ pantera pan't2e@@
 parabolagnulinux p3'ab@l@|g@n'u:|l'InVks
 pastorelli past3'Eli
 perches 'p3tSIz
+peremptory p3:'Empt3i
+peremptorily p3:'Empt3I#li
 pharmacokinetic fA@m@koUkI'nEt#Ik
 phytell faIt'El
 piccolo p'Ik@loU
@@ -208,13 +248,16 @@ rangy r'eIndZi
 raprochment raproUSmA~
 ratel r@t'El //system76 desktop computer
 reacquaint ri:@kw'eInt
+reineke r'aInIki
 reinish r'aInIS
 remoulade reImu:l'0d //some sort of sauce used in fish
 resignation rEzIg'neIS@n
+roguish r'oUgIS
 rhuarc ro@k
 riddell $2
 riposte ri:'poUst
 robichaud r'oUbI#SoU
+robocop r'oUboUk0p $onlys
 rochet r0'SeI
 rondinelli r0ndI#n'Eli
 rondinelly r0ndI#n'Eli
@@ -222,21 +265,25 @@ russo r'u:soU
 salve 'sav
 sanche s'0ntSeI
 sansabelt s'anz@bElt
+scaleengine sk'eIl||'EndZIn
 serape s3'0peI
 satisfactorily sat#Isf'akt3@li
 scaa $abbrev $allcaps
 seagram si:gr@m
 shaman S'0m@n
 sheraton 'SEr@t2@n
+shinola SaIn'oUl@
 sigil sIdZ@L
 cigil sIdZ@L //misspelled
 siuan sw0n
 sirena s3'i:n@ //sirena beach
 skynyrd sk'In3d
 slough 'slVf
+slugabed slVg@bEd
 sma $abbrev
 smileage smaIlIdZ $1
 solomon 's0l@m@n
+sproing 'sprOIN
 study st'Vdi
 somersault s'Vm3s0lt2
 sophia soU'fi:@
@@ -244,14 +291,17 @@ soundrts s'aUnd||A@t2i:'Es
 speidel spaIdEl $2
 spongebob 'spVndZb0b
 sssca $abbrev
+suborbital  $2
 sudafed s'u:d@fEd
 suv $abbrev
+subproperty sVbpr0p3ti
 suv $abbrev $capital
 svchost Esvi:si:'hoUst
 szeliga S@'lIg@ //crude attempt
 tabac t@'b0k //misspelling of tobacco but pronounced differently
-
+(tae kwon do) t'aI||'kw0n||'doU
 talkingarch t'O:kIN||'A@tS
+tamale t@'m0li $onlys
 technosedan tEknoUsI2d'an
 telekinetic t,ElI2k@n'Et#Ik
 telemarketer t'ElI2m,A@kI#t#3
@@ -265,6 +315,7 @@ tokenization toUk@nI#z'eIS@n
 tosha 't20S@
 travolta tr@'voUlt@
 trianna tri:'0n@
+tribeca traI'bEk@
 twilightning tw'aIlaI?nIN
 uasi $abbrev $allcaps
 ukranian ju:'kreIni@n
@@ -279,6 +330,7 @@ whatis wVt2'Iz
 whazzoo w0'zu:
 whereis we@'Iz
 wereanimal 'we@,anIm@L
+williamson w'ILj@ms@n
 winetricks w'aIntrIks
 wigwam w'Igw0m
 woogie w'Ugi
@@ -297,8 +349,10 @@ tiramisu ti@r@mI'su:
 verizon v@'raIz@n
 yasr $abbrev
 //fantacy or obscure names or words
+altaran  O:lt'A@@n
 evilangel 'i:v@L||'eIndZ@L
 (arad doman) 'A@@d||doU'm0n
+arafel 'A@@fEl
 aringill 'A:rIngIl
 aielmen aI'i:lm@n
 atha'an 0T@||'0n
@@ -313,6 +367,7 @@ mandragoran man'drag3@n
 isam i:'s0m
 ilyena Il'jeIn@
 shai'tan SaI'tan
+theodrin T'eI@drIn
 amyrlin 'am3lIn
 emond 'i:m@nd
 manetheren m@'nET3@n
@@ -340,6 +395,7 @@ logain loU'geIn
 majhere m0'dZi@3
 malkier mal'ki@3
 sedai sI#'daI
+semirhage s'Em3r0g
 tuatha'an tu:'0T@||'0n
 elmindreda Elm'IndreId@
  ghealdan g'eIld@n
@@ -364,6 +420,7 @@ sa'angreal s0||0ngri0l
 ter'angreal ti@3||0ngri'0l
 angreal 0ngri'0l
 caden'sor k'0d@n||so@
+cadin'sor k'0d@n||so@
 cara'carn kA:rR@||'kA@n
 car'a'carn kA:rR@||'kA@n
 cairhien kaIri'En
@@ -429,12 +486,10 @@ kakariko kak@'ri:koU
 la'garwin l@'gA@wIn
 dûr 'dU@
 mordor 'mo@do@
-sigul 'sIdZ@L
 palaver p@'lav3
 atropos atr@poUs
 (mortefus sententia) 'mO@t#@f@s||sEn'tEnS@
 oceania @'si:ni@
-(obi wan kenobi) 'oUbi||'w0n||k@'noUbi
 dogan 'doUg0n
 sayre 'se@
 oriza @r'aIz@
@@ -462,9 +517,8 @@ leanansidhe li@'nanSi
 arctis 'A@ktI#s
 absente @b'zEnteI
 alitheia a#'lITi@
-(bichon frise) bi:'Z0nfri:'zeI
 phobophage 'foUboUfeIdZ
-malk 'mOk
+//malk 'mOk
 ibsa $abbrev
 kalona k@'loUn@
 guinevere 'gInI#vi@3
@@ -474,7 +528,6 @@ Anórien a#'no@i@n
 athame 'aT@meI
 balin 'b0lIn
  Éomer 'eIoUme@
-erebus 'e@rI#b@s
 (caras galadhon) 'karasga'ladhO:n
 gwaihir 'gwaIhi@3
 Cirith 'kIrIT $capital
@@ -490,8 +543,6 @@ SMÉAGOL 'smi:g0l
 nazgul 'nazgu:l
 lenobia l@'noUbi@
 perineum p3'Ini@m
-prestigious prEs'ti:Z@s
-stygian 'stIdZ@n
 despot  'dEsp@t
 canton 'kant@n
 coliceum k0l@'si:@m

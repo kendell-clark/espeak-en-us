@@ -1,0 +1,10 @@
+name english-kng
+language en-us 2
+language en-r
+language en 3
+phonemes en-us
+dictrules 2 3 6
+tunes s5 c5 q5 e5
+flutter 0
+speed 80
+stressLength  80 140 160 140 0 0 170 180
