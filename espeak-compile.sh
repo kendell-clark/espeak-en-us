@@ -24,6 +24,9 @@ fi
 echo "Copying files:"
 #copy files to espeak directory
 sudo cp ./en_* /usr/share/espeak-data/
+#copy varients
+sudo cp ./varients/* "/usr/share/espeak-data/voices/!v"
+sudo cp entunation /usr/share/espeak-data/
 #change to espeak directory and compile data
 cd /usr/share/espeak-data/
 sudo espeak --compile=en-us
