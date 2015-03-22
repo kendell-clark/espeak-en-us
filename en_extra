@@ -1,26 +1,44 @@
 ﻿	//espeak mispronunciations
 //exceptions to the glottal stop rules
 felten f'Elt2@n
-//common abbreviations
-rofl $abbrev $only
-lmao $abbrev $only
-roflmao $abbrev $only
+//abbreviations
+imho $abbrev
+suv $abbrev $capital
+suv $abbrev
+sssca $abbrev
+sma $abbrev
+scaa $abbrev $allcaps
+odbc $abbrev
+ocz $abbrev $allcaps
+odt $abbrev
+ods $abbrev
+odp $abbrev
+me $abbrev $allcaps $only //medical examiner
+ldap $abbrev
+fcra $abbrev $allcaps
+epds $abbrev //emergency present delivery system, specific to alter aeon
+eta $abbrev
+cfaa $abbrev 
+avr $abbrev
+aslr $abbrev //address space layout randomization
+asio $abbrev
+aslr $abbrev //address space layout randomization
+aka $abbrev
+aacs $abbrev
+aclu $abbrev
+accc $abbrev $allcaps
 //normal words
 orchestra 'o@kI#str@
 quesodilla keIs@'di:@
 absently 'abs@ntli
-accc $abbrev $allcaps
 acclimate 'aklImeIt
 adelin 'ad@lIn
 (à la) '0l@
 alibied 'al@baId
 poulin 'paUlIn
-aacs $abbrev
-aclu $abbrev
 adblock 'adbl0k $only
 adelita adI#'li:t#@
 aesthetic a#s'TEt#Ik
-aka $abbrev
 alestorm 'eIlstO@m
 alicen 'alIs@n
 alibaba alI'b0b@
@@ -32,14 +50,11 @@ amaeture 'amItS3
 antechamber 'antItSeImb3
 antiperspirant ant2I'p3sp3@nt
 archy 'A@tSi
-asio $abbrev
-aslr $abbrev //address space layout randomization
 atari a#'tA@i
 asiago 0si:'0goU
 //attribute @trIbju:t $2 $nounf
 atreyu a#'treIu:
 avers 'eIv3z $capital $only
-avr $abbrev
 nicci n'i:tSi
 augusta a#'gVst@
 avira a#'vi@r@
@@ -71,7 +86,6 @@ canoodling k@'nu:dlIN
 cardamom k'A@d@m@m
 cartain k'A@?n-
 cedega sI#'deIg@
-cfaa $abbrev 
 chaloopa tS@l'u:p@
 chaostitan k'eI0s||t'aI?n-
 chapeau tS@'poU //some sort of hat?
@@ -123,10 +137,7 @@ elsevier El,sEvI;'eI
 emacspeak 'i:makspi:k
 emile eIm'i:l
 eminence EmI'n0ns
-epds $abbrev //emergency present delivery system, specific to alter aeon
-eta $abbrev
 evelyn 'EvI#lIn
-fcra $abbrev $allcaps
 fedorahosted fI'do@@||h'oUstI#d
 fedoramagazine fI'do@@||mag@'zi:n
 fedoraproject fI'do@@||'pr0dZEkt
@@ -169,7 +180,6 @@ kerala k3'0l@ //kerala india
 keurig  'kjU@Ig
 kudos 'ku:doUz
 labesia lI#b'i:S@
-ldap $abbrev
 leane li:'an $only
 leanore l'i:@nO@
 leadfoot 'lEdfUt2
@@ -189,7 +199,6 @@ marshaled m'A@S@Ld
 martinelli mA@?n-'Eli
 masema ma#'si:m@
 matanya m@'t0nj@
-me $abbrev $allcaps $only //medical examiner
 measiled mi:z@Ld
 megaladon 'mEga#l@d0n
 melindhra m@'lIndr@
@@ -214,11 +223,6 @@ norelco no@'ElkoU
 obamacare oU'b0ma#||ke@
 (obi wan kenobi) 'oUbi||'w0n||k@'noUbi
 obnoxious @bn'0kS@s
-odbc $abbrev
-ocz $abbrev $allcaps
-odt $abbrev
-ods $abbrev
-odp $abbrev
 olson 'oUls@n
 opengl oUp@n||dZi:'El
 openbsd 'oUp@n||bi:||Es||d'i:
@@ -269,7 +273,6 @@ sansabelt s'anz@bElt
 scaleengine sk'eIl||'EndZIn
 serape s3'0peI
 satisfactorily sat#Isf'akt3@li
-scaa $abbrev $allcaps
 seagram si:gr@m
 shaman S'0m@n
 sheraton 'SEr@t2@n
@@ -281,7 +284,6 @@ sirena s3'i:n@ //sirena beach
 skynyrd sk'In3d
 slough 'slVf
 slugabed slVg@bEd
-sma $abbrev
 smileage smaIlIdZ $1
 solomon 's0l@m@n
 sproing 'sprOIN
@@ -291,12 +293,9 @@ sophia soU'fi:@
 soundrts s'aUnd||A@t2i:'Es
 speidel spaIdEl $2
 spongebob 'spVndZb0b
-sssca $abbrev
 suborbital  $2
 sudafed s'u:d@fEd
-suv $abbrev
 subproperty sVbpr0p3ti
-suv $abbrev $capital
 svchost Esvi:si:'hoUst
 szeliga S@'lIg@ //crude attempt
 tabac t@'b0k //misspelling of tobacco but pronounced differently
@@ -340,7 +339,6 @@ yamamura j0m@m'U@@
 yucca j'Vka#
 zepole 'zEp@li
 Zhurakhinskaya ZjU@0kI#n'sk0j@
-imho $abbrev
 kramisha kr@'mi:S@
 leprechaun 'lEprI#k0n
 liberace lIb3'0tSi
