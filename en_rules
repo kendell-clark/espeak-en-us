@@ -53,7 +53,7 @@
 .group a
         a          a
      _) a's (_     eIz
-     -) a (-       a#
+-) a (-       a#
      _) a (-       'eI
      _) a (-half   a#
      X) a ($w_alt3++++++ a#
@@ -1833,6 +1833,7 @@ _it_separ) ate (_  @t
 
 .group d
         d          d
+     _) d's (_     di:z
      _) d (rY    d         // allow _dr
      _) dj (Y      dZ
      _) d (nie     d
@@ -3139,6 +3140,7 @@ _it_separ) ate (_  @t
         h (h 
         h (_ 
     _B) h 
+     _) h's (_     eItSIz
      @) hammed     h'amId
      C) h (am_ 
      A) han (_     han       // places
@@ -4047,6 +4049,7 @@ _it_separ) ate (_  @t
 .group k
         k          k
         k (k 
+     _) k's (_     keIz
      _) k (L01Y    k
      _) k (hY      k
      _) k (wY      k
@@ -4346,6 +4349,7 @@ multip) ly         laI
 
 .group o
         o          0
+     _) o's (_     oUz
      _) o          0
      X) o          0#
      X) o ($w_alt3+++ %0#
@@ -5242,6 +5246,7 @@ multip) ly         laI
 .group p
         p          p
         p (p 
+     _) p's (_     pi:z
      _) p (L01Y    p         // allow _pl _pr
      _) pf (Y      f
      _) ph (Y      f
@@ -5908,6 +5913,7 @@ multip) ly         laI
 .group t
         t          t
      t) t 
+     _) t's (_     t2i:z
      _) t (rY      t
      _) t (sY      t
      _) t (wY      t
@@ -6516,7 +6522,8 @@ contin) u          ju:
 
 .group y
      _) y (_       waI
-     -) y (-       @         // Welsh names
+          _) y's (_     waIz
+-) y (-       @         // Welsh names
         y          j
      _) y' (CP2    j@
         y (_$w_alt1++ aI
