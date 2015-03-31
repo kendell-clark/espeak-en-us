@@ -2,6 +2,7 @@
 //exceptions to the glottal stop rules
 felten f'Elt2@n
 //abbreviations
+uasi $abbrev $allcaps
 ueb $abbrev
 imho $abbrev
 suv $abbrev $capital
@@ -345,7 +346,6 @@ travolta tr@'voUlt@
 trianna tri:'0n@
 tribeca traI'bEk@
 twilightning tw'aIlaI?nIN
-uasi $abbrev $allcaps
 ukranian ju:'kreIni@n
 uzbek 'UzbEk $only //the uzbekistan language, I think
 vaporware 'veIp3we@
@@ -354,10 +354,11 @@ veracruz v'Er@kru:z
 Verde 've@deI $capital
 wassanasong wa#'s0n@s0n
 wendall w'End@L
+wereanimal 'we@,anIm@L
 whatis wVt2'Iz
 whazzoo w0'zu:
 whereis we@'Iz
-wereanimal 'we@,anIm@L
+wholeheartedly h'oUlhA@t#I#dli
 williamson w'ILj@ms@n
 winetricks w'aIntrIks
 wigwam w'Igw0m
@@ -376,6 +377,8 @@ tiramisu ti@r@mI'su:
 verizon v@'raIz@n
 yasr $abbrev
 //fantacy or obscure names or words
+m'hael m@'heIl
+seandar 'SO:ndA@
 tremalking trEm'O:lkIN
 shiaine SI'eIn
 jehannah dZ@'h0n@
