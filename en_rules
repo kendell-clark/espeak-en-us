@@ -1407,7 +1407,8 @@ _it_separ) ate (_  @t
 
 .group b
         b          b
-     _) bh (@      b
+          _) b's (_     bi:z
+_) bh (@      b
      _) b (L01Y    b         // allow _bl _br
      _) bj (A      bj
      _) brz (e     brz
@@ -1542,7 +1543,8 @@ _it_separ) ate (_  @t
 
 .group c
         c          k
-     _) c (L01Y    k         // allow _cl _cr
+          _) c's (_     si:z
+_) c (L01Y    k         // allow _cl _cr
      _) cz (ar     z
      _) cz (e      tS
 
@@ -1845,6 +1847,7 @@ _it_separ) ate (_  @t
 
 .group d
         d          d
+     _) d's (_     di:z
      _) d (rY    d         // allow _dr
      _) dj (Y      dZ
      _) d (nie     d
@@ -2096,6 +2099,7 @@ _it_separ) ate (_  @t
 
 .group e
         e          E
+     _) e's (_     i:z
      X) e ($w_alt6+++ i:
      X) e ($w_alt3++++ @
         e'er       e@
@@ -3047,6 +3051,7 @@ _it_separ) ate (_  @t
 
 .group f
         f          f
+     _) f's (_     Efs
      _) f (L01Y    f         // allow _fl _fr
      _) fj (ord    fI'
 
@@ -3066,6 +3071,7 @@ _it_separ) ate (_  @t
 
 .group g
         g          g
+     _) g's (_     dzi:z
      _) g (L01Y    g
      _) gh (Y      g
      _) g (nY 
@@ -3152,6 +3158,7 @@ _it_separ) ate (_  @t
 
 .group h
         h          h
+     _) h's (_     eItSIz
         h (h 
         h (_ 
     _B) h 
@@ -3196,6 +3203,7 @@ _it_separ) ate (_  @t
 
 .group i
         i          I
+     _) i's (_     aIz
         i (_       i
         i (_$w_alt1 aI
  ntell) i          I
@@ -4049,6 +4057,7 @@ _it_separ) ate (_  @t
 
 .group j
         j          dZ
+     _) j's (_     dZeIz
         j (j 
      _) ja (mai    dZa#
         jager      jeIg3
@@ -4070,6 +4079,7 @@ _it_separ) ate (_  @t
 
 .group k
         k          k
+     _) k's (_     keIz
         k (k 
      _) k (L01Y    k
      _) k (hY      k
@@ -4099,6 +4109,7 @@ _it_separ) ate (_  @t
 
 .group l
         l          l
+     _) l's (_     Elz
      l) l 
      _) l (hY      l
      _) ll (Y      l
@@ -4188,6 +4199,7 @@ multip) ly         laI
 
 .group m
         m          m
+     _) m's (_     Emz
         mm         m
      _) mn (e      n
     Ch) m (_       @m
@@ -4292,6 +4304,7 @@ multip) ly         laI
 
 .group n
         n          n
+     _) n's (_     Enz
      n) n 
      _) n (gY+     @-N
 
@@ -4372,6 +4385,7 @@ multip) ly         laI
 
 .group o
         o          0
+     _) o's (_     oUz
      _) o          0
      X) o          0#
      X) o ($w_alt3+++ %0#
@@ -5273,6 +5287,7 @@ multip) ly         laI
 
 .group p
         p          p
+     _) p's (_     pi:z
         p (p 
      _) p (L01Y    p         // allow _pl _pr
      _) pf (Y      f
@@ -5502,6 +5517,7 @@ multip) ly         laI
 
 .group q
         q          k
+     _) q's (_     kju:z
         q (q 
         qu         kw
         qu (C      kw@
@@ -5531,6 +5547,7 @@ multip) ly         laI
 
 .group r
         r          r
+     _) r's (_     A@z
         rr         r
      _) rh (Y      r
      _) rw (a      r%U
@@ -5699,6 +5716,7 @@ multip) ly         laI
 
 .group s
      _) s (_       Es
+     _) s's (_     EsIz
     D_) s (_       z
    D_') s (_       z
     6_) s (_       I2z
@@ -5944,6 +5962,7 @@ multip) ly         laI
 
 .group t
         t          t
+     _) t's (_     ti:z
      t) t 
      _) t (rY      t
      _) t (sY      t
@@ -6123,6 +6142,7 @@ multip) ly         laI
 
 .group u
         u          V
+     _) u's (_     ju:z
    man) u          ju:
   _sol) u (C       ju:
         u (CA      ju:
@@ -6471,6 +6491,7 @@ contin) u          ju:
 
 .group v
         v          v
+     _) v's (_     vi:z
         v (v 
      _) v (la      v
      _) vr (A      vr
@@ -6486,6 +6507,7 @@ contin) u          ju:
      _) vra (d      vreI
 
 .group w
+     _) w's (_     dVb@Lju:z
         w          w
         w (w 
      _) wh (Y      w
@@ -6535,6 +6557,7 @@ contin) u          ju:
 
 .group x
         x          ks
+     _) x's (_     eksIz
         xx         ks
      _) xy         zaI
      _) x (Y       z
@@ -6553,6 +6576,7 @@ contin) u          ju:
 
 .group y
      _) y (_       waI
+     _) y's (_     waIz
      -) y (-       @         // Welsh names
         y          j
      _) y' (CP2    j@
@@ -6679,6 +6703,7 @@ contin) u          ju:
 
 .group z
         z          z
+     _) z's (_     zi:z
         z (z 
      _) zh (Y      Z
      _) z (lot     z
