@@ -5,8 +5,6 @@ felten f'Elt2@n
 uasi $abbrev $allcaps
 ueb $abbrev
 imho $abbrev
-suv $abbrev $capital
-suv $abbrev
 sssca $abbrev
 sma $abbrev
 scaa $abbrev $allcaps
@@ -32,33 +30,23 @@ accc $abbrev $allcaps
 //normal words
 orchestra 'o@kI#str@
 quesodilla keIs@'di:@
-absently 'abs@ntli
-acclimate 'aklImeIt
 adelin 'ad@lIn
 (à la) '0l@
-alibied 'al@baId
 poulin 'paUlIn
-adblock 'adbl0k $only
 adelita adI#'li:t#@
 aesthetic a#s'TEt#Ik
 alestorm 'eIlstO@m
 alicen 'alIs@n
-alibaba alI'b0b@
 aleecia a#'li:S@
 aliev a#'li:v
-alise a#'li:s
 amys 0'mi:s
 amaeture 'amItS3
 (amon amarth) a#'m0n||a#'mA@T
 annoura a#'nU@@
-antechamber 'antItSeImb3
-antiperspirant ant2I'p3sp3@nt
-archy 'A@tSi
 atari a#'tA@i
 asiago 0si:'0goU
 //attribute @trIbju:t $2 $nounf
 atreyu a#'treIu:
-avers 'eIv3z $capital $only
 axehandle 'akshand@L
 nicci n'i:tSi
 augusta a#'gVst@
@@ -68,12 +56,9 @@ ballimore $1
 basshunter b'eIshVnt23
 beatin b'i:?n- $only
 bela b'El@ $only
-berelain b'e@I#leIn
 beyonce bi;'0nseI
 benz b'Enz
 beslan b'Esl0n $onlys
-bestie b'Esti $onlys
-besty b'Esti $only
 (bichon frise) bi:'Z0nfri:'zeI
 bingaman bIN@m@n $1
 birgitte be@'gi:t2@
@@ -81,44 +66,25 @@ biteme b'aIt2mi: //some sort of fly?
 bosom b'Uz@m
 bozone boUzoUn
 breane bri:'an
-breastfed br'EstfEd
-brocade broUkeId
-bronzesmith 'br0nzsmIT
-browbeating  braUbi:t#IN
 bryne 'brIn
-bouchard bu:'SA@d
-cabal k@'b0l
 caden k'eId@n
 Cádiz k@'di:z
 calzone kal'zoUn
-canoodle k@'nu:d@L
-canoodling k@'nu:dlIN
 cardamom k'A@d@m@m
 carelle kA@'El@
 cartain k'A@?n-
-carthorse k'A@thO@s
-caseille k@'seI
 cedega sI#'deIg@
 celebate s'ElI#b@t
 celibate s'ElI#b@t
 chaloopa tS@l'u:p@
 chaostitan k'eI0s||t'aI?n-
-chapeau tS@'poU //some sort of hat?
 chiad 'tSi:0d
 chiparus 'SIpr@s
 christmasland kr'Ism@s||land
-chutzpah h'Utsp@
-cleburne 'kli:b3n
 cockleburr k'0k@Lb3:
-composite k@mp'0zIt
-constantinople k0nstant2@n'oUp@L
 copasetic koUp@'sEt#Ik
 coproduce koUpr@du:s
 councelor k'aUns@l3
-counselor k'aUns@l3
-cryptovalentine krIptoUv'al@nt2aIn
-cutoff k'VtOf
-datacenter d'eIt#@sEnt23
 davoli d@v'oUli
 dauterive 'doUtri:v
 decafalon dI#'kaf@l0n
@@ -126,20 +92,14 @@ decollatage deIk0l't0Z //misspell
 defragment dI'fragm@nt2
 defragmented dI'fragm@nt2I#d
 degas d'eIg0 //another painter
-depredation dEprId'eIS@n
 desultory d'Es@Lto@i
-detail di:'t2eIl
 devede dvd $text //misspell of dvd, a program for making video dvd's
 dialogue d'aI|@l,O:g
 Díaz d'i:az
 dison 'daIs@n
-distrowatch d'IstroU||w0tS
-dorindha dO@'Ind@
 docile d'0s@L
 (dos equis) doUs'Ekis
 downriver daUn||rIv3
-duracell d'U@@sEl
-durgasi d3'g0si
 eatin 'i:?n- $only
 edelman Ed@Lm@n $1
 edubuntu Edu:b'u:nt2u:
@@ -147,54 +107,37 @@ effectivity EfI#k't2IvI#t#i
 egotistic i:goUt2'IstIk
 egwene I'gweIn
 //elaborate I#'lab3@t $verbf $only
-élan eI'l0n
 elaida Il'aId@
 ellision Il'IZ@n
 elsevier El,sEvI;'eI
 elyas Il'aI@s
 emacspeak 'i:makspi:k
-emile eIm'i:l
 eminence EmI'n0ns
 evelyn 'EvI#lIn
-fedorahosted fI'do@@||h'oUstI#d
-fedoramagazine fI'do@@||mag@'zi:n
 fedoraproject fI'do@@||'pr0dZEkt
 fettuccine fEt#@'tSi:ni
 fido f'aIdoU
 floortile fl'o@t2aIl
-forfeiture f'O@fItS3
 freeride fri:raId
 freerider fri:raId3
 freida 'fri:d@
-furor f'jU@3
 gareth g'A@@T
 gaebril g'eIbr@L
-gauguin goUg'an //yet another painter
-gauntleted g'O:ntl@tI#d
 gavalia dZ@'v0li@
-gerbil 'dZ3b@L
 gholam g'0l@m
 gianes gaI'anz
 giannarelli dZ0n3Eli $3
-gnupg g@'nu:||pi:'dZi:
 gobuntu goUb'u:nt2u:
 golliwog g'0liw0g //very strange name for 'shivers or 'heeby jeebies'
 grooveyard gru:vjA@d
 gutier gu:t2i'eI
-hashtable h'aSteIb@L
-heterogeneous hEt3@'dZi:ni@s
 hortensius ho@'tEnsI2;@s
 huseby hju:zbi $1
-hyannis haI'anIs
 illumine ilu:mI#n
 ishamael IS0meI'El
-isis 'aIsIs $capital
-isochronous aI's0kr@n@s
-jung 'jUN $capital $only
 joachim hw0'ki:m
 Jean 'ZA~n $capital $only
 kahuna ka#'hu:n@
-kalus k'eIl@s
 kamelot 'kamIl0t
 katarra k@'tA@@
 kerala k3'0l@ //kerala india
@@ -203,25 +146,17 @@ kudos 'ku:doUz
 labesia lI#b'i:S@
 latelle la#'t2El
 leane li:'an $only
-leanore l'i:@nO@
 leadfoot 'lEdfUt2
 leches  'lEtSe
 lemke l'Emki
 lenovo l@'noUvoU
 liandrin li:'andrIn
-liaise li:'eIz $onlys
-liaising li:'eIzIN
 librejs 'li:br@||dZeI'Es
 linus l'aIn@s
-louvre l'u:v //french
 lovehatetragedy l'Vv||h'eIt2||tr'adZI#t#i
-lugubrious l@'gu:bri;@s
 luhhan l'u:h0n
 lynyrd l'In3d
 machera m@'Si@3@
-marshaled m'A@S@Ld
- marshaling m'A@S@LIN
-martinelli mA@?n-'Eli
 masema ma#'si:m@
 masuri m@'sU@i
 matanya m@'t0nj@
@@ -229,23 +164,17 @@ measiled mi:z@Ld
 megaladon 'mEga#l@d0n
 melange m'El0ndZ
 melindhra m@'lIndr@
-mefistofeles  mEfI'st0fI#li:z
-mesoamerica mEzoU||a#m'ErIk@
-mesoamerican mEzoU||a#m'ErIk@n
 mettalic mI#'talIk
 Microsoft       maIkr@sOft
 mii m'i:
 mit $abbrev $allcaps
-montego m0n't2eIgoU
 moonshadow m'u:nSadoU
 mushz mVS||zi:
 nabisco na#'bIskoU
 naean neI'an
-narishma nA@'i:Sm@
 nathrach nOTr0x
 navarro n@'vA@oU
 nemoy n'i:mOI
-nginx EndZIn||Eks
 nicola nI'koUl@ $only
 nissan 'ni:s0n
 nisura nI#'sU@@
@@ -253,32 +182,22 @@ norelco no@'ElkoU
 obamacare oU'b0ma#||ke@
 (obi wan kenobi) 'oUbi||'w0n||k@'noUbi
 obnoxious @bn'0kS@s
-obsequious @b'si:kwi;@s
 olson 'oUls@n
-opengl oUp@n||dZi:'El
 openbsd 'oUp@n||bi:||Es||d'i:
 openjdk 'oUp@n||dZeIdi:'keI
 openssh 'oUp@n|EsEs'eItS
 openssl 'oUp@n|EsEs'El
 openvpn oUp@nvi:pi:'En
-ortiz O@t'i:z
 OSes oU'EsI#z
 ouya 'u:j@
 panopticon pan'0ptIk0n
 pantera pan't2e@@
 parabolagnulinux p3'ab@l@|g@n'u:|l'InVks
 pastorelli past3'Eli
-perches 'p3tSIz
-peremptory p3:'Empt3i
-peremptorily p3:'Empt3I#li
 pharmacokinetic fA@m@koUkI'nEt#Ik
 phytell faIt'El
-piccolo p'Ik@loU
 pikachu 'pi:k@tSu:
 pinette pIn'Et
-prescript 'pri:skrIpt $onlys
-pyongyang pjVn'j0N
-quixote ki:'oUt#eI
 rabinal r0bin'0l
 ragan r'eIg@n //misspell
 rahad r@'h0d
@@ -292,85 +211,57 @@ redarm r'EdA@m
 refuse r'Efju:s $only $noun
 reineke r'aInIki
 reinish r'aInIS
-remoulade reImu:l'0d //some sort of sauce used in fish
-resignation rEzIg'neIS@n
 rodel roUd'El $only
-roguish r'oUgIS
 rhuarc ro@k
 riddell $2
-riposte ri:'poUst
 robichaud r'oUbI#SoU
-robocop r'oUboUk0p $onlys
 rochet r0'SeI
-rondinelli r0ndI#n'Eli
 rondinelly r0ndI#n'Eli
 russo r'u:soU
 salve 'sav
 sanche s'0ntSeI
 sansabelt s'anz@bElt
 saroiya s3'OIj@
-scaleengine sk'eIl||'EndZIn
 seaine si:eIn
 selucia sI#'lu:S@
-serape s3'0peI
-sereille s3'aI
-satisfactorily sat#Isf'akt3@li
 setalle sI#'t2al
 seagram si:gr@m
 seonid  s'eI@nI#d
 shaman S'0m@n
 sheraton 'SEr@t2@n
-shinola SaIn'oUl@
 sigil sIdZ@L
 cigil sIdZ@L //misspelled
 siuan sw0n
-sirena s3'i:n@ //sirena beach
 skynyrd sk'In3d
 slough 'slVf
-slugabed slVg@bEd
 smileage smaIlIdZ $1
 solomon 's0l@m@n
-sproing 'sprOIN
 stableyard st'eIb@LjA@d
-study st'Vdi
 somersault s'Vm3s0lt2
 sophia soU'fi:@
 soundrts s'aUnd||A@t2i:'Es
 speidel spaIdEl $2
 spongebob 'spVndZb0b
-stockinged st0kINd
-suborbital  $2
 sudafed s'u:d@fEd
 subproperty sVbpr0p3ti
 suroth s'U@0T
 svchost Esvi:si:'hoUst
 szeliga S@'lIg@ //crude attempt
 tabac t@'b0k //misspelling of tobacco but pronounced differently
-(tae kwon do) t'aI||'kw0n||'doU
 talkingarch t'O:kIN||'A@tS
 tallanvor t'0l@nvo@
-tamale t@'m0li $onlys
 technosedan tEknoUsI2d'an
 telekinetic t,ElI2k@n'Et#Ik
 telemarketer t'ElI2m,A@kI#t#3
-tenochtitlan tEn'0tS||tItl'0n //ancient aztech capital
-tivoize t'i:voUaIz
-tivoization ti:voUI#z'eIS@n
 taquito t@k'i:toU
 thaumatergy T'O:ma#t23dZi
 tiana ti:'0n@
-tokenize t'oUk@naIz
-tokenization toUk@nI#z'eIS@n
 tosha 't20S@
 travolta tr@'voUlt@
 trianna tri:'0n@
-tribeca traI'bEk@
-twilightning tw'aIlaI?nIN
 ukranian ju:'kreIni@n
-uzbek 'UzbEk $only //the uzbekistan language, I think
 vaporware 'veIp3we@
 vasocongestion vas@k@ndZ'EstS@n
-veracruz v'Er@kru:z
 Verde 've@deI $capital
 wassanasong wa#'s0n@s0n
 wendall w'End@L
@@ -380,15 +271,9 @@ whazzoo w0'zu:
 whereis we@'Iz
 wholeheartedly h'oUlhA@t#I#dli
 whoown hu:||'oUn $onlys
-williamson w'ILj@ms@n
 winetricks w'aIntrIks
 wigwam w'Igw0m
-woogie w'Ugi
-wyatt w'aI|@t
-yamamura j0m@m'U@@
-yucca j'Vka#
 zepole 'zEp@li
-Zhurakhinskaya ZjU@0kI#n'sk0j@
 kramisha kr@'mi:S@
 leprechaun 'lEprI#k0n
 liberace lIb3'0tSi
