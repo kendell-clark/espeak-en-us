@@ -3,7 +3,6 @@
 felten f'Elt2@n
 //abbreviations
 uasi $abbrev $allcaps
-ueb $abbrev
 imho $abbrev
 sssca $abbrev
 sma $abbrev
@@ -44,10 +43,7 @@ amys 0'mi:s
 amaeture 'amItS3
 (amon amarth) a#'m0n||a#'mA@T
 annoura a#'nU@@
-armorer  'A@m3:3
-a'roihan a#'rOIhan
 asiago 0si:'0goU
-a'solma a#soUlm@
 atari a#'tA@i//attribute @trIbju:t $2 $nounf
 atreyu a#'treIu:
 axehandle 'akshand@L
@@ -60,8 +56,6 @@ bashere b0'Si@3
 basshunter b'eIshVnt23
 bayrd b'e@d
 beatin b'i:?n- $only
-bela b'El@ $only
-beret b3'eI
 bertain 'b3?n-
 beyonce bi;'0nseI
 benz b'Enz
@@ -70,8 +64,6 @@ beslan b'Esl0n $onlys
 bingaman bIN@m@n $1
 birgitte be@'gi:t2@
 biteme b'aIt2mi: //some sort of fly?
-bludgeoned  bl'VdZ@nd
-bosom b'Uz@m
 bozone boUzoUn
 breane bri:'an
 bryne 'brIn
@@ -83,23 +75,19 @@ carelle kA@'El@
 cartain k'A@?n-
 cedega sI#'deIg@
 celebate s'ElI#b@t
-celibate s'ElI#b@t
 chaloopa tS@l'u:p@
 chaostitan k'eI0s||t'aI?n-
 chiad 'tSi:0d
 chiparus 'SIpr@s
 christmasland kr'Ism@s||land
 cockleburr k'0k@Lb3:
-completeness k@m'pli:t2n@s
 connally k'0n@li
-conqueror k'0nk3r-3
 conscript k@n'skrIpt
 copasetic koUp@'sEt#Ik
 coproduce koUpr@du:s
 corele k3'El
 councelor k'aUns@l3
 countre k'aUnt23
-danelle d@n'El
 davoli d@v'oUli
 dauterive 'doUtri:v
 decafalon dI#'kaf@l0n
@@ -111,12 +99,9 @@ desultory d'Es@Lto@i
 devede dvd $text //misspell of dvd, a program for making video dvd's
 dialogue d'aI|@l,O:g
 Díaz d'i:az
-dimitris d@'mi:t2ri
 discompose dIsk@m'poUz
 dison 'daIs@n
-docile d'0s@L
 (dos equis) doUs'Ekis
-downriver daUn||rIv3
 eatin 'i:?n- $only
 edelman Ed@Lm@n $1
 edubuntu Edu:b'u:nt2u:
@@ -124,7 +109,6 @@ effectivity EfI#k't2IvI#t#i
 egotistic i:goUt2'IstIk
 egwene I'gweIn
 //elaborate I#'lab3@t $verbf $only
-elaida Il'aId@
 ellis  'ElIs
 ellision Il'IZ@n
 elsevier El,sEvI;'eI
@@ -133,34 +117,21 @@ emacspeak 'i:makspi:k
 eminence EmI'n0ns
 evelyn 'EvI#lIn
 fedoraproject fI'do@@||'pr0dZEkt
-fettuccine fEt#@'tSi:ni
-fido f'aIdoU
 floortile fl'o@t2aIl
 forlorn  $2
 freeride fri:raId
 freerider fri:raId3
-freida 'fri:d@
 gabardine g'ab3di:n
 gareth g'A@@T
 gaebril g'eIbr@L
-georestriction dZi:oUrI'strIkS@n
 gavalia dZ@'v0li@
 gholam g'0l@m
 gianes gaI'anz
 giannarelli dZ0n3Eli $3
 gobuntu goUb'u:nt2u:
-golliwog g'0liw0g //very strange name for 'shivers or 'heeby jeebies'
 grooveyard gru:vjA@d
 gutier gu:t2i'eI
-hfsplus eItSEfEs||'plVs
-halima h@'li:ma#
-hoarseness h'o@sn@s
-hortensius ho@'tEnsI2;@s
-hotheadedness  h'0thEdI#dn@s
 huseby hju:zbi $1
-illumine ilu:mI#n
-imperile  Im'pEr@L
-insouciant In'su:si@nt
 ishamael IS0meI'El
 joachim hw0'ki:m
 Jean 'ZA~n $capital $only
@@ -169,51 +140,37 @@ kalus k'eIl@s //name
 kamelot 'kamIl0t
 katarra k@'tA@@
 kerala k3'0l@ //kerala india
-kenopensky kEn@p'Enski
 keurig  'kjU@Ig
-kinda k'aInd@
 kudos 'ku:doUz
 labesia lI#b'i:S@
-latelle la#'t2El
-laundress lO:ndr@s
 leane li:'an $only
 leadfoot 'lEdfUt2
 leches  'lEtSe
-lelaine lI'leIn
 lemke l'Emki
 lenovo l@'noUvoU
-levelhead lEv@L||hEd //levelheaded, levelheadedness
 liandrin li:'andrIn
 librejs 'li:br@||dZeI'Es
 linus l'aIn@s
 lovehatetragedy l'Vv||h'eIt2||tr'adZI#t#i
 luhhan l'u:h0n
-luxuriant $2
 lynyrd l'In3d
-madisonville m'adIs@nvIl
-mariadb m3r'i:;@di:'bi:
 machera m@'Si@3@
 masema ma#'si:m@
 masuri m@'sU@i
 matanya m@'t0nj@
 measiled mi:z@Ld
 megaladon 'mEga#l@d0n
-melange m'El0ndZ
 melindhra m@'lIndr@
 mesaana $2
 Microsoft       maIkr@sOft
 mii m'i:
 mit $abbrev $allcaps
 monarch m'0nA@k
-//monarch's m'0nA@ks //not sure why it mispronounces this one
-Montréal m,0ntrI;'O:l
 moonshadow m'u:nSadoU
-mozelle moU'zEl
 mushz mVS||zi:
 nabisco na#'bIskoU
 naean neI'an
 nathrach nOTr0x
-navarro n@'vA@oU
 nemoy n'i:mOI
 nicola nI'koUl@ $only
 nissan 'ni:s0n
@@ -222,15 +179,12 @@ norelco no@'ElkoU
 obamacare oU'b0ma#||ke@
 (obi wan kenobi) 'oUbi||'w0n||k@'noUbi
 obnoxious @bn'0kS@s
-offhandedly 'OfhandI#dli
-olson 'oUls@n
 openbsd 'oUp@n||bi:||Es||d'i:
 openjdk 'oUp@n||dZeIdi:'keI
 openssh 'oUp@n|EsEs'eItS
 openssl 'oUp@n|EsEs'El
 openvpn oUp@nvi:pi:'En
 OSes oU'EsI#z
-ouya 'u:j@
 panopticon pan'0ptIk0n
 pantera pan't2e@@
 parabolagnulinux p3'ab@l@|g@n'u:|l'InVks
@@ -239,11 +193,8 @@ pharmacokinetic fA@m@koUkI'nEt#Ik
 phytell faIt'El
 pikachu 'pi:k@tSu:
 pinette pIn'Et
-quadrupedal $3
 rabinal r0bin'0l
 ragan r'eIg@n //misspell
-rahad r@'h0d
-rajabi r@'h0bi
 rangy r'eIndZi
 raprochment raproUSmA~
 raskovni r@'sk0vni
@@ -251,12 +202,9 @@ ratel r@t'El //system76 desktop computer
 reacquaint ri:@kw'eInt
 reas r'eI@s $only
 redarm r'EdA@m
-reelect ri:I'lEkt
-referential rEf3'EnS@L
 refuse r'Efju:s $only $noun
 reineke r'aInIki
 reinish r'aInIS
-rhuarc ru:'A@k
 riddell $2
 robichaud r'oUbI#SoU
 rochet r0'SeI
@@ -267,13 +215,10 @@ salve 'sav
 sanche s'0ntSeI
 sansabelt s'anz@bElt
 saroiya s3'OIj@
-seaine si:eIn
-selucia sI#'lu:S@
 setalle sI#'t2al
 seagram si:gr@m
 seonid  s'eI@nI#d
 shaman S'0m@n
-sheepherder 'Si:ph3-d3
 sheraton 'SEr@t2@n
 sigil sIdZ@L
 cigil sIdZ@L //misspelled
@@ -282,9 +227,6 @@ skynyrd sk'In3d
 slough 'slVf
 smileage smaIlIdZ $1
 solomon 's0l@m@n
-stableyard st'eIb@LjA@d
-standardbearer 'stand3dbe@3
-strangeness str'eIndZn@s
 somersault s'Vm3s0lt2
 sophia soU'fi:@
 soundrts s'aUnd||A@t2i:'Es
@@ -302,32 +244,25 @@ tallanvor t'0l@nvo@
 technosedan tEknoUsI2d'an
 telekinetic t,ElI2k@n'Et#Ik
 telemarketer t'ElI2m,A@kI#t#3
-tenderize t2'End3aIz
 taquito t@k'i:toU
 thaumatergy T'O:ma#t23dZi
 tiana ti:'0n@
-topknot t'0pn0t
 tosha 't20S@
 travolta tr@'voUlt@
 trianna tri:'0n@
 ukranian ju:'kreIni@n
-upriver 'VprIv3
-usurpation $3
 vaporware 'veIp3we@
 vasocongestion vas@k@ndZ'EstS@n
 Verde 've@deI $capital
 wassanasong wa#'s0n@s0n
 wendall w'End@L
-webrtc w'EbA@t2i:'si:
 wereanimal 'we@,anIm@L
 whatis wVt2'Iz
 whazzoo w0'zu:
 whereis we@'Iz
-wholeheartedly h'oUlhA@t#I#dli
 whoown hu:||'oUn $onlys
 winetricks w'aIntrIks
 wigwam w'Igw0m
-woodgnarl w'UdnA@l
 zepole 'zEp@li
 kramisha kr@'mi:S@
 leprechaun 'lEprI#k0n
