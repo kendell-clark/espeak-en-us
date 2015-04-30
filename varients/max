@@ -1,5 +1,19 @@
+name english-us
+language en-us 2
+language en-r
+language en 3
+gender male
+
+phonemes en-us
+dictrules 3 6
+option reduce_t 1
+
+stressLength 140 120 190 170 0 0 255 300
+stressAmp  17 16  19 19  19 19  21 19
+
+replace 03 I  i
+replace 03 I2 i
 language variant
-name Max
 
 formant 0 90 120 100
 formant 1 100 100 75
