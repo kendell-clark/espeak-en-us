@@ -30,8 +30,8 @@ sudo cp voices/intonations /usr/share/espeak-data/
 sudo cp voices/en-kng /usr/share/espeak-data/voices/
 # Temperary, make voices based on all varients for speech-dispatcher.
 en="$(cat /usr/share/espeak-data/voices/en-us | sed '/^name english-us$/d')"
-for i in /usr/share/espeak-data/voices/\!v/* ; do
-name="$(grep "^name" "$i" | cut -d " " -f2 | tr -d "[:punct:][:cntrl:]")"
+for i in varients/* ; do
+name="$(grep "^name" "$i" | cut -d " " -f2 | tr -d "[:punct:][:cntrl:][:space:]")"
 glish="$(cat "$i")"
 if [ ! -f "/usr/share/espeak-data/voices/${name,,}" ]; then
 echo -e "${en}\n${glish}" > ${name,,}
