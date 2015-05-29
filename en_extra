@@ -2,6 +2,7 @@
 //exceptions to the glottal stop rules
 felten f'Elt2@n
 //abbreviations
+copd $abbrev
 udma $abbrev
 isdn $abbrev $only
 mua $abbrev $only
@@ -163,6 +164,7 @@ elsevier El,sEvI;'eI
 elyas Il'aI@s
 emacspeak 'i:makspi:k
 eminence EmI'n0ns
+emphysema Emf@'si:m@
 evelyn 'EvI#lIn
 fedoraproject fI'do@@||'pr0dZEkt
 fixedly f'IksIdli
