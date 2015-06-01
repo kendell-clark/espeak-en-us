@@ -2,6 +2,7 @@
 //exceptions to the glottal stop rules
 felten f'Elt2@n
 //abbreviations
+ecpa $abbrev $only
 copd $abbrev
 udma $abbrev
 isdn $abbrev $only
