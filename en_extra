@@ -2,7 +2,7 @@
 //exceptions to the glottal stop rules
 felten f'Elt2@n
 //abbreviations
-uhd $abbrev $only
+uhd $abbrev 
 tgif $abbrev
 ecpa $abbrev $only
 copd $abbrev
