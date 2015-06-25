@@ -2,6 +2,7 @@
 //exceptions to the glottal stop rules
 felten f'Elt2@n
 //abbreviations
+uhd $abbrev $only
 tgif $abbrev
 ecpa $abbrev $only
 copd $abbrev
@@ -276,7 +277,8 @@ innerpants 'In3||'pants
 intl  ,Int3n'aS@-n@L  $abbrev
 isac 'aIz@k
 ishamael IS0meI'El
-iv $abbrev jacoby dZa#k'oUbi
+iv $abbrev
+jacoby dZa#k'oUbi
 jamboree dZamb3:i:
 janina  dZ@'ni:n@ //name
 joachim hw0'ki:m//name
