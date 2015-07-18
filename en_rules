@@ -6918,12 +6918,11 @@ contin) u          ju:
 
 
 // default group for "non of the above"
-
 .group
 
 // non-ascii characters with specified pronunciations
 // List the accented characters in en_list with the $accent attribute
-        á (X       'A:
+á (X       'A:
         à          a
         é          eI
         é (X       'eI
@@ -6957,6 +6956,8 @@ contin) u          ju:
         !          _:Ekskl@meIS@n_:
         ! (\! 
         :          koUl@n
+//        ?3 #) (_D_ n'Vmb3
+//    D_) : (_00_    _@'kl0k_
     D_) : (_DD_              // omit colon in time, eg: 2:30
         $          d0l3
         !=         n0ti:kw@Lz
