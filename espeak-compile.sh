@@ -10,7 +10,7 @@ fi
 git pull
 
 #make sure all required files are present
-if [ ! -f "en_extra" -o ! -f "en_list" -o ! -f "en_rules" ] ; then
+if [ ! -f "en_extra" -o ! -f "en_list" -o ! -f "en_rules" -o ! -f "en_listx" ] ; then
 echo "Missing files, exiting."
 exit 1
 fi
