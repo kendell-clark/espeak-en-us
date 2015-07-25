@@ -2,6 +2,7 @@
 //exceptions to the glottal stop rules
 felten f'Elt2@n
 //abbreviations
+yasr $abbrev
 obgyn $abbrev
 ob-gyn $abbrev
 idt $abbrev
@@ -434,9 +435,11 @@ lenovo l@'noUvoU
 les _^_FR $only
 lestrange l@'strA~nZ
 liandrin li:'andrIn
+//liberace lIb3'0tSi
 libespeak l'Ib||'i:spi:k
 librejs 'li:br@||dZeI'Es
 licorice l'ik3Is
+//liferea 'laIfreI
 lighttable l'aI?-t2eIb@L
 linette lIn'Et2
 linus l'aIn@s
@@ -576,8 +579,9 @@ prideaux prI'doU
 priestesshood pr'i:stIshUd
 probity pr'oUbIt#i $only //probity probe
 problemo pr0'bleImoU
-protégée pr'oUt@ZeI
 prosthesis pr0sT'i:sIs
+protégée pr'oUt@ZeI
+//protools proUt2u:lz
 pseudonymous su:'d0nIm@s
 p'tit p@ti: $only //attempt
 pureblood p'jU@blVd
