@@ -2,6 +2,7 @@
 //exceptions to the glottal stop rules
 felten f'Elt2@n
 //abbreviations
+udf $abbrev
 hevc $abbrev
 yasr $abbrev
 obgyn $abbrev
