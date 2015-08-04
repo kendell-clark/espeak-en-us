@@ -2,6 +2,7 @@
 //exceptions to the glottal stop rules
 felten f'Elt2@n
 //abbreviations
+amdgpu $abbrev
 udf $abbrev
 hevc $abbrev
 yasr $abbrev
