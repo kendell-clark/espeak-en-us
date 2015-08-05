@@ -2,6 +2,7 @@
 //exceptions to the glottal stop rules
 felten f'Elt2@n
 //abbreviations
+aur $abbrev
 amdgpu $abbrev
 udf $abbrev
 hevc $abbrev
@@ -122,6 +123,7 @@ beatin b'i:?n- $only
 beau'iful bju:?If@L
 beaucoup boU'ku:
 bedevile bId'Ev@L
+//behemoth bI'hi:m@T
 bejesus bI'dZi:z@s
 bellatrix b'El@trIks
 beneficent bIn'EfIs@nt
@@ -172,6 +174,7 @@ caleb k'eIl@b
 calendar k'al@nd3 //no idea how this one broke
 calhoun kal'hu:n
 calzone kal'zoUn
+camaro k@'me@oU
 canaan k'eIn@n
 cannoli k@n'oUli
 capisce ka#'pi:S
@@ -276,6 +279,7 @@ derick d'ErIk
 deserial di:s'i@rI2;@L
 deserialization di:si@rI2;@l,Iz'eIS@n
 desultory d'Es@Lto@i
+despot  'dEsp@t
 detaches dI2t'atSIz
 deux _^_FR $only
 deven d'Ev@n
@@ -451,6 +455,7 @@ leane li:'an $only
 leadfoot 'lEdfUt2
 leclerq l@'kle@
 lemke l'Emki
+lenobia l@'noUbi@
 lenovo l@'noUvoU
 lestrange l@'strA~nZ
 liandrin li:'andrIn
