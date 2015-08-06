@@ -1,5 +1,6 @@
 //espeak mispronunciations
 //abbreviations
+rotc $abbrev
 ied $abbrev
 eti $abbrev //eti technologies
 aur $abbrev
