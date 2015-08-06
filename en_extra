@@ -1,6 +1,4 @@
 //espeak mispronunciations
-//exceptions to the glottal stop rules
-felten f'Elt2@n //name
 //abbreviations
 eti $abbrev //eti technologies
 aur $abbrev
@@ -51,51 +49,263 @@ aacs $abbrev
 aclu $abbrev
 accc $abbrev $allcaps
 //names
-//normal words
-aaa tr'Ip@L||'eI $only
-abashedly a#b'aSIdli
 aber 'eIb3 $onlys //name
 adelin 'ad@lIn //name
-adema a#d'i:m@
 adriane eIdri'an //name
-(à la) '0l@
-abram 'eIbr@m $onlys
-ach 'ak $only
 adelita adI#'li:t#@ //name
 adelorna adI#'lo@n@ //name
 adlai 'adli //name
+alicen 'alIs@n //name
+aleecia a#'li:S@ //name
+alejandro alIh'0ndroU //name
+alida a#l'i:d@ //name
+alcide al'si:d //name
+amys 0'mi:s //name 
+annoura a#'nU@@ //name
+antoine 'antw0n //name
+appius 'api@s //name
+archaniz A@k'eInIz //name
+arrington 'arINt2@n //name
+arturo A@'t2U@oU //name
+aslo 'azloU //name
+asman 'azm@n $only //name
+bacchetti b@'SEti //name
+ballimore $1 //name
+baruch b'A:rRu:tS //name
+bashere b0'Si@3 //name
+basim b0'si:m //name
+bayrd b'e@d //name
+bellatrix b'El@trIks //name
+benelli bIn'Eli //name, also a type of shotgun
+bernice b3:'ni:s //name
+bertain 'b3?n- //name
+beyonce bi;'0nseI //name
+beslan b'Esl0n $onlys //name
+bianco bI;'A:NkoU //name
+bingaman bIN@m@n $1 //name
+bhartiya bA@'t2i:@ //name
+birgitte be@'gi:t2@ //name
+bolcke boULk //name
+bouhe b'u:a# //name
+breandan br'EndO:n //name
+breane bri:'an //name
+brouhard br'oUhA@d //name
+bryne 'brIn //name
+burnham b'3n@m //name
+cabot k'ab@t //name
+caden k'eId@n //name
+caleb k'eIl@b //name
+canaan k'eIn@n //name
+carelle kA@'El@ //name
+carlos carlose $text //name
+Cataliades k@t2'ali;@di:z //name
+charlaine SA@'leIn //name
+Chávez tS'0vEz //name
+chiad 'tSi:0d //name
+claudine $2 //name
+clarice kl3:'i:s //name
+cleborn 'kli:b3n //name
+clovache kl'oUv0S //name
+cojiro koU'hi@roU //name
+connally k'0n@li //name
+corinna k3:r'i:n@ //name
+cote k@'t2eI $only //name
+craselsky kr@s'Elski //name
+davoli d@v'oUli //name
+dauterive 'doUtri:v //name 
+degas d'eIg0 //another painter //name
+degeneres  dI'dZEn3@s //name
+degges d'Egi:z //name
+delacour dEl@'kU@ //name
+derick d'ErIk //name
+deven d'Ev@n //name
+Díaz d'i:az //name
+Diaz d'i:az //name
+donalson d'0n@Ls@n //name
+dotschy d'oUtSi //name
+dove d'Vv $capital $only //name
+dradon 'dreId@n //name
+duvalier du:v0l'jeI //name
+edelman Ed@Lm@n $1 //name
+egwene I'gweIn //name
+eleanor 'El@no@ //name
+eli 'Eli $only //name
+ellis  'ElIs //name
+elyas Il'aI@s //name
+emanuel Im'anju:El //name
+emo i:moU $onlys //name
+evelyn 'EvI#lIn //name
+felten f'Elt2@n //name
+FERREIRA f3:'e@@
+firenze fi@r'EnzeI //name
+floersheimer fl'aU3zhaIm3 //name
+gaebril g'eIbr@L //name
+giacci gi:'0tSi //name
+gianes gaI'anIs //name
+giannarelli dZi;0n3'Eli //name
+giulia julia $text //name
+gobi g'oUbi //name
+graendal gr'End@L //name
+grinogion grIn'oUgI@n //name
+gutier gu:t2i'eI //name
+haden h'eId@n //name
+huseby hju:zbi $1 //name
+hussein hu:s'eIn //name
+immanuel Im'anju:El //name
+iona aI;'oUn@ //name
+isac 'aIz@k //name
+ishamael IS0meI'El //name
+jacoby dZa#k'oUbi //name
+janina  dZ@'ni:n@ //name //name
+joachim hw0'ki:m//name
+johan 'joUh0n //name
+Jean 'ZA~n $capital $only //name
+johannes joU'h0nIs //name
+judea dZu:d'i:@ //name
+julianna dZu:li'0@ //name
+kallisto k@lIstoU //name
+kalus k'eIl@s //name
+kazul k@'zu:l //name
+kasim k0'si:m //name
+Katharine catherine $text //name
+kobe k'oUbi $onlys //name
+kraselsky kr@s'Elski //name
+kramisha kr@'mi:S@ //name
+labesia lI#b'i:S@ //name
+ladue l@'du: //name
+lajoie l@'Zw0 //name
+lattesta l@'t2Est@ //name
+leane li:'an $only //name
+leclerq l@'kle@ //name
+lemke l'Emki //name
+lenobia l@'noUbi@ //name
+lestrange l@'strA~nZ //name
+liandrin li:'andrIn //name
+linette lIn'Et2 //name
+linus l'aIn@s //name
+lorena l3:'eIn@ //name
+louis l'u:Is $only //name
+ludewig l'VdwIg //name
+luhhan l'u:h0n //name
+luther l'u:T3 //name
+lynyrd l'In3d //name
+machera m@'SI@r@ //name
+mahmud m0Xm'u:d //name //first attempt, arabic?
+malfoy $1 //name
+Martìnez mA@'t2i:nEz //name
+masema ma#'si:m@ //name
+masuri m@'sU@i //name
+maurice mO@'i:s //name
+maxime maksi:m //name
+mccullough m@kVl@ //name
+mcgonagall m@g'0n@g@L //name
+melindhra $alt3 //name
+mesaana $2 //name
+meyer m'aI3 //name
+molnar m'oUln3 //name
+MOLNÁR m'oUln3 //name
+mohrenschildt 'mo@@nSild //name
+muchiri mu:tS'i@3i //name
+mustapha mu:'st0f@ //name
+myrna m'3n@ //name
+naean neI'an //name
+NALYWAJKO n0l@'waIkoU //name
+narcissus $2 //name
+natalia n@t2'0li@ //name
+nemoy n'i:mOI //name
+nicola nI'koUl@ $only //name
+nikolaos n'IkoUlaU //name
+(obi wan kenobi) 'oUbi||'w0n||k@'noUbi //name
+ocella oUk'El@ //name
+ortega O@'t2eIg@ //name
+pardee $2 //name
+phyllis f'IlIs //name
+phytell faIt'El //name
+pinette pIn'Et
+poulin 'paUlIn //name
+powell p'aUL //name
+prideaux prI'doU //name
+rabinal r0bin'0l //name
+ragan r'eIg@n //name //misspell
+ranel ra#'nEl $onlys //name
+raskovni r@'sk0vni //name
+rasul r0'su:l //name
+reas r'eI@s $only //name
+reba ri:b@ $only //name
+remy r'i:mi //name
+rene r@n'eI //name
+rexford r'Eksf3d //name
+rhiannon ri'0n@n //name
+riddell $2 //name
+roberto roU'be@t2oU //name
+robichaud r'oUbI#SoU //name
+rodolphus r@'d0lf@s //name
+rondinelly r0ndI#n'Eli //name
+rosanne roU'zan //name
+rourke r'o@k //name
+russo r'u:soU //name
+ruttledge r'Vt2lIdZ //name
+saddam s@'d0m //name
+sanche s'0ntSeI //name
+saroiya s3'OIj@ //name
+scrimgeour 'skrImdZaU@ //name
+setalle sI#'t2al //name
+seonid  s'eI@nI#d //name
+sigebert s'i:@be@t //name
+silvester $2 //name
+siuan sw0n //name
+skynyrd sk'In3d //name
+solomon 's0l@m@n //name
+sophia soU'fi:@ //name
+spongebob 'spVndZb0b //name
+stasia st2'eIZ@ //name
+stephenie st'Ef@ni //name
+stevenson st'i:v@ns@n //name
+suroth s'U@0T //name
+sylvester $2 //name
+szeliga S@'lIg@ //name //crude attempt
+taboada ta#'boUda# //name
+talmanes t0l'm0nI#s //name
+tallanvor t'0l@nvo@ //name
+tami t2'ami //name
+tiana ti:'0n@ //name
+tischhauser t'IShaUz3 //name
+tosha 't20S@ //name
+travolta tr@'voUlt@ //name
+trianna tri:'0n@ //name
+viveca vI'vEk@ //name
+wassanasong wa#'s0n@s0n //name
+watanabe w0t2@n'0bi //name
+weasley wi:zli //name
+wendall w'End@L //name
+whitaker w'It@k3 //name
+wybert w'aIbe@t //name
+yolanda joU'l0nd@ //name
+zacharias zak@r'aI@s //name
+//normal words
+aaa tr'Ip@L||'eI $only
+abashedly a#b'aSIdli
+adema a#d'i:m@
+(à la) '0l@
+abram 'eIbr@m $onlys
+ach 'ak $only
 aesthetic a#s'TEt#Ik
 akademy  a#k'ad@mi //misspelling of academy, found on the kde.org website
 allegedly a#lEdZI#dli
 alestorm 'eIlstO@m
 algae 'aldZi:
-alicen 'alIs@n //name
-aleecia a#'li:S@ //name
-alejandro alIh'0ndroU //name
-alida a#l'i:d@ //name
 aliev a#'li:v
-alcide al'si:d //name
 americanize a#m'ErIk@naIz
 ami 0'mi: $onlys
-amys 0'mi:s //name 
 amaeture 'amItS3
 (amon amarth) a#'m0n||a#'mA@T
 analagous a#n'al@g@s
-annoura a#'nU@@ //name
-antoine 'antw0n //name
-antorell 'ant3El
-appius 'api@s //name
 applique 'aplIkeI
 appliqué 'aplIkeI
 appliquéd 'aplIkeId
 archais 'A@tSeIs
-archaniz A@k'eInIz //name
-arrington 'arINt2@n //name
 articulate  A@t'IkjUl,@t $verb $only
-arturo A@'t2U@oU //name
 asiago 0si:'0goU
-aslo 'azloU //name
-asman 'azm@n $only //name
 atari a#'tA@i//attribute @trIbju:t $2 $nounf
 atreyu a#'treIu:
 //attribute  a#'trIbju:t $verb $onlys
@@ -108,91 +318,60 @@ axehandle 'akshand@L
 augusta a#'gVst@
 avira a#'vi@r@
 azore 'eIzo@ $onlys
-bacchetti b@'SEti //name
 bagle b'eIg@L
 bakersfield b'eIk3zfi:ld
-ballimore $1 //name
 barrette b3:'eI
 barroom b'A@||ru:m $onlys
-baruch b'A:rRu:tS //name
-bashere b0'Si@3 //name
-basim b0'si:m //name
 bassline b'eIslaIn
 bassdrum b'eIsdrVm
 basshunter b'eIshVnt23
 batista ba#'ti:st@
-bayrd b'e@d //name
 beatin b'i:?n- $only
 beau'iful bju:?If@L
 beaucoup boU'ku:
 bedevile bId'Ev@L
 behemoth bI'hi:m@T
 bejesus bI'dZi:z@s
-bellatrix b'El@trIks //name
 beneficent bIn'EfIs@nt
-benelli bIn'Eli //name, also a type of shotgun
-bernice b3:'ni:s //name
-bertain 'b3?n- //name
-beyonce bi;'0nseI //name
 benz b'Enz
-beslan b'Esl0n $onlys //name
 bezoar bi:zo@
-bianco bI;'A:NkoU //name
 (bichon frise) bi:'Z0nfri:'zeI
-bingaman bIN@m@n $1 //name
-bhartiya bA@'t2i:@ //name
-bianchi bi:'0nki //strange name, sounds italian.
 bileberry b'aIlbEri
-birgitte be@'gi:t2@ //name
 biscayne bIs'keIn //old car by chevy
 biteme b'aIt2mi: //some sort of fly?
 blahblahblah bl0||bl0||bl0 $only
 blessedly bl'EsIdli
 blindmice 'blaInd||m'aIs
 bloodred bl'Vd||r'Ed
-bolcke boULk //name
 boise b'OIzi 
 (bon temps) bA~nt'A~ //town in louisiana
 //bossier b'oUZ3 //bossier city
 bossier boUsi:'eI //bossier city
-bouhe b'u:a# //name
 bozone boUzoUn
-breandan br'EndO:n //name
-breane bri:'an //name
 brooches br'oUtSIz
-brouhard br'oUhA@d //name
 bronchitis  br0nk'aIt#Is
-bryne 'brIn //name
 butchs b'UtSIz //either a misspell or bad grammar
 bullseye b'Ulz||aI
 bulova bju:l'oUv@
-burnham b'3n@m //name
 butte b'ju:t
 c'mere k@m'i@3 $only
 cabello k@'bEloU //town in puerto rico
-cabot k'ab@t //name
-caden k'eId@n //name
 Cádiz k@'di:z
 calamares kal@m'A@Ez //distribution agnostic installer
-caleb k'eIl@b //name
 calendar k'al@nd3 //no idea how this one broke
 calhoun kal'hu:n
 calzone kal'zoUn
 camaro k@'me@oU
-canaan k'eIn@n //name
 cannoli k@n'oUli
 capisce ka#'pi:S
-cardamom k'A@d@m@m
+cardamom k'A@d@mVm
 cardiology  k,A@dI2;'0l@dZi
 cardiologist  k,A@dI2;'0l@dZ,Ist
-carelle kA@'El@ //name
 carrera k@r'e@@
 caretake k'e@t2eIk
 caretaker k'e@t2eIk3
-carlos carlose $text //name
 carveout k'A@vaUt
 catahoula $3
-Cataliades k@t2'ali;@di:z //name
 catheter k'aT@t#3
 catheterize k'aT@t#3aIz
 cedega sI#'deIg@
@@ -200,12 +379,9 @@ celebate s'ElI#b@t
 chaloopa tS@l'u:p@
 chambray S'ambreI
 chaostitan k'eI0s||t'aI?n-
-charlaine SA@'leIn //name
 chartreuse SA@'tru:s
-Chávez tS'0vEz //name
 cheapie tSi:pi
 chenille SI#n'i:l
-chiad 'tSi:0d //name
 chiffon SI#f'0n
 chiparus 'tSIpr@s
 chiton k'aI?n- //attempt
@@ -213,15 +389,10 @@ chitonous k'aI?n-@s
 christmasland kr'Ism@s||land
 churchmice tS'3tSmaIs
 ciabatta tS@'b0t#@
-claudine $2 //name
-clarice kl3:'i:s //name
-cleborn 'kli:b3n //name
-clovache kl'oUv0S //name
 cocacola k'oUka#||k'oUl@
 cokacola k'oUka#||k'oUl@
 cochere koU'Se@
 cockleburr k'0k@Lb3:
-cojiro koU'hi@roU //name
 collegue k'0li:g
 collegial  k@l'i:dZ@L 
 comedown kVmdaUn //some kind of house?
@@ -241,8 +412,6 @@ coproduce koUpr@du:s
 corporatize k'O@p3@t2aIz
 corporatise k'O@p3@t2aIz
 corele k3'El
-corinna k3:r'i:n@
-cote k@'t2eI $only //name
 courgette kU@Z'Et
 councelor k'aUns@l3
 (coup d'état) ku:deI't20
@@ -253,7 +422,6 @@ counterfeit k'aUnt23fIt
 covenant k'Vv@n@nt
 christiansburg kr'IstS@nzb3g
 crappie kr'0pi //fish
-craselsky kr@s'Elski //name
 cravat kr@'vat
 cuisinart 'kwi:zI#nA@t
 curveball k'3vb,O:l
@@ -264,33 +432,23 @@ dancehall d'ans||h,O:l
 darktable d'A@kt2eIb@L
 dachshund d'aShaUnd
 daiquiri d'ak3:i
-davoli d@v'oUli //name
-dauterive 'doUtri:v //name 
 daylilies  d'eIlIliz
 decafalon dI#'kaf@l0n
 decal d'i:kal $onlys
 declasse dIklas'eI
 décor decor $text
 defamation dEf@m'eIS@n
-degas d'eIg0 //another painter //name
-degeneres  dI'dZEn3@s //name
-degges d'Egi:z //name
-delacour dEl@'kU@ //name
 demodulate di:m'0dZu:leIt
 demodulator di:m'0dZu:leIt#3
 demultiplex di:m'Vlt2IplEks
 dequeue di:'kju:
-derick d'ErIk //name
 deserial di:s'i@rI2;@L
 deserialization di:si@rI2;@l,Iz'eIS@n
 desultory d'Es@Lto@i
 despot  'dEsp@t
 detaches dI2t'atSIz
 deux _^_FR $only
-deven d'Ev@n //name
 devede dvd $text //misspell of dvd, a program for making video dvd's
-Díaz d'i:az //name
-Diaz d'i:az //name
 dictator d'Ikt2eIt#3
 digidestine d'IdZI||d'Est2In
 digimon d'IdZi,m0n
@@ -299,45 +457,31 @@ dinged d'INd
 discompose dIsk@m'poUz
 disnyland d'Izniland
 dison 'daIs@n
-donalson d'0n@Ls@n //name
 (dos equis) doUs'Ekis
-dotschy d'oUtSi //name
 dou d'oU $only
-dove d'Vv $capital $only //name
-dradon 'dreId@n //name
 drivin dr'aIvIn $only
 duluth d@'lu:T
-duvalier du:v0l'jeI //name
 eardrum 'i@3drVm
 eatin 'i:?n- $only
 ebtable i:b'i:||t2'eIb@L
 ecology Ik'0l@dZi
-edelman Ed@Lm@n $1 //name
 edubuntu Edu:b'u:nt2u:
 effectivity EfI#k't2IvI#t#i
 eggplant 'Egplant2
 egotistic i:goUt2'IstIk
-egwene I'gweIn //name
 elaborately  I#l'ab3r,@tli
-eleanor 'El@no@ //name
 electronix electronics $text
-eli 'Eli $only //name
-ellis  'ElIs //name
 ellision Il'IZ@n
 elongate $2
 elqaneve Elk@ni:v $1
 elsevier El,sEvI;'eI
-elyas Il'aI@s //name
 emacspeak 'i:makspi:k
 eminence EmI'n0ns
-emanuel Im'anju:El //name
-emo i:moU $onlys //name
 emphysema Emf@'si:m@
 enrages Enr'eIdZIz
 epoch Ep@k
 epochal Ep@k@L
 evanesce $2 $atend
-evelyn 'EvI#lIn //name
 xtra 'Ekstr@ //pib xtra
 Fabergé fab3:'ZeI
 faberge fab3:'ZeI
@@ -346,11 +490,8 @@ fairies'll  f'e@riz@L
 fakir f0'ki@3 
 fashionista faS@n'i:st@
 fedoraproject fI'do@@||'pr0dZEkt
-FERREIRA f3:'e@@
-firenze fi@r'EnzeI //name
 fixedly f'IksIdli
 floortile fl'o@t2aIl
-floersheimer fl'aU3zhaIm3 //name
 forlorn  $2
 foretaste f'O@t2eIst
 franchisee frantSaIzi: $3
@@ -361,30 +502,20 @@ funnypage f'VnipeIdZ //not sure why this one doesn't work.
 gabardine g'ab3di:n
 gamboled g'amb@Ld gareth g'A@@T
 gateau g@'t2oU
-gaebril g'eIbr@L //name
 geiger g'aIg3
 gigapet g'Ig@pEt2 $onlys
 gizeh g'i:z@
 gholam g'0l@m
-giacci gi:'0tSi //name
-gianes gaI'anIs //name
-giannarelli dZi;0n3'Eli //name
 gimbaled g'Imb@Ld
 //gimbaling g'Imb@LIN
-giulia julia $text //name
 glenlivet glEn'lIvIt
-gobi g'oUbi //name
 gobuntu goUb'u:nt2u:
 godson g'0dsVn
 gonagall g'0n@g@L $only //part of mcgonagall, but espeak mangles it when said on it's own, EG McGonagall
 gourd 'go@d
 grama gr'am@ $onlys
-graendal gr'End@L //name
-grinogion grIn'oUgI@n //name
 grooveyard gru:vjA@d
 guake gw'eIk
-gutier gu:t2i'eI //name
-haden h'eId@n //name
 hairstylist h'e@staIlIst
 hangared h'aNg3d
 happenstance h'ap@nstans
@@ -404,13 +535,10 @@ hotelier hoUt2@li:'eI
 huckleberry h'Vk@LbEri
 humanitarian  hj,u:manI2t'e@ri@n
 hungover h'VNoUv3
-huseby hju:zbi $1 //name
-hussein hu:s'eIn //name
 hydrocodon haIdroUk'oUd0n //pain medicine
 hydrocodine haIdroUk'oUdi:n //sleeping med, if it exists. It was in a book
 ick 'Ik
 iguana Igw'0n@
-immanuel Im'anju:El //name
 incant In'kant2
 inferi In'fi@raI
 innings 'InINz
@@ -418,100 +546,51 @@ innerpants 'In3||'pants
 intl  ,Int3n'aS@-n@L  $abbrev
 interr int2'3: //interred, interring
 internship $1
-iona aI;'oUn@ //name
 ionyc ionic $text
 iptable aIp'i:||t2'eIb@L
-isac 'aIz@k //name
-ishamael IS0meI'El //name
 israelite 'Izri:;@laIt2
 israelites 'Izri:;@laIt2s
 iv $abbrev
-jacoby dZa#k'oUbi //name
 jambalaya dZamb@l'aI@
 jamboree dZamb3:i:
-janina  dZ@'ni:n@ //name //name
-joachim hw0'ki:m//name
-johan 'joUh0n //name
-Jean 'ZA~n $capital $only //name
-johannes joU'h0nIs //name
-jorge's h'o@heIz //possessive form of name
 judea dZu:d'i:@ //name
-julianna dZu:li'0@ //name
 kahuna ka#'hu:n@
-kallisto k@lIstoU //name
-kalus k'eIl@s //name
 kameltaur k'am@Lto@//cross between a camel and a t rex, I think
 kamelot 'kamIl0t
 katarra k@'tA@@
-kazul k@'zu:l //name
 kerala k3'0l@ //kerala india
-kasim k0'si:m //name
-Katharine catherine $text //name
 keurig  'kjU@Ig
-kobe k'oUbi $onlys //name
 komongistan komongestan $text
 komongistani komongestani $text
-kraselsky kr@s'Elski //name
-kramisha kr@'mi:S@
 kudos 'ku:doUz
 kwon kw'0n $only
-labesia lI#b'i:S@ //name
-ladue l@'du: //name
-lajoie l@'Zw0 //name
-lattesta l@'t2Est@ //name
-leane li:'an $only //name
 //lead l'Ed $only $noun
 leadfoot 'lEdfUt2
-leclerq l@'kle@ //name
-lemke l'Emki //name
-lenobia l@'noUbi@ //name
 lenovo l@'noUvoU
-lestrange l@'strA~nZ //name
-liandrin li:'andrIn //name
 libespeak l'Ib||'i:spi:k
 liberace lIb3'0tSi
 librejs 'li:br@||dZeI'Es
 licorice l'ik3Is
 liferea 'laIfreI
 lighttable l'aIt2t2eIb@L
-linette lIn'Et2 //name
-linus l'aIn@s //name
-lorena l3:'eIn@ //name
-louis l'u:Is $only //name
 lousiana lu:zi'an@
 lovehatetragedy l'Vv||h'eIt2||tr'adZI#t#i
-ludewig l'VdwIg //name
-luhhan l'u:h0n //name
-luther l'u:T3 //name
 lynux l'InVks //misspelling of linux
-lynyrd l'In3d //name
-machera m@'SI@r@ //name
 macho m'0tSoU $only //macho man, macho men
 magnetohydrodynamic mag'nEt#oU||h'aIdroU||daIn'amIk
-mahmud m0Xm'u:d //name //first attempt, arabic?
 maintainance 'meInt@n@ns
-malfoy $1 //name
 malyshka m0l'i:Sk@ //sounds russian
 mamma m'0ma#
 markedly m'A@kIdli
 marmottan m'A:Rmo't2A~
-Martìnez mA@'t2i:nEz //name
 masema ma#'si:m@ //name
 massachussets masa#'tSu:sIt2s
 masseus m@'su:s
 masseuse m@'su:s
-masuri m@'sU@i //name
-maurice mO@'i:s //name
-maxime maksi:m //name
-mccullough m@kVl@ //name
-mcgonagall m@g'0n@g@L //name
 measiled mi:z@Ld
 megaladon 'mEga#l@d0n
-melindhra $alt3 //name
 menswear m'Enzwe@ $only
-mesaana $2 //name
 metastasize m@'t2astIsaIz
-meyer m'aI3 //name
 michelob m'Ik@loUb
 microbrewery m'aIkroU||br'u:3:i
 Microsoft       maIkr@sOft
@@ -522,31 +601,18 @@ minden m'Ind@n
 //minute maI'nu:t $2 $verb
 misrepresentation $5
 moduleset m'0dZu:lsEt2
-molnar m'oUln3 //name
-MOLNÁR m'oUln3 //name
-mohrenschildt 'mo@@nSild //name
 monarch m'0nA@k
 monopolism m@n'0p@lIz@m
 moonshadow m'u:nSadoU
 Mötley m'0tli
 msword 'Em||'Es||w'3:d $only
-muchiri mu:tS'i@3i //name
 muumuu mu:mu:
-mustapha mu:'st0f@ //name
 mushz mVS||zi:
-myrna m'3n@ //name
 nabisco na#'bIskoU
 nacho n'0tSoU  $onlys //nachos, nacho cheese
-naean neI'an //name
-NALYWAJKO n0l@'waIkoU //name
 nanigen 'nan@dZ@n //nanigen technologies
-narcissus $2 //name
-natalia n@t2'0li@ //name
 nathrach nOTr0x //band
 naturel n'atSU@al //attempt
-nemoy n'i:mOI //name
-nicola nI'koUl@ $only //name
-nikolaos n'IkoUlaU //name
 nietzsche's n'i:tS@z
 nissan 'ni:s0n
 nisura nI#'sU@@
@@ -556,11 +622,9 @@ novocaine n'oUv@keIn
 nutra n'u:tr@
 nyet nj'Et2
 obamacare oU'b0ma#||ke@
-(obi wan kenobi) 'oUbi||'w0n||k@'noUbi //name
 obnoxious @bn'0kS@s
 obsoleting 0bs@li:t#IN
 obsoleted 0bs@li:t#I#d
-ocella oUk'El@ //name
 od'd oU'di:d
 //openbsd 'oUp@n||bi:||Es||d'i:
 //openjdk 'oUp@n||dZeIdi:'keI
@@ -569,7 +633,6 @@ od'd oU'di:d
 //openvpn oUp@nvi:pi:'En
 orchestra 'o@kI#str@
 oregano o@'EgInoU
-ortega O@'t2eIg@ //name
 OSes oU'EsI#z
 ow aU $only
 pallbear p'O:Lbe@
@@ -578,7 +641,6 @@ panopticon pan'0ptIk0n
 pantera pan't2e@@
 panwere p'anwe@
 parabolagnulinux p3'ab@l@|g@n'u:|l'InVks
-pardee $2 //name
 pardonably pA@d@n@bli
 pardonable pA@d@n@b@L
 parolee p3'oUli:
@@ -590,10 +652,7 @@ pelvises p'ElvIsIz
 penne p'EneI //pasta
 pharmacokinetic fA@m@koUkI'nEt#Ik
 phoronix f3'0nIks //linux devotee website
-phyllis f'IlIs //name
-phytell faIt'El //name
 pikachu 'pi:k@tSu:
-pinette pIn'Et
 placard pl'ak3d
 plexiglas pl'Eksiglas
 po'd 'pi:||'oUd $only
@@ -603,13 +662,10 @@ portobello po@t#oUb'EloU
 postgraduate p'oUst||gr'adZu:@t
 postsecondary p'oUst||s'Ek@nde@-i
 potpourri poUp3:'i:
-poulin 'paUlIn //name
-powell p'aUL //name
 pruney pr'u:ni
 preauthorize pri:'O:T3aIz
 preauthorise pri:'O:T3aIz
 prego pr'eIgoU $onlys
-prideaux prI'doU //name
 priestesshood pr'i:stIshUd
 probity pr'oUbIt#i $only //probity probe
 problemo pr0'bleImoU
@@ -622,21 +678,14 @@ pureblood p'jU@blVd
 quasimodo kw0zi'moUdoU
 quesodilla keIs@'di:@
 qube kj'u:b //the company
-rabinal r0bin'0l //name
-ragan r'eIg@n //name //misspell
 raikjavik r'eIkj@vIk
 Reykjavík r'eIkj@vIk
-ranel ra#'nEl $onlys //name
 rangy r'eIndZi
 raprochment raproUSmA~
-raskovni r@'sk0vni //name
-rasul r0'su:l //name
 ratel r@t'El //system76 desktop computer
 rattail r'at2teIl
 reacquaint ri:@kw'eInt
 rearchitect ri:'A@kIt2Ekt
-reas r'eI@s $only //name
-reba ri:b@ $only //name
 recitation  rEsI2t'eIS@n
 redarm r'EdA@m
 refill ri:fIl $noun $onlys
@@ -645,44 +694,25 @@ Reggae r'Ege
 regicide r'EdZIsaId
 reinish r'aInIS
 reject r'i:dZEkt $noun $onlys
-remy r'i:mi //name
-rene r@n'eI //name
  reopening rI2;'oUp@nIN
 reorchestrate  rI2;'o@kI2str,eIt
 reverend r'Ev3@nd
-rexford r'Eksf3d //name
-rhiannon ri'0n@n //name
-riddell $2 //name
 rifleman r'aIf@Lm@n
 riyadh ri:'0d
-roberto roU'be@t2oU //name
-robichaud r'oUbI#SoU //name
 rochet r0'SeI
 rodel roUd'El $only
-rodolphus r@'d0lf@s //name
 rogaine r'oUgeIn
-rondinelly r0ndI#n'Eli //name
-rosanne roU'zan //name
-rourke r'o@k //name
-russo r'u:soU //name
-ruttledge r'Vt2lIdZ //name
-saddam s@'d0m //name
 salutory s'0lu:to@i
 salve 'sav
-sanche s'0ntSeI //name
 sansabelt s'anz@bElt
-saroiya s3'OIj@ //name
 saute sO:'t2eI
 sauteed sO:'t2eId
 savy s'avi
 scavenging sk'av@ndZIN
-scrimgeour 'skrImdZaU@ //name
-setalle sI#'t2al //name
 seagram si:gr@m
 seconded s'Ek@ndI#d
 senor _^_ES $onlys
 senora _^_ES $onlys
-seonid  s'eI@nI#d //name
 septuagenarian sEpt2u:a#dZIn'e@i@n
 sequined s'i:kwInd
 seventy s'Ev@nt2i
@@ -690,20 +720,15 @@ shaman S'0m@n
 sheraton 'SEr@t2@n
 (should have one) SUdh'avwVn $atend
 shrugfest 'SrVgfEst
-sigebert s'i:@be@t //name
 sigil sIdZ@L
 cigil sIdZ@L //misspelled
 sigmatel sIgm@t2El
-silvester $2 //name
-siuan sw0n //name
 skedaddle skId'ad@L
-skynyrd sk'In3d //name
 sleazebag sleezebag $text
 slideout sl'aIdaUt2 $onlys
 slough 'slVf
 smarthome smA@t2hoUm
 smileage smaIlIdZ $1
-solomon 's0l@m@n //name
 sonofabitch sVn||Vv|a#|b'ItS
 somersault s'Vm3s0lt2
 socioecology soUsI2;oUIk'0l@dZi
@@ -711,36 +736,24 @@ socioecological soUsI2;oUEk@'l0dZIk@L
 socioeconomical soUsI2;oUEk@'n0mIk@L
 socioeconomic soUsI2;oUEk@'n0mIk
 socioeconomy soUsI2;oUIk'0n@mi
-sophia soU'fi:@ //name
 soundrts s'aUnd||A@t2i:'Es
 speidel spaIdEl $2
-spongebob 'spVndZb0b //name
 stampeder stam'pi:d3
-stasia st2'eIZ@ //name
-stephenie st'Ef@ni //name
-stevenson st'i:v@ns@n //name
 straphandle 'straphand@L
 sudafed s'u:d@fEd
 subplan sVbplan
 subplatform s'VbplatfO@m
 subproperty sVbpr0p3ti
 sug 'SUg $onlys
-suroth s'U@0T //name
 svchost Esvi:si:'hoUst
 swathe sw'0T //misspelling of swath
-sylvester $2 //name
-szeliga S@'lIg@ //name //crude attempt
 tabac t@'b0k //misspelling of tobacco but pronounced differently
 tabernacle t'ab3nak@L
 tableau tab'loU
-taboada ta#'boUda# //name
 tae t2'aI $only
 takuro t@'kU@oU
 talkingarch t'O:kIN||'A@tS
 talon t'al@n
-talmanes t0l'm0nI#s //name
-tallanvor t'0l@nvo@ //name
-tami t2'ami //name
 tarot t2'aroU
 tawantinsuyu t@w0ntIn'saIju: //crude attempt
 technosedan tEknoUsI2d'an
@@ -752,13 +765,8 @@ taquito t@k'i:toU
 thaumatergy T'O:ma#t23dZi
 thingie T'INi
 thoroughgo T'VroUgoU
-tiana ti:'0n@ //name
 tipi 't2i:pi:
-tischhauser t'IShaUz3 //name
 titanaconda  $2
-tosha 't20S@ //name
-travolta tr@'voUlt@ //name
-trianna tri:'0n@ //name
 triennial traI'Eni;@l
 tristate traIsteIt $only
 turbocharge t'3boUtSA@dZ
@@ -779,11 +787,6 @@ Verde 've@deI $capital
 vigil v'IdZ@L
 vinaigrette vInI'grEt viognier vjO~n'jeI
 visine vaIzi:n
-viveca vI'vEk@ //name
-wassanasong wa#'s0n@s0n //name
-watanabe w0t2@n'0bi //name
-weasley wi:zli //name
-wendall w'End@L //name
 ///were w'e@ $noun $only
 ///weres w'e@z $only
 wereanimal 'we@,anIm@L
@@ -791,19 +794,14 @@ whatchado wVtS@'du: //whatchadoin, whatchadoing
 whatis wVt2'Iz
 whazzoo w0'zu:
 whereis we@'Iz
-whitaker w'It@k3 //name
 who'm hu:@m
 whoown hu:||'oUn $onlys
 winetricks w'aIntrIks
 wigwam w'Igw0m
-wybert w'aIbe@t //name
 wyrm w'3:m
 yarmulke jA:Rm'u:lke
 yech j'Ex
-yolanda joU'l0nd@ //name
 youkai j'u:kaI
 yucatan ju:ka#t0n
 yukon j'u:k0n //yukon river
-zacharias zak@r'aI@s //name
 zepole 'zEp@li
-
