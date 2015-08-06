@@ -2,6 +2,7 @@
 //exceptions to the glottal stop rules
 felten f'Elt2@n
 //abbreviations
+eti $abbrev //eti technologies
 aur $abbrev
 amdgpu $abbrev
 udf $abbrev
