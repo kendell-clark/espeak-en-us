@@ -1,5 +1,6 @@
 //espeak mispronunciations
 //abbreviations
+rov $abbrev $only
 auv $abbrev
 gsoc $abbrev
 rotc $abbrev
