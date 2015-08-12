@@ -1,5 +1,6 @@
 //espeak mispronunciations
 //abbreviations
+attn attention $text $only
 apk $abbrev
 rov $abbrev $only
 auv $abbrev
