@@ -1,5 +1,6 @@
 //espeak mispronunciations
 //abbreviations
+noaa $abbrev $allcaps
 attn attention $text $only
 apk $abbrev
 rov $abbrev $only
