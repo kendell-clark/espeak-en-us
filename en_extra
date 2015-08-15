@@ -1,5 +1,6 @@
 //espeak mispronunciations
 //abbreviations
+sas $abbrev $only
 noaa $abbrev $allcaps
 attn attention $text $only
 apk $abbrev
