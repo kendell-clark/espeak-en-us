@@ -5581,7 +5581,7 @@ although         0lD'oU		$pause
 and              and		$u $pause $only
 as               %az		$only
 (as is)          ,az,Iz		$pause
-(as it is)       ,azIt,Iz	$u+
+(as it is)       ,azIt,Iz	$u+ $pause
 because          bIkVz		$2 $pause
 once             		$pause
 or               O@		$u $pause $only
@@ -5707,7 +5707,7 @@ mobile		$alt2
 ?3 missile	mIs@L
 projectile	$alt2
 puerile		$alt2
-// senile		$alt2 ??
+// senile		$alt2 ???
 sterile		$alt2
 tensile		$alt2
 virile		$alt2
