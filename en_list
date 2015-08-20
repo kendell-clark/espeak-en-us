@@ -5393,6 +5393,7 @@ shouldn't        ,SUd@-nt	$verbf $strend2 $only
 (shouldn't have to) 'SUd@-ntavt@5	$verbf $strend2
 shalln't         ,SA:nt		$verbf $strend2
 shan't           ,SA:nt		$verbf $strend2
+?3 shan't           ,Sant		$verbf $strend2
 
 can              %kan		$verbf $only $strend2
 can't            kA:nt		$verbf $only $strend2
