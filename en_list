@@ -5404,7 +5404,7 @@ can't            kA:nt		$verbf $only $strend2
 could            %kUd		$verbf $strend2 $only
 (could have)     ,kUda#v	$pastf
 (could have)     kUdhav		$pastf $atend
-(could have)     kUd||hav		$verb 
+//(could have)     kUd||hav		$verb 
 (could have to)  kUdhavt@5	$u2 $verbf $strend2
 (could have it)  kUdh'avIt
 couldn't         ,kUd@-nt        $verbf $strend2
