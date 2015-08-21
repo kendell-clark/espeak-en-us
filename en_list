@@ -1050,7 +1050,7 @@ autopsy		O:t20psi
 avalanche	av@laanS
 avast		$alt3
 avatar		ava#tA@
-ave		A:veI
+ave		A:veI $only
 average		av@-rI2dZ
 awry		a#raI
 axes		aksI#z
@@ -1456,6 +1456,7 @@ commie		k0mI
 committee	k@mIti
 commonsense	k0m@ns'Ens
 communique	k@mju:nI2keI
+communiques	k@mju:nI2keIz
 community	k@mju:nI2ti
 compat		k@mpat                // for compatible
 competed	k@mp'i:tId
@@ -2184,7 +2185,6 @@ hopi		hoUpi:
 horizon		h@raIz@n
 horizontal	$3
 hormonal	ho@m'oUn@L
-(hors d'oeuvres) O@'d3:vz
 hospitable	h0sp'It@b@L
 hostage		h0stI2dZ
 hostess		hoUstEs
@@ -3612,6 +3612,7 @@ tetanus		tEt@n@s
 thereabout	$3
 therefore	$1
 thereof		De@r'0v
+?3 thereof		De@r'Vv
 thereto		De@t'u:
 thermos		T3:m@s
 thermostable	$alt1
@@ -3655,8 +3656,9 @@ torrential	t@rEnS@L
 tortilla	tO@t'i:a#
 total		toUt@L  // totaled
 totalitarian	toUt,alI2t'e@ri@n
-touche		tu:SeI        $only
-toupee		tu:peI
+touche		tu:'SeI        $only
+Touché tu:'SeI $only
+toupee		tu:'peI
 ?3 tourniquet	t3:nI#kI#t
 transcript	$1 $onlys
 transfer	$1 $onlys
@@ -4228,6 +4230,7 @@ Kiev		ki:Ef
 Kihei		$2
 Kilauea		ki:la#w'eI@
 Khmer		kmi@3
+Khmers		kmi@3z
 Khulna		kUln@
 Klamath		$alt2
 Kochi		koUtS'i:
@@ -4997,6 +5000,7 @@ Chrysler	kraIsl3
 Damocles	dam@kli:z
 (da vinci)	da#vIntSi
 Dante		dA:nt2eI
+Dantè dA:nt2eI
 ?3 Datsun	dA:ts@n
 Decatur		dI#keIt3
 Degas		deIgA:  $capital
@@ -5389,6 +5393,7 @@ shouldn't        ,SUd@-nt	$verbf $strend2 $only
 (shouldn't have to) 'SUd@-ntavt@5	$verbf $strend2
 shalln't         ,SA:nt		$verbf $strend2
 shan't           ,SA:nt		$verbf $strend2
+?3 shan't           ,Sant		$verbf $strend2
 
 can              %kan		$verbf $only $strend2
 can't            kA:nt		$verbf $only $strend2
@@ -5401,6 +5406,7 @@ can't            kA:nt		$verbf $only $strend2
 could            %kUd		$verbf $strend2 $only
 (could have)     ,kUda#v	$pastf
 (could have)     kUdhav		$pastf $atend
+//(could have)     kUd||hav		$verb 
 (could have to)  kUdhavt@5	$u2 $verbf $strend2
 (could have it)  kUdh'avIt
 couldn't         ,kUd@-nt        $verbf $strend2
@@ -5577,7 +5583,7 @@ although         0lD'oU		$pause
 and              and		$u $pause $only
 as               %az		$only
 (as is)          ,az,Iz		$pause
-(as it is)       ,azIt,Iz	$u+
+(as it is)       ,azIt,Iz	$u+ $pause
 because          bIkVz		$2 $pause
 once             		$pause
 or               O@		$u $pause $only
@@ -5681,8 +5687,6 @@ wherever	$text whereever
 
 
 an		a#2n           $nounf $only $u
-(a la)		,A#la
-(à la)		,A#la
 the		D@2           $only $nounf
 (a while)	a#||waIl      // no pause
 (the while)	D@2||waIl
@@ -5705,7 +5709,7 @@ mobile		$alt2
 ?3 missile	mIs@L
 projectile	$alt2
 puerile		$alt2
-// senile		$alt2 ??
+// senile		$alt2 ???
 sterile		$alt2
 tensile		$alt2
 virile		$alt2
