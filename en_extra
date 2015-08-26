@@ -1,5 +1,6 @@
 //espeak mispronunciations
 //abbreviations
+onr $abbrev
 lax $abbrev $allcaps $only
 usmc $abbrev
 sas $abbrev $only
