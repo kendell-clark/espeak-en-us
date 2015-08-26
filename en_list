@@ -741,8 +741,8 @@ st	$only
 mr	mIst3     $dot
 mrs	mIsI2z    $dot
 //ms               mIz         $dot
-dr.	d0kt3	$dot
-dr.	$abbrev $allcaps
+dr	d0kt3	$dot
+dr	$abbrev $allcaps
 lt	$dot
 prof	$dot
 rev	$dot
