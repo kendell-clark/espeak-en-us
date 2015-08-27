@@ -738,7 +738,7 @@ rd	$only
 th	$only
 st	$only
 
-mr	mIst3     $dot
+mr	mIst3     $dot $capital $only
 mrs	mIsI2z    $dot
 //ms               mIz         $dot
 dr	d0kt3	$dot
