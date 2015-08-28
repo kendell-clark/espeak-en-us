@@ -547,8 +547,8 @@ _60o	s'Iksti@
 _70o	s'Ev@nti@
 _80o	'eIti@
 _90o	n'aInti@
-//_0Co	h'Vndr@dT
-//_0M1o	T'aUz@ndT
+_0Co	h'Vndr@dT
+_0M1o	T'aUz@ndT
 
 
 // ABBREVIATIONS
@@ -947,6 +947,7 @@ antihero	$1
 antilog		$1
 antimatter	$1
 antimony	antIm@ni
+?3 antimony	antImoUni
 antioch		ant2i:0k
 antipathy	ant'Ip@Ti
 antiphonal	ant'If@n@L
@@ -961,6 +962,7 @@ anything	EnI2TIN
 apache		a#patSi
 aperitif	a#pEr@t'i:f
 apneoa		apni@
+apnoea		apni@
 apostle		a#p0s@L
 apron		eIpr@n
 apropos		apr@p'oU
