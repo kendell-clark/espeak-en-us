@@ -1,6 +1,7 @@
 //espeak mispronunciations
 //abbreviations
 et $abbrev $onlys
+ets i:'t2i:z $only
 otg $abbrev
 csotn $abbrev
 onr $abbrev
