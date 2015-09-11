@@ -740,7 +740,7 @@ st	$only
 mr	mIst3     $dot $capital $only
 mrs	mIsI2z    $dot
 //ms               mIz         $dot
-dr	d0kt3	$dot
+dr	d0kt3	$dot $only
 dr	$abbrev $allcaps
 jr dZ'u:nj3 $allcaps $dot $only
 lt	$dot
