@@ -1,5 +1,6 @@
 //espeak mispronunciations
 //abbreviations
+lbas El||bi:||'eIz
 acdc $abbrev
 et $abbrev $onlys
 ets i:'t2i:z $only
