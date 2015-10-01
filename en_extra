@@ -1,5 +1,6 @@
 //espeak mispronunciations
 //abbreviations
+upx $abbrev $only
 fslic $abbrev //federal savings and lone insurance corporation
 fdic $abbrev //federal deposit insurance corporation
 lbas El||bi:||'eIz
