@@ -6,7 +6,7 @@ fslic $abbrev //federal savings and lone insurance corporation
 fdic $abbrev //federal deposit insurance corporation
 lbas El||bi:||'eIz
 acdc $abbrev
-et $abbrev $onlys
+et $abbrev $onlys $allcaps
 ets i:'t2i:z $only
 otg $abbrev
 csotn $abbrev
