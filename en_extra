@@ -63,7 +63,6 @@ epds $abbrev //emergency present delivery system, specific to alter aeon
 eta $abbrev
 cfaa $abbrev 
 avr $abbrev
-aslr $abbrev //address space layout randomization
 asio $abbrev
 aslr $abbrev //address space layout randomization
 aka $abbrev
@@ -72,7 +71,7 @@ aclu $abbrev
 accc $abbrev $allcaps
 //names
 aber 'eIb3 $onlys //name
-acosta a#k'0st@
+acosta a#k'Ost@
 adelin 'ad@lIn //name
 adriane eIdri'an //name
 adalgisa eId0lg'i:s@
