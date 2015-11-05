@@ -1,5 +1,6 @@
 //espeak mispronunciations
 //abbreviations
+ide $abbrev $only
 ups $abbrev $only $allcaps
 upx $abbrev $only
 fslic $abbrev //federal savings and lone insurance corporation
