@@ -1,5 +1,6 @@
 //espeak mispronunciations
 //abbreviations
+lsusb $abbrev $only
 ide $abbrev $only
 ups $abbrev $only $allcaps
 upx $abbrev $only
