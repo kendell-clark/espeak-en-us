@@ -1,4 +1,5 @@
 
+
 // ***************************************************************************
 // *   Copyright (C) 2005 to 2014 by Jonathan Duddington                     *
 // *   email: jonsd@users.sourceforge.net                                    *
@@ -94,6 +95,7 @@
         aa         A:
     aa) aa         a:
         aa (a      a:
+ anya  '0nj@
         aar        'A@
      w) a (b       0
     gl) a (ci      eI
@@ -239,7 +241,7 @@
         abling     'eIblIN
         ably       eIblI
    _en) ab (l      'eIb
-//    XC) ab (le     eIb
+    XC) ab (le     eIb
    _un) ab (le     'eIb
   _dis) ab (le     'eIb
      t) ab (leau   ab
@@ -291,7 +293,8 @@
         ac (centu  %ak
         accessib   aks'Es@b
         acci (_    'A:tSi
-        ac (cid    ak
+//                accessib   a#ks'Es@b
+ac (cid    ak
         acc (ol    ak
         accou (t   a#ku:
         accu (ra   akjU
@@ -655,7 +658,7 @@
      _) alw        Olw
      _) al (v      al
      _) al (y      al
-        alz        alt|s
+//        alz        alt|s
      &) al (_      @L
 ?8   &) al (_      a#l
      @) ally (_S2  %i
@@ -1235,7 +1238,7 @@ calend) ar         3
      m) as (oni    as
    _g) astro       astroU#
      h) as (te     eIs
-     p) as (te_    eIs
+p) as (te_    eIs
      t) as (t      eIs
      t) as (te#    eIs
     nt) as (t      as
@@ -1411,6 +1414,7 @@ _it_separ) ate (_  @t
 .group b
         b          b
      _) bh (@      b
+     _) b's (_     'bi:z
      _) b (L01Y    b         // allow _bl _br
      _) bj (A      bj
      _) brz (e     brz
@@ -1546,9 +1550,9 @@ _it_separ) ate (_  @t
 .group c
         c          k
      _) c (L01Y    k         // allow _cl _cr
+     _) c's (_     si:z
      _) cz (ar     z
      _) cz (e      tS
-
         cc         k
         ck         k
         c (e       s
@@ -1597,6 +1601,7 @@ _it_separ) ate (_  @t
         c (ish     k
      _) crypt (a@P5 krIpt
      _) crypto (@  krIptoU#
+//     @) ctl (_    si:t2i:'El
      e) cua        kwa
      _) cu (o      kw
      _) cwm        kUm
@@ -1851,6 +1856,7 @@ _it_separ) ate (_  @t
 .group d
         d          d
      _) d (rY    d         // allow _dr
+     _) d's (_     di:z
      _) dj (Y      dZ
      _) d (nie     d
      _) d (wY      d         // allow _dw
@@ -1906,6 +1912,7 @@ _it_separ) ate (_  @t
         debu (g    di:b,V
      _) de (ba     dI2
      _) de (bil    dI#
+illi) de (gree dI
      _) de (c@     dI#
      _) deca (A    dEk@
      _) deca ((ff   d%i:ka
@@ -1932,6 +1939,7 @@ _it_separ) ate (_  @t
      _) de (fore   d%i:
      _) de (fragP2   d,i:
      _) de (ft     dE
+?3      _) de (fragP2   d,I
      _) de (g@     dI2
      _) de (hAP2   d,i:
      _) de (hyd    ,di:
@@ -2103,9 +2111,12 @@ _it_separ) ate (_  @t
 .group e
         e          E
      X) e ($w_alt6+++ i:
+     _) e's (_     'i:z
      X) e ($w_alt3++++ @
         e'er       e@
    &Cr) e's (_S2   z
+
+&) eaux's (_ oUz
     &C) e's (_S2i  z
     &c) e's (_S2i  Iz
     &f) e's (_S2i  s
@@ -2186,7 +2197,8 @@ _it_separ) ate (_  @t
         e (meou    i:
      &) e (mum_    =@
     _C) e (mur     i:
-    ll) e (nge     I
+//?3   &) ene (_    i:n
+ll) e (nge     I
         e (o       I2
     cr) e (pe+     E
      _) e (phem    %I
@@ -2204,6 +2216,7 @@ _it_separ) ate (_  @t
      _) equi (p    %IkwI
      _) equ (it@   Ekw
         equiv (@   %IkwIv
+ erope  Er@pi:
      h) e (sion_   'i:
      @) e (tio     i:
  discr) e (tion    E
@@ -3056,6 +3069,7 @@ _it_separ) ate (_  @t
 .group f
         f          f
      _) f (L01Y    f         // allow _fl _fr
+     _) f's (_     'Efs
      _) fj (ord    fI'
 
         f (f 
@@ -3065,16 +3079,20 @@ _it_separ) ate (_  @t
      _) fi (tz@    fI2
         for (bid   f3
         for (bad   f3
+        for (giv   f3
+        for (gav   f3
      &) ford (_S4  f3d
     &f) ford (_S4  3d
         for (see   f%O@
         for (ward  f'o@      // straightforward
+//     @) fs (_S4    Ef'Es //filesystems
         ft (en     f
      &) ful (_S3i  f@L
 
 .group g
         g          g
      _) g (L01Y    g
+     _) g's (_     'dZi:z
      _) gh (Y      g
      _) g (nY 
      _) g (wY      g
@@ -3082,6 +3100,7 @@ _it_separ) ate (_  @t
         gg         g
         g (e       dZ
      _) gaol       dZeIl
+garbage gA@bIdZ //garbageman, garbagemen
      _) g (ec      g
         ge (dd     g'E
         g (eek     g
@@ -3118,7 +3137,7 @@ _it_separ) ate (_  @t
     %A) g (er      g
         g (et      g
         g (ette_   dZ
-    ve) g (et      dZ
+ve) g (et      dZ
      o) g (et      dZ
     er) g (et      dZ
    for) ge (t      gE
@@ -3162,6 +3181,7 @@ _it_separ) ate (_  @t
 .group h
         h          h
         h (h 
+     _) h's (_     'eItSIz
         h (_ 
     _B) h 
      @) hammed     h'amId
@@ -3172,6 +3192,7 @@ _it_separ) ate (_  @t
      _) he'        %hi:
      &) head (_S4  hEd
      &) headed (_S6 hEdI#d
+&) heimer (_ haIm3 //suffix often used in names
         heir       e@
         hero       hi@roU
      _) hero (n    hEr@
@@ -3208,6 +3229,7 @@ _it_separ) ate (_  @t
 .group i
         i          I
         i (_       i
+     _) i's (_     'aIz
         i (_$w_alt1 aI
  ntell) i          I
      _) i'         %aI
@@ -4061,6 +4083,7 @@ _it_separ) ate (_  @t
 .group j
         j          dZ
         j (j 
+     _) j's (_     'dZeIz
      _) ja (mai    dZa#
         jager      jeIg3
      _) jere (C    dZEr@
@@ -4078,9 +4101,11 @@ _it_separ) ate (_  @t
         juan       w'A:n
      _) jung       jUN
      _) j (ungl+   dZ
+     _) jungly dZVngli
 
 .group k
         k          k
+     _) k's (_     keIz
         k (k 
      _) k (L01Y    k
      _) k (hY      k
@@ -4171,7 +4196,7 @@ multip) ly         laI
     %C) le (y_     l
     &r) le (_      l
         legged     lEgId
-//        Ab) le           @L
+        Ab) le           @L
      C) le (ton_   @L
     Ab) ler (_     l3
     Ab) le (B_     l@
@@ -4217,13 +4242,15 @@ multip) ly         laI
      _) mal (nP3   m,al
      _) mal (pP3   m,al
      _) mal (trP3  m,al
+mason m'eIs@n
 ?!3     mayor      me@
         mb (_      m
         mbly       mbl%I
      o) mb (e      m
    _bo) mb (K      m
    _du) mb (K      m
-     _) mc (C@P2   m@k
+_du) mba (K      ma
+        _) mc (C@P2   m@k
      _) mc (_C     m@k
      _) mc (_L05   m@        // c,g,k
      _) mc (L05@   m@
@@ -4241,6 +4268,7 @@ multip) ly         laI
 ?8   &) ment (_S4  mEnt
 ?8   &) ments (_S5 mEnt|s
         mEnt (_    m@nt
+metamorphos mEt#@'mo@f@s //metamorphosing, metamorphosed
    tor) me (nt+    m'E
      C) mented     m'EntId
         mEntary (_ m'Ent@r%i
@@ -4385,8 +4413,13 @@ multip) ly         laI
 .group o
         o          0
      _) o          0
+     _) o's (_     oUz
      X) o          0#
+<<<<<<< HEAD
 //    _h) o          0
+=======
+//    _h) ot          0t
+>>>>>>> parent of 38a5986... new en_rules and en_list files from reece dunn's espeak git repository.
      X) o ($w_alt3+++ %0#
      _) o' (P2     %oU       // prefix
         o'er       o@
@@ -5291,6 +5324,7 @@ multip) ly         laI
 .group p
         p          p
         p (p 
+     _) p's (_     pi:z
      _) p (L01Y    p         // allow _pl _pr
      _) pf (Y      f
      _) ph (Y      f
@@ -5545,12 +5579,11 @@ multip) ly         laI
    mes) qui (t     k'i:
     li) quor       k3
         quy        kwI
-
 .group r
         r          r
         rr         r
      _) rh (Y      r
-     _) rw (a      r%U
+//     _) rw (a      r%U
 
      r) r (_ 
         r (_N      3
@@ -5667,6 +5700,8 @@ multip) ly         laI
      _) re (mons   rE
      _) re (nC     rE
      _) re (natioP2 r,i:
+
+&) re (ne ri:
         re (nova   rE
      _) reper (t   rEp3
         repe (tit  rEp@
@@ -5861,7 +5896,8 @@ multip) ly         laI
 ?8      ssion (_   =SVn
     1_) st (_ 
      _) st (_      s@nt
-        stein      staIn
+        ?3      _) st (_      seInt
+stein      staIn
      i) st (en_    s
      _) s (u       s
      &) s (u_      =s
@@ -5894,6 +5930,7 @@ multip) ly         laI
     &c) s (_S1m    s
     &f) s (_S1m    s
     &k) s (_S1m    s
+//?3   &) sten (_     st2@n
     &p) s (_S1m    s
    &pe) s (_S1m    s
    &th) s (_S1m    s
@@ -5964,6 +6001,7 @@ multip) ly         laI
 .group t
         t          t
      t) t 
+     _) t's (_     ti:z
      _) t (rY      t
      _) t (sY      t
      _) t (wY      t
@@ -6340,7 +6378,6 @@ contin) u          ju:
      l) ue (nti    u:'E
         uer (t     we@
         ue (t      ju:@
-
 .group ui
      b) ui (l      I
      g) ui (lC     I
@@ -6512,7 +6549,7 @@ contin) u          ju:
 ?2   _) wh (Y      w#
      _) wr (Y      r
 
-     C) w (_       w@
+     C) w (_       w
      C) w (X       U         // Welsh names
         wh         w
 ?2      wh         w#
@@ -6574,6 +6611,7 @@ contin) u          ju:
 .group y
      _) y (_       waI
      -) y (-       @         // Welsh names
+     _) y's (_     waIz
         y          j
      _) y' (CP2    j@
         y (_$w_alt1++ aI
@@ -6622,7 +6660,8 @@ contin) u          ju:
      C) yin (_S2   In          
      c) y (lin     I
      c) y (r       I
-     @) yr (d_     3:
+//          @) yr      3:
+@) yr (d_     3:
     th) y (l_      aI
     fl) y          aI
     fl) y (n       I
@@ -6704,8 +6743,7 @@ contin) u          ju:
      _) z (lot     z
      _) zs (Y      z
      _) z (wY      z
-
-     n) z (_N      ts
+    n) z (_N      z
      @) zales (_   z'A:l@s
         zei        zaI
         zes (_     zI2z
@@ -6895,12 +6933,11 @@ contin) u          ju:
 
 
 // default group for "non of the above"
-
 .group
 
 // non-ascii characters with specified pronunciations
 // List the accented characters in en_list with the $accent attribute
-        á (X       'A:
+á (X       'A:
         à          a
         é          eI
         é (X       'eI
@@ -6909,11 +6946,11 @@ contin) u          ju:
         ée         i:
         ée (_      'eI
         ê          E:
-        ä          E
+        ä          eI
         ë          E
         ï          i:
         ó (n       '0
-        ö          3:
+        ö          oU
         ör         3:
         ü          u:
         û          u:
@@ -6925,7 +6962,7 @@ contin) u          ju:
         ž          Z
         þ          T
         ð          D
-//	ñ	nj
+	//ñ	nj
         ñ          _^_ES
 
      _) ʻ (A       ?         // arabic
@@ -6934,8 +6971,12 @@ contin) u          ju:
         !          _:Ekskl@meIS@n_:
         ! (\! 
         :          koUl@n
+//        ?3 #) (_D_ n'Vmb3
+//    D_) : (_00_    _@'kl0k
+//') em @m
     D_) : (_DD_              // omit colon in time, eg: 2:30
-        $          d0l3
+//            D_) : (_0D_ oU_             // two o six
+$          d0l3
         !=         n0ti:kw@Lz
         >=         greIt3O@i:kw@L
         <=         lEsO@i:kw@L
