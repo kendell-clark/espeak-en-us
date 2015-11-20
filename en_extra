@@ -1,5 +1,6 @@
 //espeak mispronunciations
 //abbreviations
+nyc $abbrev
 idk $abbrev $only
 lsusb  $abbrev $only
 ide $abbrev $only
@@ -1181,6 +1182,7 @@ lighttable l'aIt2t2eIb@L
 lionne li:'oUn $only
 logmein l'Og||m'i:||'In
 longbed l'0NbEd
+losin' l'u:zIn $only
 lousiana lu:zi'an@
 lousy l'aUzi
 lovehatetragedy l'Vv||h'eIt2||tr'adZI#t#i
