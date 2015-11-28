@@ -1,5 +1,6 @@
 //espeak mispronunciations
 //abbreviations
+otc $abbrev
 yia $abbrev $onlys
 icbms aIsi:bi:'Emz $only $allcaps
 nyc $abbrev
