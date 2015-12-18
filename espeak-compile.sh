@@ -30,7 +30,7 @@ sudo cp ./varients/* "/usr/share/espeak-data/voices/!v"
 #sudo cp voices/en-kng /usr/share/espeak-data/voices/
 #change to espeak directory and compile data
 cd /usr/share/espeak-data/
-sudo espeak --compile=en-us
+sudo espeak-ng --compile=en-us
 echo "files updated."
 serviceName="$(systemctl --no-pager --all | grep -E espeakup.*service | cut -d " " -f3)"
 if [ -n "$serviceName" ] ; then
