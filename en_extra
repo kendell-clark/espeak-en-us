@@ -538,6 +538,7 @@ Rhea r'i:@ $onlys
 rhiannon ri'0n@n //name
 riaz r'i:@z
 riddell $2 //name
+rlain rI#'leIn
 roberto roU'be@t2oU //name
 robicheau r'oUbI#SoU //name
 robichaud r'oUbI#SoU //name
@@ -628,6 +629,7 @@ tuleman t2'u:lm@n
 tussaud tu:'soU
 tyn t2'aIn $onlys
 Ushuaia u:'swaI;-@
+urithiru $2
 uther 'u:T3
 vachon v@'SO:n
 vasquez v'askEz
@@ -687,10 +689,13 @@ Américain a#'mErIkeIn
 americanize a#m'ErIk@naIz
 ami 0'mi: $onlys
 amaeture  amateur $text
-(amon amarth) a#'m0n||a#'mA@T
+amon a#'m0n
+amarth a#'mA@T
 amora a#m'o@a#-
 analagous a#n'al@g@s
 ángeles angeles $text
+angiograph   'aNdZI2;@graf
+angiography   ,aNdZI2;'0gr@fi
 anteroom 'ant2i:ru:m
 apeshit eIpSIt
 applique 'aplIkeI
@@ -719,6 +724,7 @@ audiovisual O:dI2;oUv'IZu:@L
 auror o@ro@:
 australis O:str'alIs
 avgas 'avgas $only
+awakening  a#w'eIk@nI2N
 axehandle 'akshand@L
 augusta a#'gVst@
 autofs O:t#oUEf'Es $only
@@ -1586,6 +1592,7 @@ scarab skar@b
 scavenging sk'av@ndZIN
 schadenfreude _^_DE
 seagram si:gr@m
+séance s'eI0ns
 seattleite  si:;'at#@LaIt
 seattleites  si:;'at#@LaIts
 seconded s'Ek@ndI#d
@@ -1653,6 +1660,7 @@ sublessee sVblEsi:
 subplan sVbplan
 subplatform s'VbplatfO@m
 subproperty sVbpr0p3ti
+subsidence sVb'saId@ns
 subsublease sVbsVbli:s
 subzero sVbz'i@roU
 sucret su:krEt
@@ -1775,6 +1783,8 @@ whitener  w'aIt_n3
 whosever hu:z'Ev3
 who'm hu:@m
 whoown hu:||'oUn $onlys
+whoring 'ho@IN
+whored  'ho@d
 wickeder w'IkI#d3
 wickedest w'IkI#dI#st
 wigwam w'Igw0m
@@ -1794,4 +1804,32 @@ zookeeper zu:ki:p3
 zsync zi:||sInk
 Zucchini zu:'ki:ni
 zwave 'zi:||w'eIv $onlys
+//digimon
+agnimon 'agnIm0n
+agumon '0gu:m0n
+agunimon a#'gu:nIm0n
+airdramon 'e@dr@m0n
+akatorimon 0k@'t2o@im0n
+aldamon 'O:ld@m0n
+allomon 'aloUm0n
+alphamon 'alf@m0n
+beetlemon  b'i:t#@Lm0n
+diablomon di:'0bloUm0n
+diaboromon daI;@'bo@@m0n
+dianamon di:'0n@m0n
+devidramon dI'vi:dr@m0n
+devimon d'Evim0n
+Devitamamon d'Evi:||'t20m@m0n
+digitamamon d'IdZi:||'t20m@m0n
+dinotigermon d'aInoU||t2'aIg3m0n
+dorugamon do@'u:g@m0n
+divermon d'aIv3m0n
+dorugoramon do@u:'go@@m0n
+garurumon g0'ru:ru:m0n
+greymon gr'eIm0n
+irismon 'aIrIsm0n
+scubamon sk'u:b@m0n
+sphinxmon sfINksm0n
+tamamon 't20m@m0n //root, part of other digimon names
+Tyrannomon t3r'0n@m0n
 
