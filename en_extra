@@ -128,6 +128,7 @@ asman 'azm@n $only //name
 asmodean az'moUdi-@n
 aston 'ast2@n
 atropos atr@poUs
+attanasio a?n'asi;oU
 attison at#Is@n
 avis eIvIs
 BACARISAS $3
@@ -173,6 +174,7 @@ bryne 'brIn //name
 beubelot _^_FR
 burnham b'3n@m //name
 busch b'US
+byrd b'3d
 byrnes b'3:nz
 cabot k'ab@t //name
 caden k'eId@n //name
@@ -229,6 +231,7 @@ Delahoussaye dEl@'hu:seI
 demetri dIm'Etri
 demandred d'i:m@ndrEd
 denham d'En@m
+denis d'EnI#s
 dereadt d'ErIt
 deric d'ErIk //name $onlys
 derick d'ErIk //name
@@ -310,10 +313,12 @@ graendal gr'End@L //name
 grinogion grIn'oUgI@n //name
 gretchen gr'EtS@n //name
 gulakah gu:'l0k@
+gustav g'u:st0v
 gustaf gu:st0f
 gustafson gu:st0fs@n
 gustafsson gu:st0fs@n
 gustaphson gu:st0fs@n
+gustavson g'u:st0vs@n
 gutier gu:t2i'eI //name
 haden h'eId@n //name
 hagerstrom h'eIg3str0m
@@ -338,6 +343,7 @@ isac 'aIz@k //name
 isak 'aIz@k //name
 ishamael IS0meI'El //name
 iyonah i:'0n@
+jacobson dZ'eIk@bs@n
 jacoby dZa#k'oUbi //name
 jaffar dZa#'fA@
 jaimeson dZ'eImIs@n
@@ -386,7 +392,8 @@ kramisha kr@'mi:S@ //name
 kreipke kr'eIpki
 kroeger kr'oUg3
 kuper k'u:p3
-lebon l@'b0n
+laden l'0dI#n
+lebon l@'b0n $onlys
 legolas 'lEg@l@s
 L'Enfant lA~n'fA~n $onlys
 L'Enfant's lA~n'fA~nz $onlys
@@ -447,6 +454,7 @@ Martìnez mA@'t2i:nEz //name
 masema ma#'si:m@ //name
 masuri m@'sU@i //name
 mathias ma#'TaI@s
+mathis m'aTIs
 Matisse m0't2i:s $onlys
 maurice mO@'i:s //name
 maxime maksi:m //name
@@ -518,6 +526,7 @@ phyllis f'IlIs //name
 phytell faIt'El //name
 pinette pIn'Et
 poitier pw0ti'eI
+Polášek p'0l@SEk
 powell p'aUL //name
 prideaux prI'doU //name
 Qadhafi k@'d0fi
@@ -575,6 +584,7 @@ sanche s'0ntSeI //name
 saroiya s3'OIj@ //name
 Schuyler sk'aIl3
 scrimgeour 'skrImdZaU@ //name
+sebastien  s@b'aastS@n
 seger s'i:g3
 Sedaka sI'd0k@
 seinfeld s'aInfEld
@@ -587,6 +597,7 @@ seuss s'u:s
 Sevastopol sI'vast@poUl
 sidell sI'dEl
 sharif SA@'i:f $onlys
+Sheindlin S'aIndlIn
 shyamalane SaI'am@leIn
 sharah S'A@r@
 sigebert s'i:@be@t //name
@@ -700,8 +711,9 @@ amarth a#'mA@T
 amora a#m'o@a#-
 analagous a#n'al@g@s
 ángeles angeles $text
-angiograph   'aNdZI2;@graf
-angiography   ,aNdZI2;'0gr@fi
+angiogram   'andZI2;@gram
+angiograph   'andZI2;@graf
+angiography   ,andZI2;'0gr@fi
 anteroom 'ant2i:ru:m
 apeshit eIpSIt
 applique 'aplIkeI
@@ -711,6 +723,7 @@ apotheosis a#p0Ti'oUsIs
 approbation aproUb'eIS@n
 arboreal $2
 archais 'A@tSeIs
+archipelago A@kI'pEl@goU
 ardor A@d3
 articulate  A@t'IkjUl,@t $verb $only
 asa 'eIs@ $only
@@ -842,6 +855,7 @@ canoeist k@n'u:Ist
 canyonesque  k,anI2;@n'Esk
 capisce ka#'pi:S
 cappucino kap@'tSi:noU //misspell
+caracal kA@R0'k0l //crude attempt, some kind of middle eastern cat, similar to a lynx?
 carat  k'ar@t
 cardamom k'A@d@mVm
 cardiology  k,A@dI2;'0l@dZi
@@ -1012,6 +1026,7 @@ deserial di:s'i@rI2;@L
 deserialization di:si@rI2;@l,Iz'eIS@n
 deserts d'Ez3ts $only
 desultory d'Es@Lto@i
+desperado  dEsp3r'A:doU
 despot  'dEsp@t
 detaches dI2t'atSIz
 detox di:t20ks $1
@@ -1035,6 +1050,7 @@ discompose dIsk@m'poUz
 disneyland d'Izniland
 dison 'daIs@n
 diviner dIv'aIn3
+divot d'Iv@t
 dmidecode di:Em'aI||dI#'koUd
 doctorate d'0kt23@t
 doeuvre d'3vr@ $onlys
@@ -1085,6 +1101,8 @@ epochal Ep@k@L
 ereader 'i:ri:d3 $onlys
 escapee Es'keIpi:
 este Este
+etiology i:t#i'0l@dZi
+étagère Et2I'greI
 evanesce $2 $atend
 exocet EksoUsEt
 exothermic EksoU'T3mIk
@@ -1496,6 +1514,7 @@ paprika pap'ri:k@
 pathed p'aTd $only
 po'd 'pi:||'oUd $only
 podiatrist p@'daI@t2rIst
+podocarpus poUd@'kA@p@s
 poissons pw0'sO~
 portobello po@t#oUb'EloU
 posessive possessive $text $only //misspell
@@ -1531,6 +1550,7 @@ p'tit p@ti: $only //attempt
 pureblood p'jU@blVd
 purebred p'jU@brEd
 pustule pVstSu:l
+quadricep  kw'0drI#s,Ep
 Quaalude kw'eIlu:d
 quasimodo kw0zi'moUdoU
 quesodilla keIs@'di:@
@@ -1768,6 +1788,7 @@ vasocongestion vas@k@ndZ'EstS@n
 vaudun vaU'du:n
 vaya v'aI@ $only
 vemarken v@'mA@kIn
+venturi vEn't2U@i
 Verde 've@deI $capital
 viaticum vaI'at#Ik@m
 vigil v'IdZ@L
