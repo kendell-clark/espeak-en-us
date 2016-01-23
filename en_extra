@@ -1,6 +1,6 @@
 //espeak mispronunciations
 //abbreviations
-otc $abbrev
+otc $abbrev //over the counter
 yia $abbrev $onlys
 icbms aIsi:bi:'Emz $only
 nyc $abbrev
@@ -15,27 +15,27 @@ lbas El||bi:||'eIz
 acdc $abbrev
 et $abbrev $onlys $allcaps
 ets i:'t2i:z $only
-otg $abbrev
-csotn $abbrev
+otg $abbrev //on the go
+csotn $abbrev //castlevania, symphony of the night
 onr $abbrev
 lax $abbrev $allcaps $only
 usmc $abbrev
 sas $abbrev $only
 noaa $abbrev $allcaps
 attn attention $text $only
-apk $abbrev
-rov $abbrev $only
-auv $abbrev
-gsoc $abbrev
+apk $abbrev //android package
+rov $abbrev $only //remotely operated vehicle
+auv $abbrev //autonomous underwater vehicle
+gsoc $abbrev //google summer of code
 rotc $abbrev
 ied $abbrev
 eti $abbrev //eti technologies
-aur $abbrev
+aur $abbrev //arch user repository
 amdgpu $abbrev
-udf $abbrev
+udf $abbrev //universal disk filesystem/format
 hevc $abbrev
 yasr $abbrev
-obgyn $abbrev
+obgyn $abbrev //obstetrition gynecologist
 ob-gyn $abbrev
 idt $abbrev
 emt $abbrev
@@ -48,9 +48,9 @@ copd $abbrev
 udma $abbrev
 isdn $abbrev $only
 mua $abbrev $only
-cifs $abbrev $only
-nis $abbrev $only
-ecdsa $abbrev
+cifs $abbrev $only //common internet filesystem, opensource windows filesharing  implementation
+nis $abbrev $only //network information system
+ecdsa $abbrev //cryptographic algorythm
 uasi $abbrev $allcaps
 imho $abbrev
 ndis $abbrev
@@ -78,6 +78,7 @@ aclu $abbrev
 accc $abbrev $allcaps
 //names
 aber 'eIb3 $onlys //name
+abner 'abn3
 abney 'abni
 acosta a#k'Ost@
 adelin 'ad@lIn //name
@@ -90,7 +91,7 @@ adlai 'adli //name
 aerospatiale  e@roUsp,0SI2;,'0l
 affleck 'aflEk
 agarwal a#'gA@w@L
-akhenaten 0khEn'0t2En
+akhenaten 0xhEn'0t2En
 aladar 'al@dA@
 alicen 'alIs@n //name
 aleecia a#'li:S@ //name
@@ -120,6 +121,7 @@ aquaman '0kw@||'man
 aralsk a#r'0lsk
 araziel a#r'eIzi@l
 archaniz A@k'eInIz //name
+arline A@'li:n
 arrington 'arINt2@n //name
 arturo A@'t2U@oU //name
 aslo 'azloU //name
@@ -130,6 +132,7 @@ aston 'ast2@n
 atropos atr@poUs
 attanasio a?n'asi;oU
 attison at#Is@n
+austen Ost2@n
 avis eIvIs
 BACARISAS $3
 bacchetti b@'SEti //name
@@ -417,6 +420,7 @@ Lethesanar l@'TEs@nA@
 leveque lI'vEk
 levesque l@'vEsk
 Leydecker l'aIdEk3
+l'il lIl $onlys
 liandrin li:'andrIn //name
 lianne li:'an
 lisetta _^_IT
@@ -450,6 +454,8 @@ malfoy $1 //name
 Mamaroneck m@m'Er@nEk
 maribela marI'bEl@
 Mariska m@r'Isk@
+marrisa m3r'Is@
+marissa m3r'Is@
 Martìnez mA@'t2i:nEz //name
 masema ma#'si:m@ //name
 masuri m@'sU@i //name
@@ -630,6 +636,8 @@ tarzan t'A@zan $onlys
 tatelman t'eIt@Lm@n
 Teniente tEn'jEnt2e
 Theramenius TEr@m'i:ni@s
+Theresienstadt T3'i:zi;@nst0d
+
 thero T'i@roU
 thibodeau T'Ib@doU //name
 thome t2'oUmeI
@@ -710,6 +718,7 @@ amon a#'m0n
 amarth a#'mA@T
 amora a#m'o@a#-
 analagous a#n'al@g@s
+aneurysm  'anjU@r,Iz@m
 ángeles angeles $text
 angiogram   'andZI2;@gram
 angiograph   'andZI2;@graf
@@ -759,6 +768,7 @@ bally b'ali $only
 banderilla bande'Ri:;@ $onlys
 banderillero _^_ES $onlys
 banlon ban||l0n
+barbarism  b'A@b3r,Iz@m
 barrette b3:'eI
  barrio b'A@i;oU
 barroom b'A@||ru:m $onlys
@@ -976,10 +986,12 @@ crappie kr'0pi //fish
 credulity krI#'du:lIt#i
 creosote kr'i:@-soUt
 cravat kr@'vat
+crocheted kroU'SeId
 cromeos kr'oUm||oU'Es
 //crooked kr'Ukd $only $verb
 crossmember $1
-cryptoanalist krIpt2oU'an@lIst
+cruis'n kr'u:zIn $onlys
+alist krIpt2oU'an@lIst
 cryptoanalize krIpt2oU'an@laIz
 cuadrilla kwA:'rRi:;@
 cucaracha  ku:ka#r'A:tS@
@@ -1062,6 +1074,7 @@ dracaena dr@k'i:n@
 drano dr'eInoU
 dran-O dr'eInoU
 dran-o dr'eInoU
+dressage dr@'s0Z
 drivin dr'aIvIn $only
 dulce d'VltSe
 dullard d'Vl3d
@@ -1103,6 +1116,7 @@ escapee Es'keIpi:
 este Este
 etiology i:t#i'0l@dZi
 étagère Et2I'greI
+etagere Et2I'greI
 evanesce $2 $atend
 exocet EksoUsEt
 exothermic EksoU'T3mIk
@@ -1164,6 +1178,7 @@ gobuntu goUb'u:nt2u:
 goddaughter g'0d||d'O:t#3
 godson g'0dsVn
 golgotha g'0lg@T@
+golightly goU'laItli
 gonagall g'0n@g@L $only //part of mcgonagall, but espeak mangles it when said on it's own, EG McGonagall
 Gonâve g0n'0veI
 Gonave g0n'0veI
@@ -1185,6 +1200,7 @@ growly gr'aUli
 guake gw'eIk
 guayabera gw0j0v'e@@
 gutra g'u:tr@
+gutteronasal  gVt#3r,oU'neIz@L
 hackfest h'akfEst $onlys
 hairstylist h'e@staIlIst
 Hammarskjöld h'am3SoUld
@@ -1253,6 +1269,7 @@ inferi In'fi@raI
 infinote $1
 infinoted 'InfInoUt||d'i:
 infovox InfoUv0ks
+inflammation  Infl@m'eIS@n
 innings 'InINz
 innerpants 'In3||'pants
 inquisitor $2
@@ -1286,6 +1303,7 @@ kerala k3'0l@ //kerala india
 kazakh k'0z0k
 keepalive k'i:pa#laIv
 keepalived ki:pa#laIv||'di:
+kelphead k'ElphEd
 kenduskeag kEnd'Vski:g
 keurig  'kjU@Ig
 koch koUk $onlys
@@ -1297,6 +1315,8 @@ kudos 'ku:doUz
 kumbaya ku:mbaI'j0 //crude attempt
 kwon kw'0n $only
 lacewing l'eIswIN
+laguna l@'gu:n@
+lait l'eI $onlys
 (la vista) l@'vi:st@
 lazuli l'azjUli
 laissez _^_FR
@@ -1365,6 +1385,7 @@ menswear m'Enzwe@ $only
 mercurochrome m3'kjU@@kroUm
 metamorphosis  mEt#@m'o@f@sIs
 metastasize m@'t2astIsaIz
+métier mEti'eI
 metropolises m@tr'0p@l,IsI#z
 michelob m'Ik@loUb
 microbrewery m'aIkroU||br'u:3:i
@@ -1374,6 +1395,7 @@ midol m'aId0l
 midtransition  m,Idtranz'IS@n
 midvalley m'Id||v'ali
 mii m'i:
+militaristic  m,IlI2t3r'IstIk
 militiaman m@'lIS@m@n
 millionairess mIli@n'e@@s
 minden m'Ind@n
@@ -1472,6 +1494,7 @@ panopticon pan'0ptIk0n
 pantera pan't2e@@
 panwere p'anwe@
 parabolagnulinux p3'ab@l@|g@n'u:|l'InVks
+paralleling  p'ar@lElI2N
 parachutist  p'ar@S,u:t#Ist
 parapet  p'ar@pEt
 pardonably pA@d@n@bli
@@ -1553,6 +1576,7 @@ pustule pVstSu:l
 quadricep  kw'0drI#s,Ep
 Quaalude kw'eIlu:d
 quasimodo kw0zi'moUdoU
+que _^_ES $only
 quesodilla keIs@'di:@
 qube kj'u:b //the company
 quivery kw'Iv3i
@@ -1610,8 +1634,10 @@ rodel roUd'El $only
 rodere roU'de@
 rogaine r'oUgeIn
 rolladen r'oUl@dEn
+rollick r'0lIk
 rotunda roU'tVnd@
 sacroiliac sakroU'Iliak
+sagacious  s@g'eIS@s
 saharan  sa#h'ar@n
 salutory s'0lu:to@i
 salve 'sav
@@ -1639,6 +1665,7 @@ senorita _^_ES
 sepulchral $2
 septuagenarian sEpt2u:a#dZIn'e@i@n
 sequined s'i:kwInd
+sera _^_ES $only
 serviola se@vi:'oUl@
 seventy s'Ev@nt2i
 shaman S'0m@n
@@ -1703,10 +1730,12 @@ sucret su:krEt
 sudafed s'u:d@fEd
 sudoedit s'u:doUEdIt
 sug 'SUg $onlys
+suiza swi:z@
 supr s'u:p3 $only
 svchost Esvi:si:'hoUst
 swathe sw'0T //misspelling of swath
 sycophant s'Ik@fant
+syphilitic  s,IfI#l'It#Ik
 Szechwan s'EtSw0n
 tabac t@'b0k //misspelling of tobacco but pronounced differently
 tabernacle t'ab3nak@L
@@ -1718,6 +1747,7 @@ talon t'al@n
 Tamater t@m'eIt#3 $onlys
 taquito t@k'i:toU
 tarot t2'aroU
+tattooist  tat2'u:,Ist
 taupe t2'oUp
 tawantinsuyu t@w0ntIn'saIju: //crude attempt
 tecate tI'k0t@
@@ -1734,11 +1764,13 @@ teton t2'i:t20n
 thaumatergy T'O:ma#t23dZi
 Thermopylae T3m'0p@li
 theghost D@2'goUst $onlys
+thepiratebay D@||p'aIr@t||b'eI
 thingie T'INi
 thisis DIs'Iz $only
 thrombosis Tr0m'boUsIs
 thoroughgo T'VroUgoU
 tigre t2'i:grReI
+tinnitus tIn'aIt@s
 tipi 't2i:pi:
 titanaconda  $2
 todash t'oUdaS
@@ -1775,6 +1807,7 @@ unaccustomedly  Vna#k'Vst@m,Idli
 undeleteable VndI'li:t#@b@L
 undulent $1
 unitas ju:'naIt@s
+unputdownable   Vnp,Ut'daUn@b@L
 upsloped VpsloUpd
 upsloping VpsloUpIN
 usatoday ju:EseI||t2@'deI
