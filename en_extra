@@ -228,6 +228,7 @@ dauphine doU'fi:n
 davar d@'vA@
 davoli d@v'oUli //name
 dauterive 'doUtri:v //name 
+debusher dI'bUS3
 degeneres  dI'dZEn3@s //name
 degges d'Egi:z //name
 delacour dEl@'kU@ //name
@@ -388,6 +389,7 @@ killimanjaro  k,IlI2ma#ndZ'A@oU
 Kneivel k@'ni:v@L
 Knievel k@'ni:v@L
 kobe k'oUbi $onlys //name
+koichi koU'i:tSi
 Konrád k'0nrad
 Konstantin k'0nst@nti:n
 koshuta k@'Su:t@
@@ -425,6 +427,7 @@ l'il lIl $onlys
 liandrin li:'andrIn //name
 lianne li:'an
 lisetta _^_IT
+lisey l'i:si
 linette lIn'Et2 //name
 linus l'aIn@s //name
 Lisette lI'sEt
@@ -537,6 +540,7 @@ poitier pw0ti'eI
 Polášek p'0l@SEk
 powell p'aUL //name
 prideaux prI'doU //name
+prozac pr'oUzak
 Qadhafi k@'d0fi
 rabinal r0bin'0l //name
 ragan r'eIg@n //name //misspell
@@ -687,6 +691,7 @@ zachariah  zak@r'aI@ //name
 zacharias zak@r'aI@s //name
 zahel za#'hEl
 zaira z'aIr@
+zoloft z'oUlOft
 //normal words
 aaa tr'Ip@L||'eI $only
 abashedly a#b'aSIdli
@@ -698,6 +703,7 @@ abuse  a#bj'u:z $verb
 academician a#kad@'mIS@n
 acetaminophen a#si:t#@m'In@fIn
 ach 'ak $only
+acidy 'asIdi
 acromegaly  akroUm'eIg@li
 Adiós adios $text
 adriatic  ,eIdrI2;'at#Ik
@@ -705,7 +711,7 @@ adversary  'adv3se@ri
 aerate $1
 aesthetic a#s'TEt#Ik
 aflac 'aflak
-afflux 'aflVks
+//afflux 'aflVks
 agave a#'g0veI
 ahi 0hi: $only
 akademy  a#k'ad@mi //misspelling of academy, found on the kde.org website
@@ -1254,6 +1260,7 @@ hydrocephalus haIdroUsI#'fal@s
 hydrocodon haIdroUk'oUd0n //pain medicine
 hydrocodone haIdroUk'oUdoUn //pain medicine
 hydrocodine haIdroUk'oUdi:n //sleeping med, if it exists. It was in a book
+icewm 'aIs||d'Vb@Lju:||'Em
 ick 'Ik
 iconoclast $2
 id Id $onlys
@@ -1575,6 +1582,7 @@ psychometry saIk'0m@tri
 pseudofather  su:doUf'0D3
 pseudonymous su:'d0nIm@s
 pseudopsychoanalyst $5
+psychlops s'aIkl0ps
 p'tit p@ti: $only //attempt
 pureblood p'jU@blVd
 purebred p'jU@brEd
@@ -1889,6 +1897,7 @@ akatorimon 0k@'t2o@im0n
 aldamon 'O:ld@m0n
 allomon 'aloUm0n
 alphamon 'alf@m0n
+angemon '0ndZ@m0n
 beetlemon  b'i:t#@Lm0n
 diablomon di:'0bloUm0n
 diaboromon daI;@'bo@@m0n
@@ -1901,10 +1910,18 @@ dinotigermon d'aInoU||t2'aIg3m0n
 dorugamon do@'u:g@m0n
 divermon d'aIv3m0n
 dorugoramon do@u:'go@@m0n
-garurumon g0'ru:ru:m0n
+garurumon g@'ru:ru:m0n
 greymon gr'eIm0n
+ikakumon i:'k0ku:m0n
 irismon 'aIrIsm0n
+kabuterimon k0bu:'t2Erim0n
+jager j'eIg3
+lowemon l'oUIm0n
+myotismon maI'oUt#Ism0n
+mercurymon m'3kjUrim0n
+ophanimon oU'f0nim0n
 scubamon sk'u:b@m0n
+sarafimon  s3'0fim0n
 sphinxmon sfINksm0n
 tamamon 't20m@m0n //root, part of other digimon names
 Tyrannomon t3r'0n@m0n
