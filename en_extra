@@ -1,5 +1,6 @@
 //espeak mispronunciations
 //abbreviations
+nyu $abbrev $allcaps
 otc $abbrev //over the counter
 yia $abbrev $onlys
 icbms aIsi:bi:'Emz $only
@@ -89,10 +90,12 @@ adelorna adI#'lo@n@ //name
 adida a#'di:d@
 adlai 'adli //name
 aerospatiale  e@roUsp,0SI2;,'0l
+aeval 'eIv@L
 affleck 'aflEk
 agarwal a#'gA@w@L
 akhenaten 0xhEn'0t2En
 aladar 'al@dA@
+alcyone al'saI@ni
 alicen 'alIs@n //name
 aleecia a#'li:S@ //name
 alejandro alIh'0ndroU //name
@@ -140,6 +143,7 @@ baddeley b'adli //name
 ballimore $1 //name
 barak b@'r0k
 baresco b@r'EskoU
+bartell bA@'t2El
 baruch b'A:rRu:tS //name
 bashere b0'Si@3 //name
 basim b0'si:m //name
@@ -363,9 +367,11 @@ jochabim dZ'oUk@bi:m
 johannes joU'h0nIs //name
 johanson joU'h0ns@n
 johansson joU'h0ns@n
+jonas dZ'oUn@s
 jorgenson dZ'o@gI#ns@n
 jovelyn dZ'0vIlIn
 judea dZu:d'i:@ //name
+juilliard dZ'u:li;A@d
 julianna dZu:li'0n@ //name
 julio hu:lioU
 kaczorowski katS3'aUski
@@ -656,6 +662,7 @@ tosha 't20S@ //name
 travolta tr@'voUlt@ //name
 trebek trI'bEk
 trianna tri:'0n@ //name
+trytian tr'It#i@n
 tula t2'u:l@
 tuleman t2'u:lm@n
 tussaud tu:'soU
@@ -685,6 +692,7 @@ wieczorek w'i:tS3Ek
 Wondrash w'0ndraS
 wong w'ON
 wybert w'aIbe@t //name
+wymann w'aIm@n
 yasmine j'azmIn
 yolanda joU'l0nd@ //name
 zachariah  zak@r'aI@ //name
@@ -719,6 +727,7 @@ allegedly a#lEdZI#dli
 alestorm 'eIlstO@m
 algae 'aldZi:
 aliev a#'li:v
+aloha  a#l'oUh0
 Américain a#'mErIkeIn
 americanize a#m'ErIk@naIz
 ami 0'mi: $onlys
@@ -753,6 +762,7 @@ astarboard  a#st'A@b3d
 attaché attache $text
 atreyu a#'treIu:
 audiodescribe  'O:dI2;,oU||dIs'kraIb
+audioencoder  'O:dI2;,oU||En'koUd3
 audiofile 'O:dI2;,oUfaIl
 audiogame O:dI2;,oUgeIm
 audiophile  'O:dI2;,oUfaIl
@@ -873,6 +883,7 @@ Cancún kan'ku:n
 cannoli k@n'oUli
 canoeist k@n'u:Ist
 canyonesque  k,anI2;@n'Esk
+capiche ka#'pi:S
 capisce ka#'pi:S
 cappucino kap@'tSi:noU //misspell
 caracal kA@R0'k0l //crude attempt, some kind of middle eastern cat, similar to a lynx?
@@ -1101,6 +1112,7 @@ effete I'fi:t
 efuse 'i:||fj'u:z $onlys
 eggplant 'Egplant2
 egotistic i:goUt2'IstIk
+egress i:'grEs
 elaborately  I#l'ab3r,@tli
 electronix electronics $text
 ellision Il'IZ@n
@@ -1173,6 +1185,7 @@ ganache g@'n0S
 gateau g@'t2oU
 gato g'0t2oU $onlys
 geiger g'aIg3
+ghrá gr'0
 gigapet g'Ig@pEt2 $onlys
 gizeh g'i:z@
 gholam g'0l@m
@@ -1366,6 +1379,7 @@ lousy l'aUzi
 lovehatetragedy l'Vv||h'eIt2||tr'adZI#t#i
 lugh l'u: $onlys
 Luzianne lu:zi'an
+lychkonneg lIxk'0nEg
 lynux l'InVks //misspelling of linux
 macadam m'ak@d@m
 macho m'0tSoU $only //macho man, macho men
@@ -1422,6 +1436,7 @@ minestrone mInI#'stroUni
 misrepresentation $5
 moduleset m'0dZu:lsEt2
 molcajete moUlk@h'Et2e
+molestation  m0lI2st'eIS@n
 (mon chat) mO~n||'Sat
 monarch m'0nA@k
 monger m'0ng3
@@ -1866,6 +1881,7 @@ whatchado wVtS@'du: //whatchadoin, whatchadoing
 whatdoyoucallit wVt||du:||ju:||k'O:l||It
 whatis wVt2'Iz
 whazzoo w0'zu:
+weddinged w'EdINd
 wherevers  we@r'Ev3z $only
 wherever's  we@r'Ev3z $only
 whereis we@'Iz
