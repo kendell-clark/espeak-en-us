@@ -60,7 +60,7 @@ sssca $abbrev
 sma $abbrev
 scaa $abbrev $allcaps
 odbc $abbrev
-ocz $abbrev $allcaps
+ocz $abbrev 
 odt $abbrev
 ods $abbrev
 odp $abbrev
@@ -137,10 +137,11 @@ attanasio a?n'asi;oU
 attison at#Is@n
 austen Ost2@n
 avis eIvIs
-BACARISAS $3
+bacarisa $3
 bacchetti b@'SEti //name
 baddeley b'adli //name
 ballimore $1 //name
+bananie b@'nani
 barak b@'r0k
 baresco b@r'EskoU
 bartell bA@'t2El
@@ -232,7 +233,7 @@ dauphine doU'fi:n
 davar d@'vA@
 davoli d@v'oUli //name
 dauterive 'doUtri:v //name 
-debusher dI'bUS3
+debusher dI#'bUS3
 degeneres  dI'dZEn3@s //name
 degges d'Egi:z //name
 delacour dEl@'kU@ //name
@@ -260,7 +261,6 @@ donalson d'0n@Ls@n //name
 dotschy d'oUtSi //name
 doubre d'u:br@
 doughart d'VghA@t
-Dove d'Vv $capital $only //name
 dradon 'dreId@n //name
 duchene du:'SEn
 dufresne du:'freIn
@@ -274,6 +274,7 @@ eladamri El@'damri
 eleanor 'El@no@ //name
 elhokar El'hoUkA@
 eli ''i:laI $only //name
+elis 'ElIs
 ellis  'ElIs //name
 elyas  I2l'aI@s
 elyssa I#l'Is@
@@ -707,7 +708,6 @@ adema a#d'i:m@
 (à la mode) '0l@'moUd
 (a la mode) '0l@'moUd
 abram 'eIbr@m $onlys
-abuse  a#bj'u:z $verb
 academician a#kad@'mIS@n
 acetaminophen a#si:t#@m'In@fIn
 ach 'ak $only
@@ -871,7 +871,6 @@ cadre k0dreI
 Caffè kaf'eI
 calamares kal@m'A@Ez //distribution agnostic installer
 calamari kal@'mA@i
-calendar k'al@nd3 //no idea how this one broke
 calhoun kal'hu:n
 calligraphy k@l'Igr@fi
 calligrapher  k@l'Igr@f3
@@ -965,6 +964,7 @@ compadro k@mp'0droU
 Comprende k@mpr'EndeI
 compos k'0mpoUs $only //compos mente
 //compress k'0mprEs $noun $only
+compu k'0mpju: $only
 computronic k0mpju:'tr0nIk
 computeruse k@mp'ju:t3ju:s $onlys
 concho k'0ntSoU
@@ -1073,7 +1073,6 @@ dictate d'Ikt2eIt
 dictator d'Ikt2eIt#3
 digidestine d'IdZI||d'Est2In
 digimon d'IdZi,m0n
-dijon d'i:Z0n //dijon mustard
 dinged d'INd
 dinguses d'INg@sIz
 dios 'Djo:s $only
@@ -1147,7 +1146,6 @@ xtra 'Ekstr@ //pib xtra
 Fabergé fab3:'ZeI
 faberge fab3:'ZeI
 faceplant f'eIsplant
-fae f'eI $onlys
 fairies'll  f'e@riz@L
 fakir f0'ki@3 
 falutin f@'lu:?n- //high falutin
@@ -1566,7 +1564,6 @@ piton p'aIt0n
 placard pl'ak3d
 platypuses  pl'at#I2pUsIz
 plexiglas pl'Eksiglas
-pneumonia  nu:m'oUni@
 paprika pap'ri:k@
 pathed p'aTd $only
 po'd 'pi:||'oUd $only
@@ -1580,7 +1577,6 @@ postgraduate p'oUst||gr'adZu:@t
 postsecondary p'oUst||s'Ek@nde@-i
 potpourri poUp3:'i:
 praline preIli:n
-preauthorize pri:'O:T3aIz
 preauthorise pri:'O:T3aIz
 preciate pr'i:SI2;,eIt
 predesign pri:dI2z'aIn
@@ -1588,7 +1584,6 @@ prego pr'eIgoU $onlys
 presentiment pri:'sEntIm@nt $onlys
 preteen pri:t2i:n
 prettify prItIfaI
-priestesshood pr'i:stIshUd
 primevil primeval $text
 probity pr'oUbIt#i $only //probity probe
 problemo pr0'bleImoU
@@ -1605,8 +1600,6 @@ pseudonymous su:'d0nIm@s
 pseudopsychoanalyst $5
 psychlops s'aIkl0ps
 p'tit p@ti: $only //attempt
-pureblood p'jU@blVd
-purebred p'jU@brEd
 pustule pVstSu:l
 quadricep  kw'0drI#s,Ep
 Quaalude kw'eIlu:d
@@ -1641,8 +1634,6 @@ redarm r'EdA@m
 reecho ri:'EkoU
 reechoed ri:'EkoUd
 refill ri:fIl $noun $onlys
-reflexology ri:flEks'0l@dZi
-reflexologist ri:flEks'0l@dZIst
 reem r'i:m
 Reggae r'Ege
 regicide r'EdZIsaId
@@ -1688,6 +1679,7 @@ scarab skar@b
 scavenging sk'av@ndZIN
 schadenfreude _^_DE
 seagram si:gr@m
+seamonkey  s'i:mVNki
 séance s'eI0ns
 seattleite  si:;'at#@LaIt
 seattleites  si:;'at#@LaIts
@@ -1702,7 +1694,6 @@ septuagenarian sEpt2u:a#dZIn'e@i@n
 sequined s'i:kwInd
 sera _^_ES $only
 serviola se@vi:'oUl@
-seventy s'Ev@nt2i
 shaman S'0m@n
 sheraton 'SEr@t2@n
 shivah S'i:v0
