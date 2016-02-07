@@ -1,5 +1,7 @@
 //bible names
 //this was sent in by a contributor and contains thousands of fixes and I haven't had time to go through and correct them all
+//those that are ready are enclosed in comments
+//begin fixes
 Abaddon a#b'a%d@n
 Abagtha a#b'a%gT@
 Abanah Vb'eI%n@
@@ -46,8 +48,6 @@ Abishur a#b'aI%S@
 Abital a#b'aI%t@l
 Abitub a#b'aI%t@b
 Abiud a#b'aI%@d
-Abner 'a%bn3:
-Abram 'eI%br@m
 Abronah a#br'oU%n@
 Absalom 'a%bs@l0m
 Accad 'a%khad
@@ -89,23 +89,17 @@ Adoram a#d'oU%ram
 Adrammelech a#dr'E%m@lEk
 Adramyttium ,a%dr@m'I%ti:@m
 Adria 'eI%dri:@
-Adriel 'eI%dri:@l
 Adullam a#d'0%l@m
-Adullamite Vd'V%l@maIt
 Adummim Vd'V%m@m
-Aeneas a#n'i:%@s
-Aenon 'i:%n0n
-Agabus 'a%g@b@s
+Aeneas @n'i:%@s
 Agag 'eI%gag
 Agagite 'a%g@gaIt
 Agee 'eI%gi:
 Agrippa %a#%gr'I%p%@
 Agur 'eI%g3:
-Ahab 'eI%h%ab
-Aharah a#h'A:%rV
+Aharah a#h'A:%r@
 Aharhel a#h'A:%hEl
 Ahasbai a#h'a%zbaI
-//Ahasuerus a#has%U%'i:%r%@s
 Ahava a#h'eI%v@
 Ahaz 'eI%haz
 Ahaziah Ejh@z'aI%@
