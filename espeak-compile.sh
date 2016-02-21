@@ -24,9 +24,6 @@ fi
 echo "Copying files:"
 #copy files to espeak directory
 sudo cp ./en_* /usr/share/espeak-data/
-#change into the voices folder and copy my favorite voice
-cd ./voices
-sudo cp max /usr/share/espeak-data/voices/max
 #change to espeak directory and compile data
 cd /usr/share/espeak-data/
 sudo espeak --compile=en-us
