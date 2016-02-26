@@ -1,5 +1,6 @@
 //espeak mispronunciations
 //abbreviations
+dtusb $abbrev //dec talk kernel module
 nyu $abbrev $allcaps
 otc $abbrev //over the counter
 yia $abbrev $onlys
