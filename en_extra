@@ -1,5 +1,6 @@
 //espeak mispronunciations
 //abbreviations
+ootb $abbrev //out of the box
 amrwb $abbrev //audio codec, adaptive multirate wide band
 dtusb $abbrev //dec talk kernel module
 nyu $abbrev $allcaps
