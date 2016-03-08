@@ -694,6 +694,7 @@ scsi	skVzi
 ssid	$abbrev
 ssip	$abbrev
 st	s@nt
+?3 st	seInt
 suv	$abbrev
 tbsp	teIb@Lspu:n
 th	T
