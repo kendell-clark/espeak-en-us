@@ -1,5 +1,6 @@
 //espeak mispronunciations
 //abbreviations
+ot $abbrev //off topic
 //mt. m'aUntIn $abbrev $dot
 mitm $abbrev //man in the middle
 ootb $abbrev //out of the box
