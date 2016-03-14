@@ -1,5 +1,6 @@
 //espeak mispronunciations
 //abbreviations
+eci $abbrev //eloquence command interface
 ot $abbrev //off topic
 //mt. m'aUntIn $abbrev $dot
 mitm $abbrev //man in the middle
