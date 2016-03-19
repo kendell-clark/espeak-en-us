@@ -1,5 +1,6 @@
 //espeak mispronunciations
 //abbreviations
+brlapi $abbrev //brltty api for communicating with screen readers
 usps $abbrev //united states postal service
 eci $abbrev //eloquence command interface
 ot $abbrev //off topic
