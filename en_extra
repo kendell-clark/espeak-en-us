@@ -12,7 +12,7 @@ otc $abbrev //over the counter
 yia $abbrev $onlys //y'elestriel intelligence agency
 icbms aIsi:bi:'Emz $only //some kind of nuclear weapon, not sure what it stands for
 nyc $abbrev //new york city
-idk $abbrev $only//I don't know
+idk $abbrev $only //I don't know
 lsusb  $abbrev $only //command in gnu/linux to list usb devices connected to the computer
 ide $abbrev $only //integrated development environment
 ups $abbrev $only $allcaps //united parsel service and uninterruptible power source
