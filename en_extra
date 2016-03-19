@@ -7,29 +7,29 @@ mitm $abbrev //man in the middle
 ootb $abbrev //out of the box
 amrwb $abbrev //audio codec, adaptive multirate wide band
 dtusb $abbrev //dec talk kernel module
-nyu $abbrev $allcaps
+nyu $abbrev $allcaps //new york university
 otc $abbrev //over the counter
-yia $abbrev $onlys
-icbms aIsi:bi:'Emz $only
-nyc $abbrev
-idk $abbrev $only
-lsusb  $abbrev $only
-ide $abbrev $only
-ups $abbrev $only $allcaps
-upx $abbrev $only
+yia $abbrev $onlys //y'elestriel intelligence agency
+icbms aIsi:bi:'Emz $only //some kind of nuclear weapon, not sure what it stands for
+nyc $abbrev //new york city
+idk $abbrev $only//I don't know
+lsusb  $abbrev $only //command in gnu/linux to list usb devices connected to the computer
+ide $abbrev $only //integrated development environment
+ups $abbrev $only $allcaps //united parsel service and uninterruptible power source
+upx $abbrev $only //universal executible compressor
 fslic $abbrev //federal savings and lone insurance corporation
 fdic $abbrev //federal deposit insurance corporation
-lbas El||bi:||'eIz
-acdc $abbrev
-et $abbrev $onlys $allcaps
-ets i:'t2i:z $only
+lbas El||bi:||'eIz //plural of lba, logical block allocation
+acdc $abbrev //the band
+et $abbrev $onlys $allcaps //extraterrestrial
+ets i:'t2i:z $only //plural of ET
 otg $abbrev //on the go
 csotn $abbrev //castlevania, symphony of the night
 onr $abbrev
-lax $abbrev $allcaps $only
-usmc $abbrev
+lax $abbrev $allcaps $only //las angeles airport
+usmc $abbrev //US marine core
 sas $abbrev $only
-noaa $abbrev $allcaps
+noaa $abbrev $allcaps //national oceanic and atmospheric administration
 attn attention $text $only
 apk $abbrev //android package
 rov $abbrev $only //remotely operated vehicle
@@ -39,50 +39,50 @@ rotc $abbrev
 ied $abbrev
 eti $abbrev //eti technologies
 aur $abbrev //arch user repository
-amdgpu $abbrev
+amdgpu $abbrev //open source kernel module from ati providing support for many of it's graphics cards
 udf $abbrev //universal disk filesystem/format
 hevc $abbrev
-yasr $abbrev
+yasr $abbrev //yet another screen reader, an alternative console screen reader to speakup
 obgyn $abbrev //obstetrition gynecologist
 ob-gyn $abbrev
 idt $abbrev
-emt $abbrev
+emt $abbrev //emergency medical technition
 ccia $abbrev
-uhdtv $abbrev
-uhd $abbrev 
-tgif $abbrev
+uhdtv $abbrev //ultra high definition television
+uhd $abbrev //ultra high definition
+tgif $abbrev //thank god it's friday
 ecpa $abbrev $only
-copd $abbrev
-udma $abbrev
-isdn $abbrev $only
+copd $abbrev //don't know exactly what this one stands for, but it's a lung disease
+udma $abbrev //uniform direct memory access
+isdn $abbrev $only //international subscriber digital number.  I think
 mua $abbrev $only
 cifs $abbrev $only //common internet filesystem, opensource windows filesharing  implementation
 nis $abbrev $only //network information system
 ecdsa $abbrev //cryptographic algorythm
 uasi $abbrev $allcaps
-imho $abbrev
-ndis $abbrev
-rndis $abbrev
+imho $abbrev //in my humble opinion
+ndis $abbrev //windows networking api
+rndis $abbrev //predecessor to ndis
 sssca $abbrev
-sma $abbrev
+sma $abbrev //software maintenance agreement
 scaa $abbrev $allcaps
 odbc $abbrev
-ocz $abbrev 
-odt $abbrev
-ods $abbrev
-odp $abbrev
+ocz $abbrev //defunct electronics corporation
+odt $abbrev //open document type
+ods $abbrev //open document spreadsheet
+odp $abbrev //open document presentation
 me $abbrev $allcaps $only //medical examiner
-ldap $abbrev
+ldap $abbrev //light weight directory access protocol
 fcra $abbrev $allcaps
 epds $abbrev //emergency present delivery system, specific to alter aeon
-eta $abbrev
-cfaa $abbrev 
-avr $abbrev
-asio $abbrev
+eta $abbrev //estimated time of arrival
+cfaa $abbrev
+avr $abbrev //audio video recorder
+asio $abbrev //australian intelligence organization.
 aslr $abbrev //address space layout randomization
-aka $abbrev
+aka $abbrev //also known as
 aacs $abbrev
-aclu $abbrev
+aclu $abbrev //american civil liberties union
 accc $abbrev $allcaps
 //names
 ababa  a#'b0b@
@@ -123,7 +123,7 @@ al'vere al'vi@3
 amatheon a#m'aTi@n
 amica a#'mi:k@ //insurance company
 amos eIm@s
-amys 0'mi:s //name 
+amys 0'mi:s //name
 amathera a#m'0T3@
 amarylis am3'IlIs
 anaya @n'aIj-@
@@ -253,7 +253,7 @@ dalinar d'alI#nA@
 damodred d'0m@drEd
 dashiell daSi'El
 dauphine doU'fi:n
-dauterive 'doUtri:v //name 
+dauterive 'doUtri:v //name
 davar d@'vA@
 davoli d@v'oUli //name
 davram d'0vr0m
@@ -913,7 +913,7 @@ blitzkrieg bl'Itskri:g
 bloodlett bl'VdlEt
 bloodred bl'Vd||r'Ed
 bloodsacrifice bl'Vd||s'akrIfaIs
-boise b'OIzi 
+boise b'OIzi
 bombard  b0mb'A@d
 (bon mot) b'oUn||m'oU $onlys
 (bon temps) bA~nt'A~ //town in louisiana
@@ -1043,7 +1043,7 @@ coffeelover kOfilVv3
 colaborate  collaborate $text
 colaboration collaboration $text
 collegue k'0li:g
-collegial  k@l'i:dZ@L 
+collegial  k@l'i:dZ@L
 combatant k@mba?n-t
 comedown kVmdaUn //some kind of house?
 come'ee kVm'i:
@@ -1264,7 +1264,7 @@ Fabergé fab3:'ZeI
 faberge fab3:'ZeI
 faceplant f'eIsplant
 fairies'll  f'e@riz@L
-fakir f0'ki@3 
+fakir f0'ki@3
 falutin f@'lu:?n- //high falutin
 fascia f'astS@
 fashionista faS@n'i:st@
@@ -1556,7 +1556,7 @@ mccafe m@ka'feI
 meadowlark  m'EdoUl,A@k
 measiled mi:z@Ld
 mediterranean  m,EdI2t23r'eIni@n
-mediumsize m'i:di@ms,aIz //mediumsized 
+mediumsize m'i:di@ms,aIz //mediumsized
 megadeth m'Eg@dET
 megaladon 'mEga#l@d0n
 megaman m'Eg@||m'an
