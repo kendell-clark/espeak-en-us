@@ -1,5 +1,6 @@
 //espeak mispronunciations
 //abbreviations
+usps $abbrev /united states postal service
 eci $abbrev //eloquence command interface
 ot $abbrev //off topic
 //mt. m'aUntIn $abbrev $dot
@@ -2067,7 +2068,7 @@ waft w'0ft
 waseau w0'soU
 waistline  w'eIstlaIn
 warcry  w'O@kraI
-///were w'e@ $noun $only
+//were w'e@ $noun $only
 weres w'e@z $only
 wereanimal 'we@,anIm@L
 whataburger wVt#||a#||b3g3
