@@ -1,6 +1,6 @@
 //espeak mispronunciations
 //abbreviations
-usps $abbrev /united states postal service
+usps $abbrev //united states postal service
 eci $abbrev //eloquence command interface
 ot $abbrev //off topic
 //mt. m'aUntIn $abbrev $dot
