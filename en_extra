@@ -1,5 +1,6 @@
 //espeak mispronunciations
 //abbreviations
+evp $abbrev //some kind of electronic device to measure paranormal activity. I'm not sure what the abbreviation stands beyond for  electronic something paranormal
 brlapi $abbrev //brltty api for communicating with screen readers
 usps $abbrev //united states postal service
 eci $abbrev //eloquence command interface
@@ -532,6 +533,7 @@ mathis m'aTIs
 Matisse m0't2i:s $onlys
 maurice mO@'i:s //name
 maxime maksi:m //name
+mazda m'0da#
 mcalester m@k'alIst3
 Mcconaughey m@'k0n@heI
 mcavoy m'ak@vOI
@@ -572,6 +574,7 @@ Nadiya na'di:;@
 naean neI'an //name
 NALYWAJKO n0l@'waIkoU //name
 narissa n3'Is@
+nerissa n3'Is@
 narcissus $2 //name
 natalia n@t2'0li@ //name
 nayru 'nEru:
