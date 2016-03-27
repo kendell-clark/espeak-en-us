@@ -1014,6 +1014,7 @@ interfere  ,Int3f'i@3
 internship $1
 interr int2'3: //interred, interring
 intl  ,Int3n'aS@-n@L  $abbrev
+ioctl $abbrev //kernel interface
 iona aI;'oUn@ //name
 ionyc ionic $text
 iptable aIp'i:||t2'eIb@L
