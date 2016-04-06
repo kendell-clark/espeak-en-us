@@ -7,6 +7,7 @@ aacs $abbrev
 ababa  a#'b0b@
 Abagail 'ab@geIl
 abashedly a#b'aSIdli
+abcde $abbrev //linux software to grab audio tracks off of a cd, encode them in ogg or mp3 format and tag them
 aber 'eIb3 $onlys //name
 abner 'abn3
 abney 'abni
@@ -15,7 +16,7 @@ academician a#kad@'mIS@n
 accc $abbrev $allcaps
 accutane 'akju:t2eIn
 acdc $abbrev //the band
-acetaminophen a#si:t#@m'In@fIn
+acetaminophen a#si:t#@m'In@fIn //pain medication
 ach 'ak $only
 acidy 'asIdi
 aclu $abbrev //american civil liberties union
@@ -469,7 +470,7 @@ consuite k'0nswi:t
 contin k'0nt2In $onlys //second part of oxycontin, when capitalized espeak treats them as separate words
 contractor  k'0ntrakt3 $onlys
 contraire kA~n'tre@
-contretemps k0ntrI'tA~ //french
+//contretemps k0ntrI'tA~ //french
 conveigh k'0nveI
 convex $1
 Cöos k'u:s
