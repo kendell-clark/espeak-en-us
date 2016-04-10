@@ -15,8 +15,9 @@ fi
 if [[ ${DISTRO} = +(Manjaro|Arch) ]]; then
 Path="/usr/share/"
 elif [[ ${DISTRO} = +(Ubuntu|Debian) ]]; then
-     else
 Path="/usr/share/"
+else
+Path=/usr/share/
 echo "I do not know the default location for espeak-data installation
 for your distro, so the standard installation path /usr/share will be tried.
 If the script exits with out installing the updated files,
