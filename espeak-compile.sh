@@ -1,18 +1,9 @@
 #!/bin/bash
 ## Install updated en-us specific updates for espeak.
-## If you encouner problems with this script, please contact me at
+## If you encounter problems with this script, please contact me at
 ## B.H. <es_vinux@vinuxproject.org>
 ## The latest proposed updates to the en-us voice can be cloned from
 ## git://github.com/coffeeking/espeak-en-us.
-
-## What is our archetecture?
-ARCH="$(uname -m|sed 's/x86_//;s/i[3-6]86/32/')"
-if [[ ${ARCH} = +(32|64) ]]; then
-ARCH="$ARCH"
-else
-echo "You may be using an unsupported archetecture.
-Only x86_64 or i*86 archetecture is supported by this script in some distros."
-fi 
 
 ## What distro are we running on?
 if [ -f /etc/lsb-release ]; then
