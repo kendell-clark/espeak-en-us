@@ -15,14 +15,6 @@ fi
 if [[ ${DISTRO} = +(Manjaro|Arch) ]]; then
 Path="/usr/share/"
 elif [[ ${DISTRO} = +(Ubuntu|Debian) ]]; then
-if [ "$ARCH" = "64" ]; then
-Path="/usr/lib/x86_64-linux-gnu/"
-elif [ "$ARCH" = "32" ]; then
-Path="/usr/lib/i386-linux-gnu/"
-else
-echo "Your archetecture isunsupported by this script at this time."
-exit 1
-     fi
      else
 Path="/usr/share/"
 echo "I do not know the default location for espeak-data installation
