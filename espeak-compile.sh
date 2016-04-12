@@ -1,9 +1,18 @@
 #!/bin/bash
 ## Install updated en-us specific updates for espeak.
-## If you encounter problems with this script, please contact me at
+## If you encouner problems with this script, please contact me at
 ## B.H. <es_vinux@vinuxproject.org>
 ## The latest proposed updates to the en-us voice can be cloned from
 ## git://github.com/coffeeking/espeak-en-us.
+
+## What is our archetecture?
+ARCH="$(uname -m|sed 's/x86_//;s/i[3-6]86/32/')"
+if [[ ${ARCH} = +(32|64) ]]; then
+ARCH="$ARCH"
+else
+echo "You may be using an unsupported archetecture.
+Only x86_64 or i*86 archetecture is supported by this script in some distros."
+fi 
 
 ## What distro are we running on?
 if [ -f /etc/lsb-release ]; then
@@ -15,9 +24,16 @@ fi
 if [[ ${DISTRO} = +(Manjaro|Arch) ]]; then
 Path="/usr/share/"
 elif [[ ${DISTRO} = +(Ubuntu|Debian) ]]; then
-Path="/usr/share/"
+if [ "$ARCH" = "64" ]; then
+Path="/usr/lib/x86_64-linux-gnu/"
+elif [ "$ARCH" = "32" ]; then
+Path="/usr/lib/i386-linux-gnu/"
 else
-Path=/usr/share/
+echo "Your archetecture isunsupported by this script at this time."
+exit 1
+     fi
+     else
+Path="/usr/share/"
 echo "I do not know the default location for espeak-data installation
 for your distro, so the standard installation path /usr/share will be tried.
 If the script exits with out installing the updated files,
@@ -31,9 +47,20 @@ echo "this script should not be initiated as root.
      exit 2
 fi
 
-#check for updates.
+#check for updates, or clone git repo if it does not exist.
+#make sure all required files and directories are present
+if [ -d ./espeak-en-us ]; then
+cd ./espeak-en-us/ && git pull
+else
+if ! [ -d ../espeak-en-us ]; then
+git clone git://github.com/coffeeking/espeak-en-us
+cd ./espeak-en-us/
+echo "The espeak-en-us repo has been cloned in to ${PWD}."
+else
 git pull
-
+fi
+fi
+ 
 #make sure all required files are present
      if [ ! -f "en_extra" -o ! -f "en_list" -o ! -f "en_rules" -o ! -f "en_listx" ]; then
 echo "Required files are missing. There appears to have been a problem pulling from git.
