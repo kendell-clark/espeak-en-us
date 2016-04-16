@@ -117,6 +117,7 @@ _??	sImb@L
 _braille br'eIl
 _#9	tab
 _#32	speIs
+//#65533 eI //y accute
 //…	_::d%0td,0t     // for elipsis or ...  while reading
 
 _ 	hA@dspeIs    // U+00A0  no-break-space
@@ -5691,5 +5692,4 @@ sterile		$alt2
 tensile		$alt2
 virile		$alt2
 ?3 volatile	v0la#t@L
-//U+FFFD eI //y acute
 
