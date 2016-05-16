@@ -12,7 +12,7 @@ ARCH="$ARCH"
 else
 echo "You may be using an unsupported archetecture.
 Only x86_64 or i*86 archetecture is supported by this script in some distros."
-fi 
+fi
 
 ## What distro are we running on?
 if [ -f /etc/lsb-release ]; then
@@ -60,7 +60,7 @@ else
 git pull
 fi
 fi
- 
+
 #make sure all required files are present
      if [ ! -f "en_extra" -o ! -f "en_list" -o ! -f "en_rules" -o ! -f "en_listx" ]; then
 echo "Required files are missing. There appears to have been a problem pulling from git.
@@ -76,7 +76,7 @@ fi
 
 ## Tell the user what is required and what is about to be done.
 echo
-echo "Updates are about to be aplied to the U.S. English espeak voice.
+echo "Updates are about to be applied to the U.S. English espeak voice.
 ${Path} will be used as the espeak-data directory.
  You will need a very recent espeak or espeak-ng version for the updates
  to compile and work properly, so if you need to update your espeak
@@ -88,7 +88,7 @@ read -p 'Press y or Y to continue; any other key to exit.
 echo "Exiting espeak-compile.sh:"
 exit 0
      fi
-    
+
 ## Root permissions are required to proceed.
 echo "Copying files:"
 ## Copy files to espeak directory
