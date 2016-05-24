@@ -117,7 +117,6 @@ _??	sImb@L
 _braille br'eIl
 _#9	tab
 _#32	speIs
-//#65533 eI //y accute
 //…	_::d%0td,0t     // for elipsis or ...  while reading
 
 _ 	hA@dspeIs    // U+00A0  no-break-space
@@ -658,7 +657,6 @@ mmorpg	$abbrev
 motd	$abbrev
 mpaa	$abbrev
 msaa	$abbrev
-mt m'aUnt
 mya	$abbrev
 naacp	EndVb@LeIsi:p'i:
 nato	neItoU
@@ -696,7 +694,6 @@ scsi	skVzi
 ssid	$abbrev
 ssip	$abbrev
 st	s@nt
-?3 st	seInt
 suv	$abbrev
 tbsp	teIb@Lspu:n
 th	T
@@ -2058,7 +2055,7 @@ geyser		gi:z3
 gi		gi:	$onlys
 gi		$abbrev $allcaps
 gig		gIg
-gilead		g'Ili:@d
+gilead		g'IlIad
 gimme		gImi
 giraffe		dZI2raaf
 github		gIthVb
@@ -3006,7 +3003,7 @@ preparation	prEp@r'eIS@n
 presage		prEsIdZ
 prescience	pri:si@ns
 prescript	$alt6	$onlys
-present		prEz@nt        $onlys
+present		prEz@nt       $onlys
 present		$verb
 presently	prEz@ntlI     $verbf
 preservation	prEz3v'eIS@n
@@ -3600,7 +3597,6 @@ tetanus		tEt@n@s
 thereabout	$3
 therefore	$1
 thereof		De@r'0v
-?3 thereof		De@r'Vv
 thereto		De@t'u:
 thermos		T3:m@s
 thermostable	$alt1
@@ -4923,7 +4919,7 @@ Triani		tri:'ani
 Trina		tri:n@
 Tricia		trIS@
 Trudy		tru:di
-Ulysses		ju:'lIsi:z
+Ulysses		ju:lIsi:z
 Vanessa		$alt3
 Vaughan		vO:n
 Vernon		$alt2
@@ -5692,4 +5688,5 @@ sterile		$alt2
 tensile		$alt2
 virile		$alt2
 ?3 volatile	v0la#t@L
+
 
