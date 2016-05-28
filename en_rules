@@ -1,7 +1,7 @@
+
 // ***************************************************************************
 // *   Copyright (C) 2005 to 2014 by Jonathan Duddington                     *
 // *   email: jonsd@users.sourceforge.net                                    *
-// *   Copyright (C) 2016 Reece H. Dunn                                      *
 // *                                                                         *
 // *   This program is free software; you can redistribute it and/or modify  *
 // *   it under the terms of the GNU General Public License as published by  *
@@ -1411,6 +1411,7 @@ _it_separ) ate (_  @t
 .group b
         b          b
      _) bh (@      b
+     _) b's (_     'bi:z
      _) b (L01Y    b         // allow _bl _br
      _) bj (A      bj
      _) brz (e     brz
@@ -1546,9 +1547,9 @@ _it_separ) ate (_  @t
 .group c
         c          k
      _) c (L01Y    k         // allow _cl _cr
+     _) c's (_     si:z
      _) cz (ar     z
      _) cz (e      tS
-
         cc         k
         ck         k
         c (e       s
@@ -1851,6 +1852,7 @@ _it_separ) ate (_  @t
 .group d
         d          d
      _) d (rY    d         // allow _dr
+     _) d's (_     di:z
      _) dj (Y      dZ
      _) d (nie     d
      _) d (wY      d         // allow _dw
@@ -1906,6 +1908,7 @@ _it_separ) ate (_  @t
         debu (g    di:b,V
      _) de (ba     dI2
      _) de (bil    dI#
+illi) de (gree dI
      _) de (c@     dI#
      _) deca (A    dEk@
      _) deca ((ff   d%i:ka
@@ -2103,6 +2106,7 @@ _it_separ) ate (_  @t
 .group e
         e          E
      X) e ($w_alt6+++ i:
+     _) e's (_     'i:z
      X) e ($w_alt3++++ @
         e'er       e@
    &Cr) e's (_S2   z
@@ -2206,7 +2210,6 @@ _it_separ) ate (_  @t
         equiv (@   %IkwIv
      h) e (sion_   'i:
      @) e (tio     i:
-   _pr) e (au      i
  discr) e (tion    E
         ew         ju:
     _s) ew         u:
@@ -2547,7 +2550,7 @@ _it_separ) ate (_  @t
     eg) en (d      @n
         en (dea    %En
         en (der    En
-   cal) en (dAr    @n
+   cal) en (der    @n
         en (dous   En
      _) endo       EndoU
      @) en (do_    'En
@@ -2652,7 +2655,6 @@ _it_separ) ate (_  @t
   L01v) en (t_     @n
    @@v) en (t_     @n
      &) en (th_    @n
-     &) en (ty_    @n
      &) en (ce_    @n
 ?8   &) en (ce_    En
      f) en (ce_    En
@@ -3058,6 +3060,7 @@ _it_separ) ate (_  @t
 .group f
         f          f
      _) f (L01Y    f         // allow _fl _fr
+     _) f's (_     'Efs
      _) fj (ord    fI'
 
         f (f 
@@ -3077,6 +3080,7 @@ _it_separ) ate (_  @t
 .group g
         g          g
      _) g (L01Y    g
+     _) g's (_     'dZi:z
      _) gh (Y      g
      _) g (nY 
      _) g (wY      g
@@ -3164,6 +3168,7 @@ _it_separ) ate (_  @t
 .group h
         h          h
         h (h 
+     _) h's (_     'eItSIz
         h (_ 
     _B) h 
      @) hammed     h'amId
@@ -3210,6 +3215,7 @@ _it_separ) ate (_  @t
 .group i
         i          I
         i (_       i
+     _) i's (_     'aIz
         i (_$w_alt1 aI
  ntell) i          I
      _) i'         %aI
@@ -4063,6 +4069,7 @@ _it_separ) ate (_  @t
 .group j
         j          dZ
         j (j 
+     _) j's (_     'dZeIz
      _) ja (mai    dZa#
         jager      jeIg3
      _) jere (C    dZEr@
@@ -4083,6 +4090,7 @@ _it_separ) ate (_  @t
 
 .group k
         k          k
+     _) k's (_     keIz
         k (k 
      _) k (L01Y    k
      _) k (hY      k
@@ -4387,8 +4395,9 @@ multip) ly         laI
 .group o
         o          0
      _) o          0
+     _) o's (_     oUz
      X) o          0#
-!?3 _h) o (lt      0
+//    _h) o          0
      X) o ($w_alt3+++ %0#
      _) o' (P2     %oU       // prefix
         o'er       o@
@@ -4629,7 +4638,6 @@ multip) ly         laI
     at) oll        0l
      w) oll        oUl
         olm (_     oUm
-     h) olm        oUm
      @) ol (o_     @l
         olo (gi    '0l@
         olo (gic   @l'0
@@ -4934,8 +4942,7 @@ multip) ly         laI
     st) ore (_     o@
      @) orily (_   =3r@li
 ?3   @) orily (_   o@r@li
-     &) or (isA    3r
-     &) or (izA    3r
+        or (izA    3r
      h) ori (zont  0rI
      b) oro (_     @roU
 ?!3 _h) or (o      0r
@@ -5295,6 +5302,7 @@ multip) ly         laI
 .group p
         p          p
         p (p 
+     _) p's (_     pi:z
      _) p (L01Y    p         // allow _pl _pr
      _) pf (Y      f
      _) ph (Y      f
@@ -5330,6 +5338,7 @@ multip) ly         laI
         pkg        pi:keIdZ'i: // makepkg
         por (tray  p%o@
 //         _) post (@@P4   p,oUst           // prefix
+        pneu       nju:
         poly (@@   p,0lI
         poly (@    p0lI
         pota (t    p@teI
@@ -5585,8 +5594,6 @@ multip) ly         laI
 
 .group re
      _) re (C@     rI2
-     _) reflex     ri:flE2ks
-     _) reflexive  rI2fl'EksIv
    &Ct) red (_     @d
     &B) red (_     rI#d
     Cb) red (_+    rEd
@@ -5862,7 +5869,6 @@ multip) ly         laI
    @@o) some (_S4  soUm
      &) speak (_S5 spi:k
    cro) ss (h      s
-        ss (hood_  s
         ssion      =S@n
 ?8      ssion (_   =SVn
     1_) st (_ 
@@ -5970,6 +5976,7 @@ multip) ly         laI
 .group t
         t          t
      t) t 
+     _) t's (_     ti:z
      _) t (rY      t
      _) t (sY      t
      _) t (wY      t
@@ -6457,7 +6464,6 @@ contin) u          ju:
 ?5      urr (_     VR
 ?3      urr        3:
      C) ur (A      jUr
-    _p) ure (b     jU@
      C) ur (a_     'jU@
      p) ur (a_     U@
      l) ur (A+     U@
@@ -6540,11 +6546,7 @@ contin) u          ju:
         who (d     hu:
         who (m     hu:
         who (s     hu:
-        wh (oC     h
-        wh (orl    w
-?2      wh (orl    w#
-        wh (op     w
-?2      wh (op     w#
+        wh (ol     h
      m) w (ich_ 
         wiki       wIki
      B) wing (_    wIN
@@ -6585,6 +6587,7 @@ contin) u          ju:
 .group y
      _) y (_       waI
      -) y (-       @         // Welsh names
+     _) y's (_     waIz
         y          j
      _) y' (CP2    j@
         y (_$w_alt1++ aI
