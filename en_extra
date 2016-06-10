@@ -1484,7 +1484,9 @@ mouchard mu:'SA@d
 movelist m'u:vlIst
 moveset m'u:vsEt
 moviegoer mu:vigoU3
-msword 'Em||'Es||w'3:d $only
+msword 'Em||'Es||w'3:d
+msoffice 'Em||'Es||'0fIs
+msoffices 'Em||'Es||'0fIsI#z
 //mt. m'aUntIn $abbrev $dot
 mua $abbrev $only
 muammar mu:'0mA@
