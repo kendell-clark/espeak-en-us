@@ -1305,7 +1305,7 @@ _it_separ) ate (_  @t
      _) ato (n     a#toU
      _) ato (na    %eItoU
      &) atory      @t3ri
-?3   &) atory (_   @to:ri
+?3   &) atory (_   @to@ri
      _) at (riA    eIt
     _m) at (riar   eIt
         atrices    'eItrI2si:z
@@ -2210,6 +2210,15 @@ _it_separ) ate (_  @t
    _pr) e (au      i
  discr) e (tion    E
         ew         ju:
+   ren) ew (A      ju:
+    AC) ew (A      w
+    Ay) ew (A      w
+   ACC) ew (AlC    w
+   ACC) ew (All    w
+   ACC) ew (Ay     w
+   ACC) ew (ater   w
+   ACC) ew (ein    w
+   ACC) ew (ood    w
     _s) ew         u:
 ?3   d) ew         u:
 ?3   n) ew         u:
@@ -2221,7 +2230,6 @@ _it_separ) ate (_  @t
     _s) ew (_      oU
         eway (_S3  weI
      j) ewe (l     u:@
-        e (work 
      @) ez (_      =Ez
 
 .group ea
@@ -4977,7 +4985,7 @@ multip) ly         laI
      w) or (e      o@
         or (um_    'o@r
      &) ory (_     @ri
-?3 @@At) ory (_     ,o:ri
+?3 @@At) ory (_     ,o@ri
     ct) ory (_     =@ri
     ct) orily (_   =@r@li
    _st) ory        o@ri
@@ -6026,7 +6034,7 @@ multip) ly         laI
 ?3   &) ten (_     ?n-
 //?3 &CC) ten (_     t@n
 ?3   &) tten (_    ?n-
-    Xe) ttin (_    ?n        // gettin, lettin
+?3  Xe) ttin (_    ?n        // gettin, lettin
 ?3   &) tton       ?n-
      _) two (@P3   t'u:
         ttu (r     t@
@@ -6927,7 +6935,7 @@ contin) u          ju:
      _) é          %I
         ée         i:
         ée (_      'eI
-        ê          E:
+        ê          e@
         ä          E
         ë          E
         ï          i:
@@ -6944,8 +6952,7 @@ contin) u          ju:
         ž          Z
         þ          T
         ð          D
-//	ñ	nj
-        ñ          _^_ES
+	ñ          nj
 
      _) ʻ (A       ?         // arabic
 
