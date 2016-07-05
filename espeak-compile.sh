@@ -62,7 +62,7 @@ fi
 fi
 
 #make sure all required files are present
-     if [ ! -f "en_extra" -o ! -f "en_list" -o ! -f "en_rules" -o ! -f "en_listx" ]; then
+     if [ ! -f "en_extra" -o ! -f "en_list" -o ! -f "en_rules" -o !   ]; then
 echo "Required files are missing. There appears to have been a problem pulling from git.
 Check your internet connection and try running this script again.
      exiting."
