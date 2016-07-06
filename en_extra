@@ -155,6 +155,7 @@ applesmc 'ap@L||EsEm'si:
 applique 'aplIkeI
 appliqué 'aplIkeI
 appliquéd 'aplIkeId
+apn $abbrev //access point name
 approbation aproUb'eIS@n
 appshelp 'aps||h'Elp
 aquaman '0kw@||'man
@@ -194,8 +195,10 @@ astarboard  a#st'A@b3d
 aston 'ast2@n
 atha'an 0T@||'0n
 athame 'aT@meI
+atnt  'eIt2i:;@nt'i:
 atreyu a#'treIu:
 atropos atr@poUs
+att $abbrev //shorthand for at&t
 attaché attache $text
 attanasio a?n'asi;oU
 attison at#Is@n
