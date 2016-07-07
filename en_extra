@@ -2660,6 +2660,7 @@ wyrm w'3:m
 wytch witch $text
 xdgapp Eksdi:'dZi:||'ap
 xtra 'Ekstr@ //pib xtra
+yaml $abbrev //platform agnostic config standard, similar to xml
 yarmulke j'A@mUk@
 yasmine j'azmIn
 yasr $abbrev //yet another screen reader, an alternative console screen reader to speakup
