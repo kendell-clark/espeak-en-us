@@ -2556,6 +2556,8 @@ upx $abbrev $only //universal executible compressor
 urithiru $2
 Urû'baen 'U:ru:beIn
 usatoday ju:EseI||t2@'deI
+usbcore j'u:||'Es||b'i:||k'o@
+usbfs $abbrev //kernel module to access various file systems over usb. Actually part of the usbcore kernel module
 usblp $abbrev //kernel module for usb printers
 usefully j'u:sf@li
 useless  ju:sl@s $atend
