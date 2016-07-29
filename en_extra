@@ -2336,6 +2336,7 @@ SMÉAGOL 'smi:g0l
 smileage smaIlIdZ $1
 snorefest  sn'o@fEst
 snowdance sn'oUdans
+soc $abbrev //system on chip
 socioecological soUsI2;oUEk@'l0dZIk@L
 socioecology soUsI2;oUIk'0l@dZi
 socioeconomical soUsI2;oUEk@'n0mIk@L
@@ -2580,8 +2581,8 @@ undulent $1
 unitas ju:'naIt@s
 unohelper 'u:noU||h'Elp3 //part of libre office
 unputdownable   Vnp,Ut'daUn@b@L
-(up-andcoming)  'Vp||'and||k'VmI2N $only //amalgamation of and and coming
-ups $abbrev $only $allcaps //united parsel service and uninterruptible power source
+(up-andcoming)  'Vp||'and||k'VmI2N $only //amalgamation of up and coming
+ups $abbrev $only //united parsel service and uninterruptible power source
 upsloped VpsloUpd
 upsloping VpsloUpIN
 upx $abbrev $only //universal executible compressor
