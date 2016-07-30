@@ -1880,6 +1880,7 @@ odysseus  oUd'IsI2;@s
 oenology i:n'0l@dZi
 ogier 'oUge@
 Óg 'oUg $onlys //aenghus og
+ohci $abbrev //part of the usb spec
 ohmygod 'oU||m'aI||g'0d $only
 olivier $2
 omage oU'm0Z
@@ -2571,6 +2572,7 @@ Tyrannomon t3r'0n@m0n
 uasi $abbrev $allcaps
 udf $abbrev //universal disk filesystem/format
 udma $abbrev //uniform direct memory access
+uhci $abbrev //universal host controller interface, part of the usb spec
 uhd $abbrev //ultra high definition
 uhdtv $abbrev //ultra high definition television
 ukranian ju:'kreIni@n
