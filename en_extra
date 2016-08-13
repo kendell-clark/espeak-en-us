@@ -1258,11 +1258,11 @@ ick 'Ik
 iconoclast $2
 iconset 'aIk0nsEt
 id $abbrev $allcaps
-id $abbrev $capital
+//id $abbrev $capital
 id'd aI'di:d $only
 ide $abbrev $only //integrated development environment
 id Id $onlys
-ID'ing aId'i:IN
+//ID'ing aId'i:IN
 id'ing aI'di:IN $only
 idiotproof  'IdI;@tpru:f
 idk $abbrev $only //I don't know
