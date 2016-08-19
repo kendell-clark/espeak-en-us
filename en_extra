@@ -118,6 +118,8 @@ amathera a#m'0T3@
 amatis 'am@t2Is
 amaya a#'meIa#
 amdgpu $abbrev //open source kernel module from ati providing support for many of it's graphics cards
+amdkfb $abbrev //amd's open source HSA driver for t //some of their graphics cards. Man there sure are a //lot lol
+amdptx $abbrev //kernel source code in the amd radeon driver
 Américain a#'mErIkeIn
 americanize a#m'ErIk@naIz
 ami 0'mi: $onlys
@@ -2062,7 +2064,7 @@ protools proUt2u:lz
 prowar proU||wO@
 prozac pr'oUzak
 pruney pr'u:ni
-pruscettio br@'sEttSoU
+pruscettio br@'SEtoU
 pseudofather  su:doUf'0D3
 pseudonymous su:'d0nIm@s
 pseudopsychoanalyst $5
