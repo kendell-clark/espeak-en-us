@@ -4212,7 +4212,11 @@ multip) ly         laI
 
 .group m
         m          m
-        mm         m
+        //digimon names rule contributed by valdis //vitolins
+m (on_     0n   // singular
+        m (ons_    0ns  // plural
+        //end of contribution
+mm         m
      _) mn (e      n
     Ch) m (_       @m
      B) m (_       @m
