@@ -367,8 +367,8 @@ bombi b'0mbi //bombi, the stoned deer! Yes this is an actual character name on a
 (bon mot) b'oUn||m'oU $onlys
 (bon temps) bA~nt'A~ //town in louisiana
 bootheel bu:t2hi:l
-bootmgfw b'u:t||'Em||dZ'i:||'Ef||d'Vb@Lju:
-bootmgr b'u:t||EmdZi:'A@
+bootmgfw b'u:t||'Em||dZ'i:||'Ef||d'Vb@Lju: //bootmgfw.efi boots windows 8 and newer if using uefi
+bootmgr b'u:t||EmdZi:'A@ //program that boots windows vista+ when in bios mode
 bootnxt b'u:t2||EnEkst2'i:
 Borodin bo@'oUdIn
 borromeo bA:r@'meIoU
@@ -376,9 +376,9 @@ bossier b'oUZ3 //bossier city
 bossypants b'Osipants
 bottleneck  b'0t#@Ln,Ek
 bougainvillea bu:gInvIli@ $3
-bougainville b'u:g@nvIl
+bougainville b'u:g@nvIl //city
 bouhe b'u:a# //name
-boule bu:'leI
+boule bu:'leI //name
 boulevardier  bu:lI2v,A@di'eI
 bowtied  boUt2aId
 bowyer b'oUi3
@@ -390,7 +390,7 @@ brewonly br'u:||'oUnli
 bristly br'Isli
 britlingen  br'ItlINg@n
 brlapi $abbrev //brltty api for communicating with screen readers
-broderick br'0d3Ik
+broderick br'0d3Ik //name
 bromance br'oUmans
 bronchitis  br0nk'aIt#Is
 brooches br'oUtSIz
