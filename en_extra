@@ -2623,6 +2623,7 @@ tyna t2'aIn@
 tyn t2'aIn $onlys
 Tyrannomon t3r'0n@m0n
 uasi $abbrev $allcaps
+udc $abbrev //usb direct connect
 udf $abbrev //universal disk filesystem/format
 udma $abbrev //uniform direct memory access
 uhci $abbrev //universal host controller interface, part of the usb spec
