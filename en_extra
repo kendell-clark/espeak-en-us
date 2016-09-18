@@ -119,6 +119,7 @@ amatheon a#m'aTi@n
 amathera a#m'0T3@
 amatis 'am@t2Is
 amaya a#'meIa#
+amdgfx $abbrev //amd kernel module
 amdgpu $abbrev //open source kernel module from ati providing support for many of it's graphics cards
 amdkfb $abbrev //amd's open source HSA driver for t //some of their graphics cards. Man there sure are a //lot lol
 amdptx $abbrev //kernel source code in the amd radeon driver
