@@ -1,7 +1,6 @@
 name english-us
 language en-us 2
 language en 3
-gender male
 
 maintainer Reece H. Dunn <msclrhd@gmail.com>
 status mature
@@ -16,9 +15,6 @@ stressAmp  17 16  19 19  19 19  21 19
 replace 03 I  i
 replace 03 I2 i
 
-language variant
-name Max
-
 formant 0 90 120 100
 formant 1 100 100 75
 formant 2 100 100 75
@@ -28,4 +24,3 @@ formant 5 100 80 75
 formant 6 100 0 75
 formant 7 100 0 75
 formant 8 100 0 75
-
