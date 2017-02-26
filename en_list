@@ -850,6 +850,7 @@ ague		eIgju:
 aha		A:h'A:
 ahem		@h'@m
 ahoy		a#hOI
+aidenn		eId@n
 airbus		e@bVs
 airpower	'e@p,aU@
 aisle		aI@l
@@ -921,6 +922,7 @@ analyses	a#nal@si:z	$noun
 analysis	a#nal@sIs
 anatomy		$alt3
 anchovy		antSoUvi
+?3 ancient	eIntS@nt
 anemone		a#nEm@ni
 anemometer	anIm'0mI2t3
 anesthetize	$alt3
@@ -1040,8 +1042,8 @@ aussie		0zi
 ?3 aussie	0si
 austere		O:st'i@3
 authority	a#T0rI2ti
-authoritative	O:T'0rI2t@tIv
-?3 authoritative	a#T'O@I#t2eItIv
+authoritative	O:T'O2rI2t@tIv
+?3 authoritative	a#T'O2rI#t2eItIv
 autism		O:t2Iz@m
 autograph	O:t@graf
 auto		O:toU
@@ -1665,7 +1667,7 @@ derogative	$2
 descant		dEskant
 descry		dI2skreI
 desert		dI2z3:t
-desert		dEs3t		$only
+desert		dEz3t		$only
 desert		dI2z3:t		$verb
 desi		deIsi
 desolate	dEs@l@t		$only
@@ -1688,7 +1690,6 @@ diabetes	daI|@b'i:ti:z
 diablo		di:'A:bloU
 diabolo		daI'ab@loU
 diagnose	$3
-//?3 dialog	daI|@lO:g
 dialysis	daI'al@sIs
 diameter	daI'amI2t3
 diaper		daIp3
@@ -2060,7 +2061,7 @@ geyser		gi:z3
 gi		gi:	$onlys
 gi		$abbrev $allcaps
 gig		gIg
-gilead		g'IlIad
+gilead		g'Iliad
 gimme		gImi
 giraffe		dZI2raaf
 github		gIthVb
@@ -2471,7 +2472,7 @@ lorenz		l0r@nts
 los		,l0s          $only
 losing		lu:zIN        // misspell
 loquat		loUkw0t
-?3 lost		lOst
+lost		lO2st
 loudmouth	$alt1
 lugubrious	l@g'u:brI2@s
 lukewarm	lu:kwO@m
@@ -3008,7 +3009,7 @@ prescience	pri:si@ns
 prescript	$alt6	$onlys
 present		prEz@nt       $onlys
 present		$verb
-presently	prEz@ntlI     $verbf
+presently	prEz@ntli     $verbf
 preservation	prEz3v'eIS@n
 preset		pri:sEt
 prestige	prEst'i:Z
@@ -3089,6 +3090,7 @@ quesadilla      keIs@'di:@
 quiche		ki:S
 quiver		kwIv3
 quoi		kwA:
+?3 quoth	kwoUT
 
 rabbi		rabaI
 rabbis		rabaIz
@@ -3736,7 +3738,7 @@ upriver		,Vpr'Iv3
 uproot		$2
 uplift		$2
 upset		$1        $noun
-upstart		$1
+upstart		$1        $only
 uptight		$2
 urdu		U@du:
 urea		ju:r'i@
@@ -4070,7 +4072,7 @@ Bogotá		bogota	$text
 Bologna		b@loUn;@ $capital
 Boötes		boU'oUti:z
 Boötis		boU'oUtI#s
-?3 Boston	bOst@n
+Boston		bO2st@n
 ?!3 Boulogne	bUl'OIn
 Brisbane	brIsb@n
 Bucharest	bu:ka#r'Est
@@ -4748,7 +4750,7 @@ Leann		li:'an
 Leanne		li:'an
 (Le ann)	li:'an
 Lelaine		$2
-Lenore		lEn'o@
+Lenore		lIn'o@
 Leola		li:'oUl@
 Leon		li:0n
 Leonard		lEn3d
@@ -4840,6 +4842,7 @@ Nigel		naIdZ@L
 Nguyen		nu:jEn
 Omar		oUmA@
 Oscar		0sk3
+Pallas          pal@s
 Pamela		pam@l@
 Pandora		$2
 Patricia	pa#trIS@
@@ -5268,8 +5271,8 @@ in               %In		$strend $only $nounf
 (in which)       	$u2 $pause
 (in a row)       Ina#||r'oU
 
-on               ,0n		$strend2
-(on the)         %0nD@2
+on               ,O2n		$strend2
+(on the)         %O2nD@2
 
 (out of)         ,aUt@v
 into             ,IntU
@@ -5439,8 +5442,7 @@ go               ,goU		$strend2 $only
 goes             %goUz		$strend2 $only
 goeth		goU@T		$u+
 going            ,goUIN		$strend2 $only
-gone             %g0n		$strend2 $only
-?3 gone          %gOn		$strend2 $only
+gone             %gO2n		$strend2 $only
 went             %wEnt		$strend2 $only
 
 do               du:		$verbf
