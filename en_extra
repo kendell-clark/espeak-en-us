@@ -2750,6 +2750,7 @@ udma $abbrev //uniform direct memory access
 uhci $abbrev //universal host controller interface, part of the usb spec
 uhd $abbrev //ultra high definition
 uhdtv $abbrev //ultra high definition television
+uia $abbrev //ui automation, windows accessibility api
 ukranian ju:'kreIni@n
 ultraman 'Vltr@man
 ululant ju:lju:l@nt
