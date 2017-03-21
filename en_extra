@@ -1636,6 +1636,7 @@ libmtp l'Ib||'Em||'t2i:||p'i:
 libra l'i:bRa#
 librefm l'i:br@||'Ef||'Em
 librejs 'li:br@||dZeI'Es
+libretro lIb'rEt2roU //library for multiple console gaming systems, ps2, psx, etc.
 libro l'i:bRoU
 libvoxin l'Ib||v'0ksIn
 licorice l'ik3Is
@@ -2751,12 +2752,13 @@ tristate traIsteIt $only
 triumvirate  traI;'Vmv3@t
 trochek tr'oUSEk
 trojaned troUdZ@nd
-trolloc 'tr0l@k
+trolloc 'tr0l@k //dark moblin from the wheel of time series, by brandon sanderson and robert jordon
 truckbed tr'VkbEd
-trucrypt  tr'u:krIpt
-trytian tr'It#i@n
+trucrypt  tr'u:krIpt //abandoned semi open source encryption software for //windows, mac and linux. Veracrypt is the successor
+trytian tr'It#i@n //name
  (tsi sgili)tsi:ts@'gi:li //ancient name for a god
-ttsynth 't2i:||'t2i:||s'InT $onlys
+ttsynth 't2i:||'t2i:||s'InT $onlys //old unmaintained ibmtts speakup connector, similar to espeakup
+ttyd $abbrev //tty daemon, thousand year door, many others.
 tuatha'an tu:'0T@||'0n
 tucumcari tucumkari $text
 tudor  tu:do@
