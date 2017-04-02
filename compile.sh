@@ -3,7 +3,7 @@
 # Get espeak path:
 distroName="$(uname -r | rev | cut -d - -f1 | rev))"
 # for distros that put stuff in different places, set the Path variable here:
-case "$distroName" in)
+case "$distroName" in
 *)
 Path="/usr/share/espeak-ng-data"
 esac
