@@ -1356,6 +1356,7 @@ chemise		S@mi:z
 cherish		tSErI2S
 chevalier	$alt1
 chevrolet	SEvr@l'eI
+chi			kaI // greek letter
 chianti		kjA:nti
 chic		Si:k
 chickpea	tSIkpi:
@@ -1866,6 +1867,7 @@ essential	I#sEnS@L
 estimate	EstI#meIt      $verb
 estoppel	Est'0p@L
 estrange	$2
+eta			i:t@ // greek letter
 ethernet	$alt1
 etiquette	$1
 ?3 etiquette	EtI2k@t
@@ -2790,7 +2792,6 @@ orate		$2
 ordeal		O@d'i@l
 oregano		0rIg'A:noU
 organelle	O@g@n'El
-orion		0r'aI@n
 ornamented	'O@n@m,EntI#d
 ornate		$2
 orphan		O@f@n          // orphaned
@@ -3621,6 +3622,7 @@ thermostable	$alt1
 thesaurus	TI#sO@r@s
 thesis		Ti:sIs
 theta		Ti:t@
+?3 theta	TeIt@
 thingumajig	TIN@m@dZIg
 tho		DoU $only
 throughout	$2
@@ -3926,6 +3928,8 @@ zealot		$alt2
 ?3 zebra	zi:br@
 zeppole		zEp@li
 ?3 zenith	zi:nI2T
+zeta		zi:t@
+?3 zeta		zeIt@
 zulus		zu:lu:z
 
 
@@ -4522,9 +4526,11 @@ Alibaba		alI'bA:b@
 Alice		alIs
 Alicia		a#li:S@
 Alise		a#li:s
-Allen		al@n
 Alison		alIs@n
+Allen		al@n
 Allyson		alIs@n
+Alnilam		alnIlam
+Alnitak		alnItak
 Alucard		$1
 Alycen		alIs@n
 Alyssa		a#lIs@
@@ -4702,6 +4708,7 @@ Harold		har@Ld
 Harriet		hari@t
 Harris		$alt1
 Harvey		hA@vi
+Hatsya		hats'aI@
 Heidi		haIdi
 Hecate		hEk@teI
 Hekate		hEk@teI
@@ -4882,6 +4889,7 @@ Reginald	rEdZIn@Ld
 Remus		ri:m@s
 Reynold		rEn@Ld
 Rhys		ri:s
+Rigel		raIdZ@L
 Rihanna		rI'A:n@
 Roberta		rVb'3:t@
 Roderick	r0drIk
