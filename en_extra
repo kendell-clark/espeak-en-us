@@ -932,6 +932,7 @@ eatin 'i:?n- $only
 ebenezer Eb@n'i:z3
 ebonwumon Ib'0nwu:m0n
 ebtable i:b'i:||t2'eIb@L
+ec $abbrev $allcaps  //embedded controller
 ecce Eke $only
 ecdsa $abbrev //cryptographic algorythm
 eci $abbrev //eloquence command interface
@@ -2856,7 +2857,7 @@ ukranian ju:'kreIni@n
 ultraman 'Vltr@man
 ululant ju:lju:l@nt
 umaroth u:'mA@OT
-unabashedly Vna#b'aSIdli
+//unabashedly Vna#b'aSIdli
 unaccustomedly  Vna#k'Vst@m,Idli
 undeleteable VndI'li:t#@b@L
 undulent $1
