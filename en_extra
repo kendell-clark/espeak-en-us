@@ -1679,6 +1679,7 @@ libepub l'Ib||'i:pVb
 liberace lIb3'0tSi
 libespeak l'Ib||'i:spi:k
 libespeakng l'Ib||'i:spi:k'En||'dZi:
+libftdi l'Ib||'Ef||t2'i:||d'i:||'aI //library to communicate with ftdi usb to serial adaptors
 libgpod l'IB||dZ'i:||p'0d
 libibmeci l'Ib||'aI||b'i:||'Em||'i:||s'i:||'aI
 libimobiledevice l'Ib||'aI||m'oUb@L||dI'vaIs $onlys
@@ -2833,6 +2834,7 @@ tucumcari tucumkari $text
 tudor  tu:do@
 tula t2'u:l@
 tuleman t2'u:lm@n
+tunein t2'u:n||'In
 tungsten t'VNst@n
 turbaned  t'3:b@nd
 turbocharger t'3boUtSA@dZ3
