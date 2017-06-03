@@ -2897,6 +2897,7 @@ uasi $abbrev $allcaps
 ucd $abbrev //unicode data, specifically relating to emoji
 udc $abbrev //usb direct connect
 udf $abbrev //universal disk filesystem/format
+udid $abbrev //unique device ID, apple specific uuids
 udma $abbrev //uniform direct memory access
 uhci $abbrev //universal host controller interface, part of the usb spec
 uhd $abbrev //ultra high definition
