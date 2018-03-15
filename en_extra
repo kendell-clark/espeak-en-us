@@ -906,7 +906,7 @@ Dräger dr'aUg3
 draghkar 'dr0kA@
 dran-o dr'eInoU
 drano dr'eInoU
-dran-O dr'eInoU
+dran-o dr'eInoU
 dre dr'eI $onlys
 Drehy dr'eIhi:
 dressage dr@'s0Z
@@ -2038,6 +2038,8 @@ nickelback n'Ik@Lbak
 nicola nI'koUl@ $only //name
 nidhe n'aI
 nidus n'aId@s
+nietski n'i:tski //name
+nietsky n'i:tski //name
 nietzsche's n'i:tS@z
 nightowl  n'aIt#aUl
 niguel ni'gEl
@@ -2048,7 +2050,7 @@ nippon n'Ip0n
 nis $abbrev $only //network information system
 nissan 'ni:s0n
 nisura nI#'sU@@
-noaa $abbrev $allcaps //national oceanic and atmospheric administration
+noaa $abbrev //national oceanic and atmospheric administration
 noblest n'oUbl@st
 nonce n'0ns $onlys
 noplace noUpleIs $only
