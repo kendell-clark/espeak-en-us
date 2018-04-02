@@ -11,9 +11,11 @@ esac
 echo "Copying files:"
 ## Copy files to espeak directory
 sudo cp ./en_* ${Path}/
+sudo cp -rf ./phsource ${PATH}/
 ## Change to espeak-data directory and compile
 cd $Path
 sudo espeak --compile=en-us
+sudo espeak --compile-phonemes=phsource
 if [ $? -eq 0 ]; then
 echo "Files Updated!"
 else
