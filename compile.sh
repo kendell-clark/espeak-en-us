@@ -11,7 +11,7 @@ esac
 echo "Copying files:"
 ## Copy files to espeak directory
 sudo cp ./en_* ${Path}/
-sudo cp -rf ./phsource ${PATH}/
+sudo cp -rf ./phsource ${Path}/
 ## Change to espeak-data directory and compile
 cd $Path
 sudo espeak --compile=en-us
