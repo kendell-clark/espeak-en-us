@@ -2001,7 +2001,8 @@ naivite naIi:vI't2eI //misspell
 naloxone n@'l0ksoUn //opioid reverser
 NALYWAJKO n0l@'waIkoU //name
 nanigen 'nan@dZ@n //nanigen technologies
-(na nÓg) n'0||n'oUg //irish plain
+(na nÓg) n@||n'oUg //irish plain
+(na nog) n@||n'oUg //irish plain
 narcissus $2 //name
 erissa n3'Is@
 narissa n3'Is@
@@ -2113,6 +2114,7 @@ ogier 'oUge@
 Óg 'oUg $onlys //aenghus og
 ohci $abbrev //part of the usb spec
 ohmygod 'oU||m'aI||g'0d $only
+(o'kennedy) oUk@n'eIdi
 okleasik oUkl'i:zIk
 olivier $2
 omage oU'm0Z
@@ -2829,7 +2831,8 @@ tigervespamon t2'aIg3||v'Esp@m0n
 tigre t2'i:gReI
 tinnitus tIn'aIt@s
 tipi 't2i:pi:
-Tír t'i@3 
+Tír t'i@3 $only
+Tir t'i@3 $only
 tirade t2'aIreId
 tischhauser t'IShaUz3 //name
 titamon t'aIt#@m0n //guess
