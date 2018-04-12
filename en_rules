@@ -1580,6 +1580,7 @@ _it_separ) ate (_  @t
         cc         k
         ck         k
         c (e       s
+        c (epost_S4 poUst // fencepost
         c (é       s
      s) c (e 
         c (E       s
@@ -5779,6 +5780,7 @@ multip) ly         laI
         re (son    rE
         re (stl    rE
         re (stro   rE
+     _) re (supP2  r,i:
         res (ult   rI2z
         ret (ail   ri:t2
         re (ti+    rE
@@ -5862,14 +5864,13 @@ multip) ly         laI
   plea) s (e       z
    pea) s (e       z
    tea) s (e       z
+    ea) s (le      z
    _he) s (it      z
    _re) s (o       z
 ?3  re) s (our     s
     ai) s (e       z
     ui) se (_      z
   _Coi) s (e       z
-     o) se (_      z
-    do) se (_      z
     oo) se (_      s
   choo) se         z
     to) se (_      z
@@ -5966,16 +5967,12 @@ multip) ly         laI
   &sse) s (_S2     I#z
         ss (_      s
         sse (_     s
-     c) s (_       s
+        s (_       s
    @ce) s (_S1     I#z
    &er) s (_S1m    z
-     f) s (_       s
     gh) s (_       z# // [s] if 'gh' is [f], otherwise [z]
     ng) s (_S1m    z
-     k) s (_       s
      n) s (_S1m    z
-     p) s (_       s
-    th) s (_       s
      t) s (_S1m    s
     te) s (_S1m    s
     &c) s (_S1m    s
@@ -6614,7 +6611,7 @@ contin) u          ju:
      E) way (_S3   weI
      E) ways (_S4  weIz
      C) we (_      =wI
-     _) were (P4   w'e@_|
+     _) were (P4t  w'e@
      C) west       w'Est
         we (w      wi:
         where      we@
@@ -6772,6 +6769,7 @@ contin) u          ju:
         yhr        i@
 ?!3  d) y (nas     I
      s) ynch       Ink
+     t) yg (e+     aIg
      t) y (pist    aI
      t) y (pic     I
      t) y (p_      aI
