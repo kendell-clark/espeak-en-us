@@ -13,10 +13,13 @@ echo "Copying files:"
 sudo cp ./en_* ${Path}/
 sudo cp -rf ./phsource ${Path}/
 sudo cp en-US ${Path}/
+#copy french rules
+cp fr_* ${Path}/
 ## Change to espeak-data directory and compile
 cd $Path
 sudo espeak --compile=en-us
 sudo espeak --compile-phonemes=phsource
+sudo espeak --compile=fr
 if [ $? -eq 0 ]; then
 echo "Files Updated!"
 else
