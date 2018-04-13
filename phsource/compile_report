@@ -107,7 +107,7 @@ consonants  11  119
       my  83  177
       gn  16  116
       ky  42  122
-      mi  12  115
+      mi  12  114
 
 Data file      Used by
 b/b             [b] base1
@@ -1070,7 +1070,7 @@ nn/nn@          [N] base1
                 [N] zh
                 [N] sw
                 [N] ky
-                [ng] mi
+                [N] mi
 nn/nn_          [N] base1
                 [N] ja
                 [N] sw
@@ -1082,7 +1082,7 @@ nn/nna          [N] base1
                 [N] zh
                 [N] sw
                 [N] ky
-                [ng] mi
+                [N] mi
 nn/nne          [N] base1
                 [N] ja
                 [N] hak
@@ -1090,7 +1090,7 @@ nn/nne          [N] base1
                 [N] zh
                 [N] sw
                 [N] ky
-                [ng] mi
+                [N] mi
 nn/nni          [N] base1
                 [N] ja
                 [N] hak
@@ -1098,7 +1098,7 @@ nn/nni          [N] base1
                 [N] zh
                 [N] sw
                 [N] ky
-                [ng] mi
+                [N] mi
 nn/nnj          [N] base1
                 [N] ja
                 [N] ky
@@ -1109,7 +1109,7 @@ nn/nno          [N] base1
                 [N] zh
                 [N] sw
                 [N] ky
-                [ng] mi
+                [N] mi
 nn/nnu          [N] base1
                 [N] ja
                 [N] hak
@@ -1117,7 +1117,7 @@ nn/nnu          [N] base1
                 [N] zh
                 [N] sw
                 [N] ky
-                [ng] mi
+                [N] mi
 r/_r            [r] base1
 r/a_            [r] da
                 [3-] da
@@ -2523,7 +2523,7 @@ vowel/a_5       [a:] hi_base
                 [a] tn
                 [a] kk
                 [a] mi
-                [aa] mi
+                [a:] mi
 vowel/a_6       [aa] en
                 [a] ca
                 [a] am
@@ -2639,7 +2639,7 @@ vowel/e         [e] base1
                 [e] ky
                 [e:] ky
                 [e] mi
-                [ee] mi
+                [e:] mi
 vowel/e#        [I] en-sc
                 [e] et
                 [E] kl
@@ -2832,7 +2832,7 @@ vowel/i         [i] base1
                 [i] ky
                 [i:] ky
                 [i] mi
-                [ii] mi
+                [i:] mi
 vowel/i#        [y:] cy
                 [i] vi-sgn
 vowel/i#_5      [y] pt-pt
@@ -3019,7 +3019,7 @@ vowel/o         [o] base2
                 [o] bo
                 [o] kl
                 [o] mi
-                [oo] mi
+                [o:] mi
 vowel/o-        [o-] hak
 vowel/o-_2      [V] en-n
                 [V] en-wm
@@ -3189,7 +3189,7 @@ vowel/u         [u] base1
                 [u] bo
                 [u] tt
                 [u] mi
-                [uu] mi
+                [u:] mi
 vowel/u#        [u:] en-sc
                 [Y] tr
 vowel/u#_2      [u-] sv
