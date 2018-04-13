@@ -2728,10 +2728,10 @@ sudoedit s'u:doUEdIt
 sug 'SUg $onlys
 suileabhain s'VlIv@n //name
 suiza swi:z@
-sulachan s'u:l@tSan
+sulachan s'u:l@tSan //name
 sul'dam sVl'dam
 sundance  s'Vndans
-supr s'u:p3 $onlys
+supr s'u:p3 $onlys //python master function
 suprbay s'u:p3beI //tpb alias
 suroth s'U@0T //name
 susanoomon su:'sanoU@m0n
@@ -2799,7 +2799,8 @@ telazhar t@l'azhA@ //name
 telekinetic t,ElI2k@n'Et#Ik
 telemarketer t'ElI2m,A@kI#t#3
 telepathed t2'ElIpaTd $only
-Teniente tEn'jEnt2e //name
+tempe t2'Empi //place, EG tempe arizona
+teniente tEn'jEnt2e //name
 tentomon t'Ent2oUm0n
 ter'angreal ti@3||0ngri'0l
 teriyaki t2Eri;'0ki
