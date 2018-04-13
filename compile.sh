@@ -14,7 +14,7 @@ sudo cp ./en_* ${Path}/
 sudo cp -rf ./phsource ${Path}/
 sudo cp en-US ${Path}/
 #copy french rules
-cp fr_* ${Path}/
+sudo cp fr_* ${Path}/
 ## Change to espeak-data directory and compile
 cd $Path
 sudo espeak --compile=en-us
