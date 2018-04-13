@@ -12,6 +12,7 @@ echo "Copying files:"
 ## Copy files to espeak directory
 sudo cp ./en_* ${Path}/
 sudo cp -rf ./phsource ${Path}/
+sudo cp en-US ${Path}/
 ## Change to espeak-data directory and compile
 cd $Path
 sudo espeak --compile=en-us
