@@ -26,16 +26,4 @@ else
 echo "Compilation failed, exiting..."
 exit 1
 fi
-echo
-serviceName="$(systemctl --no-pager --all | grep -E espeakup.*service | cut -d " " -f3)"
-if [ -n "$serviceName" ]; then
-    read -n 1 -p "Restart $serviceName? " restart
-    if [ "${restart^}" == "Y" ]; then
-        sudo systemctl restart $serviceName
-    fi
-else
-echo "Restart any daemons or services that are using espeak,
- or reboot your system for changes to take effect."
-     fi
-echo
-exit 0
+
