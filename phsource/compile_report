@@ -16,7 +16,7 @@ consonants  11  119
       af  39  138
       cy  29  134
       ga  30  134
-      de  41  140
+      de  44  141
       eo  13  116
       ia   2  116
      jbo   2  116
@@ -40,7 +40,7 @@ consonants  11  119
      kok  61  152
       hu  25  124
       lt  42  139
-      lv  44  132
+      lv  46  133
       pl  22  122
       sk  28  137
       cs   7  137
@@ -697,7 +697,6 @@ l/l_            [l] base1
                 [l/3] base1
                 [l/] fr
                 [l] lv
-                [l] ru
                 [l/3] da
                 [x] my
 l/l_3           [l/] de
@@ -786,39 +785,32 @@ l/xl            [l] base1
                 [l] ky
 l^/_l^          [l^] base1
                 [l^] lv
-                [l^] ru
                 [L] sq
 l^/j2@          [l^] base1
                 [l^] lv
-                [l^] ru
                 [L] sq
 l^/j2a          [l^] base1
                 [l^] lv
-                [l^] ru
                 [L] sq
 l^/j2e          [l^] base1
                 [l^] lv
-                [l^] ru
                 [L] sq
 l^/j2i          [l^] base1
                 [l^] lv
-                [l^] ru
                 [L] sq
 l^/j2o          [l^] base1
                 [l^] lv
-                [l^] ru
                 [L] sq
 l^/j2u          [l^] base1
                 [l^] lv
-                [l^] ru
                 [L] sq
 l^/l^           [l^] base1
                 [l^] lv
-                [l^] ru
 l^/l^_          [l^] lv
-                [l^] ru
 l^/l_rfx        [l.] base1
                 [l;] lt
+                [l] ru
+                [l^] ru
 ll/_ll          [L] base1
 ll/ll           [L] base1
 ll/xll          [L] base1
@@ -853,6 +845,7 @@ m/mi            [m] base1
                 [m] ja
                 [m] hak
                 [m] lv
+                [m;] ru
                 [m] ky
 m/mj            [m] base1
                 [m] lv
@@ -1333,12 +1326,14 @@ ufric/tlh       [K] nso
 ufric/ts_eu     [ts] eu
 ufric/tz_eu     [tz] eu
 ufric/x2        [x2] af
+                [x] de
                 [x] ku
                 [Q2] ka
                 [X] kk
 ufric/x_        [x] base1
                 [A] ar
 ufric/x_hr      [x] base1
+                [x] de
                 [x] hr
                 [x] ru
 ufric/x_sr      [h#] sr
@@ -1354,12 +1349,14 @@ ustop/c         [c] base1
                 [c] lv
 ustop/k         [k] base1
                 [k] ja
+                [k] de
                 [k] fr
                 [k] zhy
                 [k] sl
                 [k] ky
 ustop/k_        [k] base1
                 [k] base2
+                [k] de
                 [k] fr
                 [k] lv
                 [k~] it
@@ -1390,6 +1387,7 @@ ustop/k_ejc     [k`] am
 ustop/k_unasp   [k] base1
                 [k-] consonants
                 [k] base2
+                [k] de
                 [k] et
                 [k] lv
                 [k~] it
@@ -1405,6 +1403,7 @@ ustop/k_unasp_  [k] hak
 ustop/ki        [k] base1
                 [k] base2
                 [c] af
+                [k] de
                 [k] et
                 [k] fr
                 [k] lv
@@ -1420,6 +1419,7 @@ ustop/ki_ejc    [g;] gd
 ustop/kl        [k] base1
                 [kh] consonants
                 [k] base2
+                [k] de
                 [k] et
                 [k] fr
                 [k] lv
@@ -1809,7 +1809,6 @@ vdiph/ee-e      [E:] hi_base
                 [E:] sd
 vdiph/eei       [EI] base2
                 [eI] en
-                [EI] de
                 [EI] nl
                 [eI] ne
                 [EI] vi
@@ -2034,7 +2033,8 @@ vnasal/&u_n     [O#] vi
 vnasal/V_n      [V~] hi_base
                 [V~] hi
                 [V~] kok
-vnasal/W_n      [E~] fr
+vnasal/W_n      [W~] de
+                [E~] fr
                 [W~] fr
                 [E~] ht
 vnasal/a#_n     [&~] pt
@@ -2142,7 +2142,10 @@ voc/v           [v] base1
                 [v;] ro
                 [v] mt
 voc/v#          [v#] base1
+                [v] lv
 voc/v#_         [v#] base1
+                [v] lv
+                [v`] lv
 voc/v2          [v#] es
 voc/v_          [B] base1
                 [v] base1
