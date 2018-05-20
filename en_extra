@@ -323,38 +323,38 @@ bein bi:In $only
 bejesus bI'dZi:z@s
 belatona bEla#'t2oUn@
 belial b'Eli:@L
-beloth 'bEloUT
-beltane b'El||t2'aIn
+beloth 'bEloUT //name, beloth the wise
+beltane b'El||t2'aIn //holiday
 beneficent bIn'EfIs@nt
 benelli bIn'Eli //name, also a type of shotgun
 bengal b'ENg@L
 benz b'Enz
 benzodiazepine bEnzoUdaI'az@pi:n
-beor 'bi:o@
+beor 'bi:o@ //name
 beowolfmon  b'eI@w,Ulfm0n
 bereav bI'ri:v
 beretta b3:'Et#@
-bernardos be@'nA@doUs
+bernardos be@'nA@doUs //name
 bernice b3:'ni:s //name
 bertain 'b3?n- //name
 beslan b'Esl0n $onlys //name
-//beubelot _^_FR
+beubelot _^_FR
 beyonce bi;'0nseI //name
 bezoar bi:zo@
 bhartiya bA@'t2i:@ //name
 bianco bI;'A:NkoU //name
-bibi b'i:bi:
-bibiana  bIbi:;'A:n@
+bibi b'i:bi: //name
+bibiana  bIbi:;'A:n@ //name
 bibliophile  b'IblI2;,@faIl
-bicha bi:'S0 //guess
-bichon bi:'Z0n
+bicha bi:'S0  //name
+bichon bi:'Z0n //dog breed, bichon frise
 bigd b'Ig||d'i: $onlys
 bileberry b'aIlbEri
 binaca bIn'0k@
 bingaman bIN@m@n $1 //name
 binged b'INd $only
 binged b'IndZd $noun $only
-Biondi bi:'0ndi
+Biondi bi:'0ndi //name
 birdramon b'3dr@m0n
 birgitte be@'gi:t2@ //name
 biscayne bIs'keIn //old car by chevy
@@ -366,15 +366,15 @@ blazblue bl'eIz||bl'u:
 blindmice 'blaInd||m'aIs
 blinkytech bl'Inkit2Ek
 blitzkrieg bl'Itskri:g
-Blödhgarm 'bl0dgA@m
+Blödhgarm 'bl0dgA@m //name
 bloodlett bl'VdlEt
 bloodred bl'Vd||r'Ed
 bloodsacrifice bl'Vd||s'akrIfaIs
-bloodyaxe bl'Vdiaks
+bloodyaxe bl'Vdiaks //name
 boboli b@'boUli
 bodach 'b0d@k
 bodega boU'deIg@
-bodine boU'di:n
+bodine boU'di:n //name
 bogeyman b'oUgiman
 bogeymen b'oUgimEn
 BOGNÁR b'0gnA@
@@ -389,8 +389,8 @@ bootheel bu:t2hi:l
 bootmgfw b'u:t||'Em||dZ'i:||'Ef||d'Vb@Lju: //bootmgfw.efi boots windows 8 and newer if using uefi
 bootmgr b'u:t||EmdZi:'A@ //program that boots windows vista+ when in bios mode
 bootnxt b'u:t2||EnEkst2'i:
-Borodin bo@'oUdIn
-borromeo bA:r@'meIoU
+Borodin bo@'oUdIn //name
+borromeo bA:r@'meIoU //name
 bossier b'oUZ3 //bossier city
 bossypants b'Osipants
 botamon b'oUt@m0n //baby digimon
@@ -420,9 +420,9 @@ bronchitis  br0nk'aIt#Is
 brooches br'oUtSIz
 brouhard br'oUhA@d //name
 brownstoned  br'aUnstoUnd
-brujo bru:xo
+brujo bru:xo //type of sorcerer
 bryne 'brIn //name
-bryyo br'i:oU
+bryyo br'i:oU //name
 bubblegum  b'Vb@LgVm
 buchenwald _^_DE
 buena bw'eIn@
@@ -434,14 +434,14 @@ bulova bju:l'oUv@
 bunkbed b'VnkbEd
 burnham b'3n@m //name
 burroughs b'3:oUs
-busch b'US
+busch b'US //name
 butchs b'UtSIz //either a misspell or bad grammar
 butte b'ju:t
 butthead b'VthEd
 butthole  b'VthoUl //can't believe I have to fix this one rofl
 byob $abbrev //bring your own ?
 byrd b'3d
-byrnes b'3:nz
+byrnes b'3:nz //name
 cabello k@'bEloU //town in puerto rico
 cabextract k'ab||'Ekstrakt
 cabinetmaker k'abI#n@tmeIk3
@@ -464,13 +464,13 @@ calamares kal@m'A@Ez //distribution agnostic installer
 calamari kal@'mA@i
 caleb k'eIl@b //name
 calhoun kal'hu:n
-calida k@'li:d@
-calista k@'lIst@
+calida k@'li:d@ //name
+calista k@'lIst@ //name
 calligrapher  k@l'Igr@f3
 calligraphy k@l'Igr@fi
 calmaramon k0l'mA@@m0n
 calouk k0'lu:k
-calypso ,k@'lIpsoU
+calypso ,k@'lIpsoU //name
 camaraderie k,0m3r'A:d3ri
 camaro k@'me@oU
 camo k'amoU
@@ -492,8 +492,8 @@ caprisun k@'pri:||s'Vn
 caracal kA@R0'k0l //crude attempt, some kind of middle eastern cat, similar to a lynx?
 car'a'carn kA:R@||'kA@n
 cara'carn kA:R@||'kA@n
-Caradhras k3'0dR0s
-(caras galadhon) 'karasga'ladhO:n
+Caradhras k3'0dR0s//name
+caras 'karas $only //name
 carat  k'ar@t
 caravaner  k'ara#v,an3
 cardamom k'A@d@mVm
@@ -1158,6 +1158,7 @@ gabumon g'0bu:m0n
 Gaddafi g@'d0fi
 gaebril g'eIbr@L //name
 galad g@'l0d
+galadhon ga'ladhO:n
 galenorn g'alInO@n
 GALIFIANAKIS galIfaI@'n0kIs
 gallantmon g'al@ntm0n
