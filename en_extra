@@ -1169,22 +1169,22 @@ ganache g@'n0S
 gangrene g'aNgri:n
 garbageman  g'A@bI2dZman
 garbagemen  g'A@bI2dZmEn
-García gA@'si:a#
+García gA@'si:a# //name
 gargomon g'A@goUm0n
 garurumon g@'ru:ru:m0n
 gateau g@'t2oU
 gatling g'atlIN
 gato g'0t2oU $onlys
 gatomon g'0t2oUm0n
-gautier gO:ti'eI
-gavalia dZ@'v0li@
-gavilar g'avI#lA@
-gawyn gaUI#n
-g'day g@-'deI
+gautier gO:ti'eI //name
+gavalia dZ@'v0li@ //name
+gavilar g'avI#lA@ //name
+gawyn gaUI#n //name
+g'day g@'deI
 ge $abbrev $onlys //general electric
-gedwëy 'gEdweI
+gedwëy 'gEdweI //name
 geforce dZ'i:||f'o@s
-geiger g'aIg3
+geiger g'aIg3 //name
 geiser g'aIs3
 genealogical genialogical $text
 genies  dZ'i:niz
@@ -1193,7 +1193,7 @@ geoiplookup dZ'i:oU||'aI||p'i:||l'UkVp
 georestrict dZ'i:oU||rI2str'Ikt
  ghealdan g'eIld@n
 Ghealdanin geIl'd0nIn
-gholam g'0l@m
+gholam g'0l@m //name
 ghrá gr'0
 ghul 'gu:l
 giacci gi:'0tSi //name
@@ -1211,10 +1211,10 @@ gimbaled g'Imb@Ld
 ginkakumon gIn||k'0ku:m0n
 ginryumon g'In||raIj'u:m0n
 giomodule dZ'i:||'aI||'oU||m'0dZu:L
-giselle dZI'zEl
+giselle dZI'zEl //name
 giulia dZu:li;@ //name
 gizeh g'i:z@
-glaedr 'gleId3
+glaedr 'gleId3 //name
 Glenfiddich $2
 glenlivet glEn'lIvIt
 gnawer n'O:3
@@ -1224,28 +1224,27 @@ gnuring  g@n'u:rIN  //free software skype replacement
 gnutls g@'nu:||t2'i:'El'Es
 goan g'oUn $only //odd pronunciation of going
 gobi g'oUbi //name
-gobuntu goUb'u:nt2u:
+gobuntu goUb'u:nt2u: //google's ubuntu derivitive
 goddaughter g'0d||d'O:t#3
-godiva g@'daIv@
+godiva g@'daIv@ //name
 godson g'0dsVn
-Goibhniu g'Vvnu:
+goibhniu g'Vvnu: //name
 golemon g'oUl@m0n
 golgotha g'0lg@T@
 golightly goU'laItli
-Golov g'oUl0v
+Golov g'oUl0v //name
 gomamon g'oUm@m0n
 gomorrah g@'mo@@
 gonagall g'0n@g@L $only //part of mcgonagall, but espeak mangles it when said on it's own, EG McGonagall
-Gonave g0n'0veI
-Gonâve g0n'0veI
+gonave g0n'0veI
+gonâve g0n'0veI
 goodmouth g'UdmaUT
 googleearth g'u:g@L||'3:T
 googlearth g'u:g@L||'3:T
 gorefest g'o@fEst $onlys
 gorillamon  g3r'Il@m0n
-goulet gu:'leI
+goulet gu:'leI //name
 gourd 'go@d
-goverment government $text
 gpus dZi:pi:'ju:z
 gradalpha gr@d'alf@
 graendal gr'End@L //name
@@ -1258,15 +1257,15 @@ granola gr@n'oUl@
 (gran pere) gr'A~n||p'e@
 (gran-pere) gr'A~n||p'e@
 granpere gr'A~n||p'e@ $onlys
-Granuaile gr'0nju:eIl
+Granuaile gr'0nju:eIl //name
 granule gr'anju:l
 gras gr0 $only
 greenbrier gr'i:nbr'aI3
-greenknight gr'i:nnaIt
-gregorovich $2
+greenknight gr'i:nnaIt //name
+gregorovich $2 //name
 gretchen gr'EtS@n //name
 greymon gr'eIm0n
-grimrr 'grIm@r
+grimrr 'grIm@r //name
 grinogion grIn'oUgI@n //name
 (gris gris) gri:||gri: $onlys
 gris-gris gri:||gri| $onlys
