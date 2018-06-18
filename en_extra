@@ -1929,7 +1929,7 @@ microbrewery m'aIkroU||br'u:3:i
 Microsoft       maIkr@sOft
 mida m'aId@
 midchest m'IdtSEst
-Midhir m'i@3
+midhir m'i@3
 midol m'aId0l
 midtransition  m,Idtranz'IS@n
 midtwenties  m'Id||tw'Entiz
@@ -1945,6 +1945,7 @@ mineracer m'aInreIs3
 minestrone mInI#'stroUni
 minetest m'aInt2Est
 miniseries  m'InI2s,i@3iz
+minoxidil mIn'0ksI#dIl //medication
 //minute maI'nu:t $2 $verb $only
 mipha m'i:f@
 miraflores mi@3@||fl'O@Ez
@@ -2484,15 +2485,15 @@ rndis $abbrev //predecessor to ndis, the windows network driver model
 roberto roU'be@t2oU //name
 robichaud r'oUbI#SoU //name
 robicheau r'oUbI#SoU //name
-robinette r0bIn'Et2
-(il roche) 'Il||r'oUkeI $onlys
-roche r'oUS $onlys
-rochet r0'SeI
+robinette r0bIn'Et2 //name
+(il roche) 'Il||r'oUkeI $onlys //name
+roche r'oUS $onlys //name
+rochet r0'SeI //name
 rodel roUd'El $only
-rodere roU'de@
-rodina roU'di:n@
+rodere roU'de@ //name
+rodina roU'di:n@ //name
 rodolphus r@'d0lf@s //name
-rodrigo r0d'ri:goU
+rodrigo r0d'ri:goU //name
 rogaine r'oUgeIn
 rohirim roU'hIrIm
 rohirrim roU'hIrIm
