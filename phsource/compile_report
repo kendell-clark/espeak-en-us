@@ -1,5 +1,5 @@
 
-108 phoneme tables
+109 phoneme tables
           new total
     base  35   35
    base1  97  109
@@ -48,6 +48,7 @@ consonants  11  119
       mk   3  143
       sr  14  144
       ru  49  139
+   ru-lv   6  139
       bg  14  124
       it  33  139
       la  21  126
@@ -630,31 +631,37 @@ l/L1_@L         [l] base1
                 [l/] base1
                 [l/] de
                 [l] lv
+                [l] ru-lv
                 [x] my
 l/L1_aL         [l] base1
                 [l/] base1
                 [l/] de
                 [l] lv
+                [l] ru-lv
                 [x] my
 l/L1_eL         [l] base1
                 [l/] base1
                 [l/] de
                 [l] lv
+                [l] ru-lv
                 [x] my
 l/L1_iL         [l] base1
                 [l/] base1
                 [l/] de
                 [l] lv
+                [l] ru-lv
                 [x] my
 l/L1_oL         [l] base1
                 [l/] base1
                 [l/] de
                 [l] lv
+                [l] ru-lv
                 [x] my
 l/L1_uL         [l] base1
                 [l/] base1
                 [l/] de
                 [l] lv
+                [l] ru-lv
                 [x] my
 l/L2_@L         [l/2] base1
                 [I] en-sc
@@ -678,6 +685,7 @@ l/_l            [l] base1
                 [l] hak
                 [l] hu
                 [l] lv
+                [l] ru-lv
                 [l] it
                 [l] zh
                 [x] my
@@ -688,6 +696,7 @@ l/l             [l] base1
                 [l] hak
                 [l] hu
                 [l] lv
+                [l] ru-lv
                 [l] it
                 [x] my
                 [l] ky
@@ -704,6 +713,7 @@ l/l_            [l] base1
                 [l/3] base1
                 [l/] fr
                 [l] lv
+                [l] ru-lv
                 [l/3] da
                 [x] my
 l/l_3           [l/] de
@@ -722,6 +732,7 @@ l/l_i           [l/3] base1
 l/l_long        [l] base1
                 [l] fr
                 [l] lv
+                [l] ru-lv
                 [l] it
                 [x] my
                 [l] ky
@@ -775,6 +786,7 @@ l/tl            [l] base1
                 [l/2] fr
                 [l] hu
                 [l] lv
+                [l] ru-lv
                 [l] it
                 [x] my
                 [l] ky
@@ -784,6 +796,7 @@ l/xl            [l] base1
                 [l] fr
                 [l] hu
                 [l] lv
+                [l] ru-lv
                 [l] it
                 [ll] sq
                 [K] nso
@@ -792,28 +805,37 @@ l/xl            [l] base1
                 [l] ky
 l^/_l^          [l^] base1
                 [l^] lv
+                [l^] ru-lv
                 [L] sq
 l^/j2@          [l^] base1
                 [l^] lv
+                [l^] ru-lv
                 [L] sq
 l^/j2a          [l^] base1
                 [l^] lv
+                [l^] ru-lv
                 [L] sq
 l^/j2e          [l^] base1
                 [l^] lv
+                [l^] ru-lv
                 [L] sq
 l^/j2i          [l^] base1
                 [l^] lv
+                [l^] ru-lv
                 [L] sq
 l^/j2o          [l^] base1
                 [l^] lv
+                [l^] ru-lv
                 [L] sq
 l^/j2u          [l^] base1
                 [l^] lv
+                [l^] ru-lv
                 [L] sq
 l^/l^           [l^] base1
                 [l^] lv
+                [l^] ru-lv
 l^/l^_          [l^] lv
+                [l^] ru-lv
 l^/l_rfx        [l.] base1
                 [l;] lt
                 [l] ru
@@ -2605,6 +2627,7 @@ vowel/aa_6      [A] de
                 [a] tr
                 [a] ky
                 [a:] ky
+vowel/aa_7      [o] ru-lv
 vowel/aa_8      [0] en-us
                 [A:] en-us
                 [0] ga
@@ -3574,6 +3597,7 @@ vwl_ro/mi       [I^] ru
                 [I^] ro
 vwl_ro/ni       [I^] ro
 vwl_ru/8        [8] ru
+                [8] ru-lv
 vwl_ru/E#       [E#] ru
 vwl_ru/E@       [E2] ru
                 [E3] ru
@@ -3582,6 +3606,7 @@ vwl_ru/aa       [a] ru
 vwl_ru/e        [E] ru
 vwl_ru/ee       [ee] lt
                 [e] ru
+                [e] ru-lv
 vwl_ru/i#       [y] ru
 vwl_ru/ii       [I] ru
                 [i] ru
@@ -3592,6 +3617,7 @@ vwl_ru/ii-      [I^] ru
 vwl_ru/ja       [ja] ru
 vwl_ru/ju       [ju] ru
 vwl_ru/o        [o] ru
+                [o] ru-lv
 vwl_ru/oo       [O] ru
 vwl_ru/u        [u] ru
 vwl_ru/u#       [u#] ru
