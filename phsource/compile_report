@@ -79,7 +79,7 @@ consonants  11  119
       da  45  138
       ka  20  115
       fa   9  112
-      ar  12  115
+      ar  13  115
       rw  15  132
      prs   8  113
       sl  18  125
@@ -438,6 +438,7 @@ h/h_            [h] base1
                 [h] hak
                 [h] lv
                 [<h>] la
+                [A] ar
                 [h] mt
 h/ha            [h] base1
                 [h] fi
@@ -1174,7 +1175,6 @@ r/ro            [r] base1
                 [r] tn
 r/rr            [r/] base1
                 [r] ro
-                [A] ar
 r/ru            [r] base1
                 [R3] base1
                 [r] af
@@ -1188,6 +1188,7 @@ r/xr            [r] base1
                 [r-] en
                 [r] af
                 [r] ro
+                [A] ar
                 [r] tn
                 [r-] tn
 r2/r2@          [r-] en
@@ -1360,7 +1361,6 @@ ufric/x2        [x2] af
                 [Q2] ka
                 [X] kk
 ufric/x_        [x] base1
-                [A] ar
 ufric/x_hr      [x] base1
                 [x] de
                 [x] hr
@@ -2469,7 +2469,6 @@ vowel/a         [a] base1
                 [a] it
                 [a] zh
                 [a] id
-                [a] ar
                 [a] sl
                 [a] gd
                 [a2] gd
@@ -2541,6 +2540,7 @@ vowel/a_2       [a] base2
                 [a] pt-pt
                 [a] ro
                 [a] el
+                [a] ar
                 [a] rw
 vowel/a_3       [a] en-sc
                 [a/] en-sc
@@ -2628,6 +2628,7 @@ vowel/aa_6      [A] de
                 [a] ky
                 [a:] ky
 vowel/aa_7      [o] ru-lv
+                [a] ar
 vowel/aa_8      [0] en-us
                 [A:] en-us
                 [0] ga
@@ -3015,6 +3016,7 @@ vowel/ii_5      [i] ta
                 [I] la
                 [i] zh
                 [I] tr
+                [i] ar
                 [i] az
                 [i] am
 vowel/ii_6      [I] en-wm
@@ -3296,6 +3298,7 @@ vowel/u_6       [u] ta
                 [u:] te
                 [u] si
                 [u:] si
+vowel/u_7       [u] ar
 vowel/u_bck     [u] ja
                 [u] base2
                 [U] cy
