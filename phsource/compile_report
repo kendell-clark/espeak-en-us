@@ -1,5 +1,5 @@
 
-109 phoneme tables
+110 phoneme tables
           new total
     base  35   35
    base1  97  109
@@ -79,9 +79,10 @@ consonants  11  119
       da  45  138
       ka  20  115
       fa   9  112
-      ar  13  115
+      ar  16  118
       rw  15  132
      prs   8  113
+     quc   1  109
       sl  18  125
       gd  47  142
      nso  12  113
@@ -2174,8 +2175,10 @@ voc/Q_ulv       [Q"] base1
                 [G] ky
 voc/bh          [B] base1
 voc/dh          [D] base1
+                [Z] ar
 voc/dh_         [D] base1
                 [D] es
+                [Z] ar
                 [D] om
 voc/j           [J^] base1
 voc/murmur1     [J#] ml
@@ -2255,6 +2258,7 @@ vocw/Q_         [Q] base1
                 [Q~] it
 vocw/dh         [D] base1
                 [D] es
+                [Z] ar
                 [D] om
 vocw/v          [B] base1
                 [v] base1
@@ -2628,7 +2632,7 @@ vowel/aa_6      [A] de
                 [a] ky
                 [a:] ky
 vowel/aa_7      [o] ru-lv
-                [a] ar
+                [a.] ar
 vowel/aa_8      [0] en-us
                 [A:] en-us
                 [0] ga
@@ -3016,7 +3020,7 @@ vowel/ii_5      [i] ta
                 [I] la
                 [i] zh
                 [I] tr
-                [i] ar
+                [i.] ar
                 [i] az
                 [i] am
 vowel/ii_6      [I] en-wm
@@ -3298,7 +3302,7 @@ vowel/u_6       [u] ta
                 [u:] te
                 [u] si
                 [u:] si
-vowel/u_7       [u] ar
+vowel/u_7       [u.] ar
 vowel/u_bck     [u] ja
                 [u] base2
                 [U] cy
