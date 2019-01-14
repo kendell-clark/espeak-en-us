@@ -1,4 +1,3 @@
-//letter fixes
 aa d'Vb@L||'eI $only
 aaa tr'Ip@L||'eI $only
 aacs $abbrev
@@ -1208,6 +1207,7 @@ giacci gi:'0tSi //name
 gianes gaI'anIs //name
 giannarelli dZi;0n3'Eli //name
 gaioumon g'aIoUm0n
+gigante dZi:'g0nt2i: //name
 gigapet g'Ig@pEt2 $onlys
 gigasmon gIg@sm0n
 giger g'aIg3 //giger the name, giger counter
@@ -1242,7 +1242,7 @@ golgotha g'0lg@T@
 golightly goU'laItli
 Golov g'oUl0v //name
 gomamon g'oUm@m0n
-gomorrah g@'mo@@
+gomorrah g@'mo@@ //biblical city
 gonagall g'0n@g@L $only //part of mcgonagall, but espeak mangles it when said on it's own, EG McGonagall
 gonave g0n'0veI
 gonâve g0n'0veI
@@ -3046,7 +3046,7 @@ verdad ve@'d0d //spanish
 Verde 've@deI $capital
 vespamon v'Esp@m0n
 viaticum vaI'at#Ik@m
-vicadin vaIk@dI2n //misspell
+vicadin vaIk@dI2n  //misspelled narcotic opioid analgesic 
 vidal vi:'d0l
 vigil v'IdZ@L
 villainess v'Il@n@s
