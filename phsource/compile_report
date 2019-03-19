@@ -65,9 +65,9 @@ consonants  11  119
       sv  22  129
       no  28  134
       is  42  141
-      vi  57  151
-  vi-hue  17  151
-  vi-sgn  18  151
+      vi  59  152
+  vi-hue  17  152
+  vi-sgn  18  152
      zhy  41  138
       zh  64  155
       sw  19  109
@@ -1011,6 +1011,7 @@ n/nj            [n] base1
                 [n.] base1
                 [n] fr
                 [n] ky
+n/nm            [N] vi
 n/no            [n] base1
                 [n] ja
                 [n] fr
@@ -1020,7 +1021,6 @@ n/no            [n] base1
                 [n] ky
 n/nr@           [n.] base1
 n/nr_           [n.] base1
-                [n] vi
 n/nra           [n.] base1
 n/nre           [n.] base1
 n/nri           [n.] base1
@@ -1377,6 +1377,7 @@ ufric/xx        [X] base1
 ufric/z_eu      [z] eu
 ustop/c         [c] base1
                 [c] lv
+                [k] vi
 ustop/k         [k] base1
                 [k] ja
                 [k] de
@@ -1424,6 +1425,7 @@ ustop/k_unasp   [k] base1
                 [k] lv
                 [k~] it
                 [k] el
+                [kh] vi
                 [k] zhy
                 [k] sq
                 [k] sl
@@ -2072,10 +2074,13 @@ vdiph2/y@       [y@] zh
 vdiph2/ye       [yE] sq
 vdiph2/yu       [yU] nl
                 [yu] zh
-vietnam/_c      [kh] vi
+vietnam/V       [@] vi
 vietnam/a       [a:] vi-sgn
+vietnam/a_2     [a:] vi
+vietnam/a_x     [a] vi
 vietnam/ch      [c] vi
 vietnam/dd      [d_] vi
+vietnam/e       [e] vi
 vietnam/ie_2    [iE] vi
 vietnam/oe      [o&] vi
 vietnam/th      [t] vi
@@ -2097,6 +2102,7 @@ vnasal/a#u_n    [&U~] pt
                 [o#] vi
 vnasal/a_n      [a~] hi_base
                 [a~] kok
+                [a] vi
                 [a~] gn
 vnasal/aa_n2    [A~] en
 vnasal/aa_n3    [A~] af
@@ -2419,7 +2425,6 @@ vowel/@_low     [@] en-rp
 vowel/@_low2    [@2] en-us
 vowel/V         [3] en-sc
                 [@] bg
-                [@] vi
                 [W#] da
                 [?W#] da
 vowel/V_2       [V] en
@@ -2570,7 +2575,6 @@ vowel/a_4       [a] ga
                 [a] eu
                 [a2] eu
                 [a] el
-                [a] vi
                 [a] gn
 vowel/a_5       [a:] hi_base
                 [a:] hi
@@ -2597,7 +2601,6 @@ vowel/a_7       [a] fr
 vowel/a_8       [a] en
                 [a] sk
                 [a/] it
-                [a:] vi
                 [A] da
                 [?A] da
                 [a] sl
@@ -2680,7 +2683,6 @@ vowel/e         [e] base1
                 [e] pt
                 [e] pt-pt
                 [e] grc
-                [e] vi
                 [e] id
                 [e] sq
                 [e] da
@@ -3071,6 +3073,7 @@ vowel/o         [o] base2
                 [o] grc
                 [o:] sv
                 [o] vi
+                [O+] vi
                 [o] id
                 [o] hy
                 [o] rw
