@@ -65,9 +65,9 @@ consonants  11  119
       sv  22  129
       no  28  134
       is  42  141
-      vi  59  152
-  vi-hue  17  152
-  vi-sgn  18  152
+      vi  61  153
+  vi-hue  17  153
+  vi-sgn  18  153
      zhy  41  138
       zh  64  155
       sw  19  109
@@ -1559,6 +1559,7 @@ ustop/t         [t] base1
                 [d.#] hi_base
                 [d.#] hi
                 [d.#] kok
+                [t[] vi
                 [t] zhy
                 [t] da
                 [t_h] shn
@@ -2075,12 +2076,12 @@ vdiph2/ye       [yE] sq
 vdiph2/yu       [yU] nl
                 [yu] zh
 vietnam/V       [@] vi
-vietnam/a       [a:] vi-sgn
-vietnam/a_2     [a:] vi
-vietnam/a_x     [a] vi
+vietnam/a       [a] vi
+                [a:] vi-sgn
 vietnam/ch      [c] vi
 vietnam/dd      [d_] vi
 vietnam/e       [e] vi
+vietnam/e_short_2  [e-] vi
 vietnam/ie_2    [iE] vi
 vietnam/oe      [o&] vi
 vietnam/th      [t] vi
@@ -2165,6 +2166,7 @@ vnasal/u_n      [u~] ja
                 [u~] kok
                 [u~] pt
                 [u] vi
+                [w] vi
                 [u] zh
                 [u~] gn
 voc/Q           [Q] base1
@@ -2601,6 +2603,7 @@ vowel/a_7       [a] fr
 vowel/a_8       [a] en
                 [a] sk
                 [a/] it
+                [a:] vi
                 [A] da
                 [?A] da
                 [a] sl
@@ -2683,6 +2686,7 @@ vowel/e         [e] base1
                 [e] pt
                 [e] pt-pt
                 [e] grc
+                [e] vi
                 [e] id
                 [e] sq
                 [e] da
@@ -3664,11 +3668,14 @@ vwl_zh/y&       [y&] zh
 vwl_zh/yee      [yE] zh
 w/_w            [w] base1
                 [w/] fr
+                [w] vi
                 [w] my
 w/iw_           [w] base1
                 [w/] fr
+                [w] vi
                 [w] my
 w/w             [w] base1
+                [w] vi
                 [w] my
 w/w2            [w2] base2
                 [w#] kok
@@ -3680,15 +3687,18 @@ w/w@            [w] base1
                 [w#] en
                 [w] fr
                 [w/] fr
+                [w] vi
                 [w] sw
                 [w] my
 w/w_            [w] base1
                 [w] ja
                 [w/] fr
+                [w] vi
                 [w] my
 w/wa            [w] base1
                 [w] ja
                 [w#] en
+                [w] vi
                 [w] sw
                 [w] my
 w/we            [w] base1
@@ -3696,6 +3706,7 @@ w/we            [w] base1
                 [w#] en
                 [w] fr
                 [w/] fr
+                [w] vi
                 [w] sw
                 [w] my
 w/wi            [w] base1
@@ -3704,6 +3715,7 @@ w/wi            [w] base1
                 [w] fr
                 [w/] fr
                 [i] vi
+                [w] vi
                 [w] sw
                 [w] my
 w/wi2           [i:] en
@@ -3719,6 +3731,7 @@ w/wo            [w] base1
                 [w#] en
                 [w] fr
                 [w/] fr
+                [w] vi
                 [w] sw
                 [w] my
 w/wu            [w] base1
@@ -3726,10 +3739,12 @@ w/wu            [w] base1
                 [w#] en
                 [w] fr
                 [w/] fr
+                [w] vi
                 [w] sw
                 [w] my
 w/xw            [w] base1
                 [w/] fr
+                [w] vi
                 [w] sw
                 [w] my
 x/b             [b] base1
