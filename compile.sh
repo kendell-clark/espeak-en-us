@@ -14,8 +14,6 @@ sudo cp ./en_* ${Path}/
 ## Change to espeak-data directory and compile
 cd $Path
 sudo espeak-ng --compile=en-us
-sudo espeak-ng --compile-phonemes=phsource
-sudo espeak-ng --compile=fr
 if [ $? -eq 0 ]; then
 echo "Files Updated!"
 else

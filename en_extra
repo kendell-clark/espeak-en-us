@@ -1,4 +1,111 @@
-akinetic eIkI'nEt#Ik
+appx $abbrev
+aportis a#po@t#Is
+zipx z'Ip||'Eks
+uuencode j'u:j'u:'i:||Enk'oUd
+typsd $abbrev
+toml $abbrev
+pyspread p'aIsprEd
+pyi $abbrev
+oxps $abbrev
+owx $abbrev
+ilbm $abbrev
+GNUnet g@'nu:||n'Et
+avf $abbrev
+avci $abbrev
+astc $abbrev
+amr $abbrev
+usenet j'u:snEt
+excellon 'Eks@l0n
+yuckle j'Vk@L
+ovpn $abbrev
+tnef $abbrev
+jsonld dZ'eIs0n||'Eld'i:
+dtsi $abbrev
+pcapng p'i:kap||'EndZ'i:
+uue $abbrev
+microdvd m'aIkroU||di:vi:di:
+jupyter jupiter $text
+godot g'oUd0t
+iges $abbrev
+esqueak 'i:||skw'i:k
+freemyip fr'i:||m'aI||aI'p'i:
+baroness b'ar@n@s
+noel noU'El
+gryffindor gr'IfIndo@
+libgl l'Ib||dZ'i:,'El
+kwin k'eI||w'In
+playerctl pl'eI3||s'i:t2i:'El
+btusb $abbrev
+alpm $abbrev
+edema Id'i:m@
+gastroduodenal g'astroU||du:@d'i:n@L
+livedvd l'aIv||d,i:v,i:d'i:
+liveos l'aIv||oU'Es
+idlerpg idle rpg $text
+audiocd audio cd $text
+ttsapi $abbrev
+dec $abbrev $only
+cmos $abbrev
+atac 'eIt2ak
+cnib $abbrev
+avrcp $abbrev
+bluez 'blu:'zi:
+bloodscourge blood scourge $text
+iomemory i o memory $text
+edd $abbrev //something to do with the bios
+socketedrom socketed rom $text
+ifuse i fuse $text
+featurep feature p $text //emacs
+liblouis lib louis $text
+ideviceinfo I device info $text
+iconv icon v $text
+hostnamectl host name ctl $text
+bytesizedfox b'aItsaIzd||f'0ks
+dmaengine dma engine $text
+sabaton s'ab@t20n
+subparagraph s'Vb||p'ar@graaf
+codepage k'oUdpeIdZ
+dword d word $text
+windll win dll $text
+griffomon gr'IfoUm0n
+mcevoy m'akIvOI
+icalendar i calendar $text
+qutebrowser cute browser $text
+idlwave aIdi:'El||w'eIv
+ini $abbrev
+Hippogriffomon h'IpoU||gr'IfoUm0n
+dbad $abbrev
+compatctrl compat ctrl $text
+noerror no error $text
+saversburg s'eIv3zb3g
+galgomon g'algoUm0n
+duskmon d'Vskm0n
+saberdramon s'eIb3dr@m0n
+duftmon d'Vftm0n
+packageversion package version $text
+fuchs f'ju:ks //author
+edebug e debug $text //another tool emacs uses for finding bugs
+debbugs debugs $text //optional package in emacs for finding bugs
+minhw min hw $text //part of the microsoft windows eula, aka.ms/minhw
+package's packages $text
+ffap $abbrev //finding files at point
+eww $abbrev //emacs web wowser
+emacsclient 'i:maks||'klaI@nt
+kobold  k'oUbO:ld
+rmail A@meIl //remote mail
+ ede $abbrev //emacs development environment
+imenu 'aI||'mEnju: //emacs subsystem
+voicify v'OIsIfaI
+voicingswitch v'OIsIN||'swItS
+tclespeak tcl espeak $text //emacspeak espeak speech server
+bittorrent b'It||t'o@@nt
+inuyasha 'i:nu:||'j0S@
+subprocess sVb'pr0sEs
+deletable di'li:t@b@L
+flathub flathVb
+suboxone sVb'0ksoUn
+uniquification ju:ni:kIfIk'eIS@n $onlys
+uniquify ju:'ni:kIfaI
 aaa tr'Ip@L||'eI $only
 aacs $abbrev
 aa d'Vb@L||'eI $only
@@ -51,6 +158,7 @@ adriatic  ,eIdrI2;'at#Ik
 Adriel 'eI%dri:@l
 adversary  'adv3se@ri
 adx $abbrev //audio codec
+aellomon EloUm0n
 Aenghus 'aNg@s //name
 aerate $1
 aerospatiale  e@roUsp,0sI2;,'0l
@@ -148,8 +256,10 @@ analagous a#n'al@g@s
 anaya @n'aIj-@
 ancalador an'kal@do@
 andais an'deI@s
+andromon 'androUm0n
 aneurysm  'anjU@r,Iz@m
 ángeles angeles $text
+angelicmon andZ'ElIkm0n
 angemon '0ndZ@m0n
 angewomon '0ndZ@wUm0n
 angiogram   'andZI2;@gram
@@ -165,6 +275,7 @@ antoine 'antw0n //name
 antonovich an't20n@vItS
 antorell ant2@rEl
 antylamon ant2'i:l@m0n
+anubismon a#'nu:bIsm0n
 anzumon 'anzu:m0n
 apemon 'eIpm0n
 apeshit eIpSIt
@@ -241,6 +352,7 @@ audiotape 'O:dI2;,oUt2eIp
 audiovisual O:dI2;oUv'IZu:@L
 aur $abbrev //arch user repository
 auror o@ro@:
+aurvindal aU3v'Ind0l
 australis O:str'alIs
 autofs O:t#oUEf'Es $only
 auv $abbrev //autonomous underwater vehicle
@@ -250,13 +362,14 @@ avira a#'vi@r@
 avis eIvIs
 avr $abbrev //audio video recorder
 avx $abbrev //avx registers
+axehaft 'akshaft
 axehandle 'akshand@L
 aydindril 'eId@ndrIl
 azore 'eIzo@ $onlys
 Azulongmon a#'zu:lONm0n
 azurite  'azjUr,aIt
 ba'alzamon b0||'0lz@mVn
-babybear b'eIbi||b'e@ //affectionate nickname
+babamon b'0b@m0n
 babymetal b'eIbimEt#@L
  bacalite b'eIk@laIt
 bacarisa $3
@@ -266,6 +379,7 @@ baddeley b@'dEli //name
 badgirl  badg'3:l
 bagand b@'g0nd
 bagle b'eIg@L
+bagramon b'0gr@m0n
 bahama ba#'h0m@
 Baihumon b'aIu:m0n
 bakersfield b'eIk3zfi:ld
@@ -274,6 +388,7 @@ balin 'b0lIn
 ballimore $1 //name
 ballsy b'O:lzi
 bally b'ali $only
+baluchimon b@l'u:tSim0n
 bananaport  ba#n'an@po@t //fictional teleport, in the dk64 videogame
 bananie b@'nani //redneck version of banana?
 banlon ban||l0n
@@ -288,6 +403,7 @@ barenaked b'e@||n'eIkI#d
 baresco b@r'EskoU
 barinthus bA@r'InT@s
 barista $2
+baromon b'e@r@m0n
 barracuda bar@'ku:d@
 barrette b3:'eI
  barrio b'A@i;oU
@@ -311,6 +427,7 @@ bcdedit  b,i:s'i:d'i:||'EdIt //boot configuration data editor for ms windows
 beatin b'i:?n- $only
 beaucoup boU'ku:
 beau'iful bju:?If@L //beautiful, but misspelled on purpose in some of the harry potter novels
+beautifulist bj'u:t#If@LIst
 beauxbaton boUba't2A~
 bebop b'i:b0p
 bedevile bId'Ev@L
@@ -327,6 +444,7 @@ bejesus bI'dZi:z@s
 belatona bEla#'t2oUn@
 belial b'Eli:@L
 beloth 'bEloUT //name, beloth the wise
+belphemon b'Elf@m0n
 beltane b'El||t2'aIn //holiday
 beneficent bIn'EfIs@nt
 benelli bIn'Eli //name, also a type of shotgun
@@ -369,6 +487,7 @@ blazblue bl'eIz||bl'u:
 blindmice 'blaInd||m'aIs
 blinkytech bl'Inkit2Ek
 blitzkrieg bl'Itskri:g
+blitzmon blItsm0n
 Blödhgarm 'bl0dgA@m //name
 bloodlett bl'VdlEt
 bloodred bl'Vd||r'Ed
@@ -382,19 +501,24 @@ bogeyman b'oUgiman
 bogeymen b'oUgimEn
 BOGNÁR b'0gnA@
 boise b'OIzi
+bokomon b'oUkoUm0n
 bolcke boUlk //name
+bolgmon b'oULgm0n
 bombard  b0mb'A@d
 bombchu b'0mtSu: //zelda OOT
 bombchus b'0mtSu:z //zelda OOT
 bombi b'0mbi //bombi, the stoned deer! Yes this is an actual character name on alteraeon
 (bon mot) b'oUn||m'oU $onlys
 (bon temps) bA~nt'A~ //town in louisiana
+boogeymon b'Ugim0n
 boogies b'Ugi'z
 bootheel bu:t2hi:l
 bootmgfw b'u:t||'Em||dZ'i:||'Ef||d'Vb@Lju: //bootmgfw.efi boots windows 8 and newer if using uefi
 bootmgr b'u:t||EmdZi:'A@ //program that boots windows vista+ when in bios mode
 bootnxt b'u:t2||EnEkst2'i:
+boredly b'o@Idli
 Borodin bo@'oUdIn //name
+boromon b'o@@m0n
 borromeo bA:r@'meIoU //name
 bossier b'oUZ3 //bossier city
 bossypants b'Osipants
@@ -425,6 +549,7 @@ bronchitis  br0nk'aIt#Is
 brooches br'oUtSIz
 brouhard br'oUhA@d //name
 brownstoned  br'aUnstoUnd
+bruja bru:x0 //type of sorcerer
 brujo bru:xo //type of sorcerer
 bryne 'brIn //name
 bryyo br'i:oU //name
@@ -438,6 +563,7 @@ bullseye b'Ulz||aI
 bulova bju:l'oUv@
 bunkbed b'VnkbEd
 burnham b'3n@m //name
+burninggreymon b'3nIN||gr'eIm0n
 burroughs b'3:oUs
 busch b'US //name
 butchs b'UtSIz //either a misspell or bad grammar
@@ -535,9 +661,12 @@ caverra k@'vEr@
 cced si:si:d
 ccia $abbrev
 cedega sI#'deIg@
+ceirra si:'e@@
 celebate s'ElI#b@t
+celeron s'El30n
 celine sI'li:n
 cemaros sI#'mA@oUz
+centripetal sEn'trIpIt#@L
 cerberumon s3'bEr@m0n
 cerebrotomy se@Ibr'0t@mi
 ceunon 'seIu:n0n
@@ -546,6 +675,8 @@ chachi tS'0tSi
 chakoramon tS@'ko@@m0n
 chaloopa tS@l'u:p@
 chambray S'ambreI
+Chamelemon k@'mi:l@m0n
+chaosdramon k'eI0sdr@m0n
 chaostitan k'eI0s||t'aI?n-
 charlaine SA@'leIn //name
 chasmfiend  k'az@mfi:nd
@@ -557,6 +688,8 @@ cheapie tSi:pi
 cheekboned  tS'i:kboUnd
 chenille SI#n'i:l
 chérie SE'ri:
+cherubimon tS3'u:bim0n
+chessmon tS'Esm0n
 chewie tSu:i
 chewtoy  tSj'u:t2OI
 chiad 'tSi:0d //name
@@ -577,6 +710,7 @@ christabelle kr'Ist@bEl
 christiansburg kr'IstS@nzb3g
 christmasland kr'Ism@s||land
 christo 'kRi:stoU
+Chrysanthemon krIs'anT@m0n
 chrys kr'Is
 chuggaaconroy tS'Vg@||'k0nrOI
 churchmice tS'3tSmaIs
@@ -689,6 +823,7 @@ countre k'aUnt23
 coup ku: $onlys
 courgette kU@Z'Et
 courseware k'o@swe@
+coursework k'o@sw3k
 cour'souvra k3'su:vr@
 cousteau ku:'stoU
 covenant k'Vv@n@nt
@@ -702,6 +837,7 @@ cpufreq si:pi:'ju:||fr'i:kw@nsi $only
 cpuid $abbrev //kernel module for identifying your processor
 cpupower s'i:||p'i:||j'u:||p'aU3
 cpus si:pi:'ju:z
+craniamon kr'eIni@;m0n
 craniotomy kreIni'0t@mi
 cranium kr'eIni@m
 crappie kr'0pi //fish
@@ -717,6 +853,7 @@ crocheted kroU'SeId
 croeger kr'oUg3
 cromeos kr'oUm||oU'Es
 crossmember $1
+crowmon kr'oUm0n
 Cruatan kr'u:@t20n //irish
 cruella kru:'El@
 cruis'n kr'u:zIn $onlys
@@ -748,6 +885,7 @@ daenerys dI'ne@I#z
 daguerreotype d@'ge@ioUt2aIp
 daiquiri d'ak3:i
 daiquiris d'ak3:riz
+daisymon d'eIzi:m0n
 dakar d0'kA@
 dalinar d'alI#nA@
 Dalmat d'0lm0t
@@ -762,6 +900,7 @@ daneka d@n'i:k@
 dantean d'0nt2eI@n $only
 dareis d'A@||aIz
 d'Argenteuil dA@'ZA~tReI'U
+darkdramon dA@kdreIm0n
 darkeyed d'A@kaId
 darkriver d'A@k||r'Iv3
 darktable d'A@kt2eIb@L
@@ -793,6 +932,8 @@ dectalk d'Ek||t2'O:k
 (dé danann) deI||d'an@n
 (de dannan) deI'dan@n
 (de dannon) deI'dan@n
+dedigivolved di:||d'IdZIv0lvd
+dedigivolve di:||d'IdZIv0lv
 defamation dEf@m'eIS@n
 degas deI'g0 //name $only
 degath d'EgaT //some kind of demon from the sister of the moon series, by yasmine galenorn
@@ -837,6 +978,7 @@ deserial di:s'i@rI2;@L
 deserialization di:si@rI2;@l,Iz'eIS@n
 desimone d'EzIm@n
 desjardins deIZA@'danz //name
+deskthemepack d'Esk||T'i:m||p'ak $only
 desmetramadol dEzmI'tram@d0l //opioid
 desperado  dEsp3r'A:doU
 despirito dEsp3'i:toU
@@ -881,9 +1023,13 @@ dictator d'Ikt2eIt#3
 dietrich d'i:trIk
 dietz di:ts
 digidestine d'IdZI||d'Est2In
+digi d'IdZi $only
+digiegg d'IdZi:Eg
+digiletter d'IdZi:||l'Et#3
 digimon d'IdZi,m0n
 digitamamon d'IdZi:||'t20m@m0n
 digivice d'IdZIvaIs
+digiworld d'IdZi:w3ld
 dihydrocodeine daI||h'aIdroU||k'oUdi:n //opioid
 dihydrocodeinone daI||h'aIdroU||k'oUdi:noUn //opioid, sub for hydrocodone
 dinged d'INd
@@ -920,6 +1066,7 @@ donalson d'0n@Ls@n //name
 (don'tcha) d'oUntS@ //don't you
 dontcha d'oUntS@ //don't you
 doorag du:rag $onlys
+dorbickmon d'o@bIkm0n
 dorugamon do@'u:g@m0n
 dorugoramon do@u:'go@@m0n
 (dos equis) doUs'Ekis
@@ -929,10 +1076,12 @@ doubre d'u:br@
 dou d'oU $only
 doughart d'VghA@t
 dracaena dr@k'i:n@
+dracmon drakm0n
 dradon 'dreId@n //name
 draegar 'dreIgA@
 Dräger dr'aUg3
 draghkar 'dr0kA@
+dramon dr'eIm0n
 dran-o dr'eInoU
 dran-o dr'eInoU
 drano dr'eInoU
@@ -943,6 +1092,7 @@ drivin dr'aIvIn $only
 dtusb $abbrev //dec talk kernel module
 duchene du:'SEn
 dufresne du:'freIn
+dukemon du:km0n
 dulce d'VltSe
 dullard d'Vl3d
 duluth d@'lu:T
@@ -975,7 +1125,7 @@ edoras 'Edoras
 edubuntu Edu:b'u:nt2u: //ubuntu education edition
 effectivity EfI#k't2IvI#t#i
 effete I'fi:t
-efi $abbrev //electronic firmware interface
+efi $abbrev //extensible firmware interface
 efibootmgr i:Ef'aI||b'u:t||EmdZi:'A@
 efuse 'i:||fj'u:z $onlys
 eggplant 'Egplant2
@@ -989,6 +1139,7 @@ Einherjar 'aInhe@jA@
 elaborately  I#l'ab3r,@tli
 eladamri El@'damri
 elavil El@vIl //medication
+eldestmon EldIstm0n
 eleanor 'El@no@ //name
 electronix electronics $text
 elementaryos ,ElI2m'Ent3ri;||,oU'Es
@@ -1008,6 +1159,7 @@ elyas  I2l'aI@s
 elysia i:'li:si:@
 elyssa I#l'Is@
 emacspeak 'i:makspi:k
+ema 'i:m@
 emanuel Im'anju:El //name
 emblematic Embl@m'at#Ik
 emil eI'mi:l
@@ -1062,6 +1214,7 @@ et $abbrev $onlys $allcaps //extraterrestrial
 eta $abbrev //estimated time of arrival
 etagere Et2I'greI
 étagère Et2I'greI
+etemon Et#@m0n
 eti $abbrev //eti technologies
 etiology i:t#i'0l@dZi
 ets i:'t2i:z $only //plural of ET
@@ -1073,10 +1226,12 @@ eversong 'Ev3:sON
 everstorm 'Ev3sto@m
 evie i:vi:
 evilangel 'i:v@L||'eIndZ@L
+evilemon i:'vaIlm0n
 evp $abbrev //some kind of electronic device to measure paranormal activity. I'm not sure what the abbreviation stands for beyond   electronic something paranormal
 ewok 'i:w0k //some kind of creature in star wars
 exabyte Eks@baIt
 exahert  Eks@h3t
+examon Eks@m0n
 exhalt Egz'Olt
 exocet EksoUsEt
 exothermic EksoU'T3mIk
@@ -1096,6 +1251,7 @@ fanger f'ang3
 fascia f'astS@
 fashionista faS@n'i:st@
 favela f0'vEl@ $onlys
+fceux $abbrev
 fcra $abbrev
 fdic $abbrev //federal deposit insurance corporation
 fëanor 'feIa#no@
@@ -1115,6 +1271,7 @@ fetale fI#'t20l
 fiance's  fI;'0nseIz $only
 fiberglas faIb3glas
 fibromyalgia faIbroUmaI'aldZ@
+fichub f'IkhVb//fanfiction downloading site
 fidelis fi:d'eIlIs
 filemanager  f'aIlmanI2dZ3
 fileoperation f'aIl||0p3'eIS@n
@@ -1136,7 +1293,9 @@ flidais fl'IdIS
 floersheimer fl'aU3zhaIm3 //name
 floortile fl'o@t2aIl
 flophouse fl0phaUs
+floramon fl'o@r@m0n
 fogh f'0x
+foliamon f'oUli@m0n
 footsoldier f'UtsoUldZ3
 forcedeth f'o@sdET //driver for ethernet cards by nvidia, found on most apple macs
 forcefield f'o@sfi:ld
@@ -1151,6 +1310,7 @@ freebsoft fr'i:||b'i:||s'O2ft
 freerdp fr'i:||'A@||d'i:||p'i:
 freeride fri:raId
 freerider fri:raId3
+frigimon fr'IdZim0n
 frise fri:'zeI
 fsarchive 'Ef||'Es||'A@kaIv
 fsarchiver 'Ef||'Es||'A@kaIv3
@@ -1166,6 +1326,7 @@ funguses f'VNg@sIz
 funnypage f'VnipeIdZ //not sure why this one doesn't work.
 fuseblk fj'u:z||b'i:||'El||k'eI //linux name for mounted fuse filesystems
 fwupdmgr $abbrev //firmware update manager, abbreviated fwupdmgr on gnu linux
+gabrielmon g'eIbri:@lm0n
 gabumon g'0bu:m0n
 Gaddafi g@'d0fi
 gaebril g'eIbr@L //name
@@ -1179,11 +1340,16 @@ galoot g@'lu:t
 galoshes g@l'0SIz
 gamboled g'amb@Ld gareth g'A@@T
 ganache g@'n0S
+ganger g'aN3
 gangrene g'aNgri:n
+gankoomon g'anku:m0n
+ gaogamon g'aUg@m0n
 garbageman  g'A@bI2dZman
 garbagemen  g'A@bI2dZmEn
 García gA@'si:a# //name
 gargomon g'A@goUm0n
+Garudamon g3'u:d@m0n
+garuru g@ru:ru: //howl of a wolf spelled out in text
 garurumon g@'ru:ru:m0n
 gateau g@'t2oU
 gatling g'atlIN
@@ -1207,11 +1373,13 @@ georestrict dZ'i:oU||rI2str'Ikt
  ghealdan g'eIld@n
 Ghealdanin geIl'd0nIn
 gholam g'0l@m //name
+ghoulmon g'u:lm0n
 ghrá gr'0
 ghul 'gu:l
 giacci gi:'0tSi //name
 gianes gaI'anIs //name
 giannarelli dZi;0n3'Eli //name
+gigadramon g'Ig@dr@m0n
 gigante dZi:'g0nt2i: //name
 gigapet g'Ig@pEt2 $onlys
 gigasmon gIg@sm0n
@@ -1237,8 +1405,10 @@ gnuring  g@n'u:rIN  //free software skype replacement
 gnutls g@'nu:||t2'i:'El'Es
 goan g'oUn $only //odd pronunciation of going
 gobi g'oUbi //name
+goblimon g'0blim0n
 gobuntu goUb'u:nt2u: //google's ubuntu derivitive used for code development
 goddaughter g'0d||d'O:t#3
+goddramon g0dr@m0n
 godiva g@'daIv@ //name
 godson g'0dsVn
 goibhniu g'Vvnu: //name
@@ -1260,6 +1430,7 @@ goulet gu:'leI //name
 gourd 'go@d
 gpus dZi:pi:'ju:z
 gradalpha gr@d'alf@
+grademon gr'eIdm0n
 graendal gr'End@L //name
 graffitist  gra#f'i:t#Ist
 grama gr'am@ $onlys
@@ -1273,11 +1444,13 @@ granpere gr'A~n||p'e@ $onlys
 Granuaile gr'0nju:eIl //name
 granule gr'anju:l
 gras gr0 $only
+gravitas gravIt20s
 greenbrier gr'i:nbr'aI3
 greenknight gr'i:nnaIt //name
 gregorovich $2 //name
 gretchen gr'EtS@n //name
 greymon gr'eIm0n
+gridiromon grI'di@3@m0n
 grimrr 'grIm@r //name
 grinogion grIn'oUgI@n //name
 (gris gris) gri:||gri: $onlys
@@ -1296,6 +1469,7 @@ guigimon gi:gi:m0n //baby digimon, prior form of guilmon
 guilmon g'i:oUm0n
 guinevere 'gInI#vi@3
 gulakah gu:'l0k@
+gulfmon g'Vlfm0n
 gummymon g'Vmim0n
 gunnar g'UnA@
 gustaf gu:st0fgunnar g'UnA@
@@ -1316,6 +1490,7 @@ hagerstrom h'eIg3str0m
 hagurumon h@'gU@u:m0n
 hakusho h@'ku:SoU //name
 halal ha#'l0l
+halomon h'eIloUm0n
 hammarskjold h@'mA@skjoUld //hammarskjold plaza
 hangared h'aNg3d
 han h0n $onlys //han solo, also a japanese name
@@ -1339,6 +1514,7 @@ hearne h'3:n
 heavenward  h'Ev@nw3:d
 hebra h'i:br@
 heci $abbrev //host embedded control interface, the //successor to smbus, system management bus
+hederamon h'Ed3@m0n
 helene hIl'i:n
 Helgarson h'Elg3s@n
 heliotrope h'i:lioUtroUp
@@ -1356,6 +1532,7 @@ herveauxes h3'voUz
 herveaux  h3:'voU
 heteroflexible  hEt#3r,oU'flEks@b@L
 hevc $abbrev
+hexagonal hEks'ag@n@L
 hezbollah h'Ezb@l0
 hibiscus haI'bIsk@s
 hiccuped h'IkVpt2
@@ -1366,6 +1543,7 @@ hierophant hi;'Er@f@nt
 hifi h'aIfaI //high fidelity
 highfalutin haIf@'lu:?n-
 hightail h'aIt2eIl
+Hinukamuy hIn'u:k@maI
 hisyarryumon hIsj'A@||aIj'u:m0n
 hisyarumon hIsj'A@||aIj'u:m0n //misspell
 hisyaryumon hIsj'A@||aIj'u:m0n
@@ -1376,6 +1554,7 @@ hoboken  h'oUboUk@n
 hockstetter  h'0kstEt#3
 holmby hoUlmi //holmby hills
 holydragon  h'oUli||dr'ag@n
+holydramon h'oUlidr@m0n
 hombre h'0mbreI
 homeostasis hoUmi:oUst'eIsIs
 homophobe h'oUmoUfoUb
@@ -1390,7 +1569,7 @@ Hortensio  O@t'EnsI2;,oU
 hosier hoUZ3
 hosiery hoUZ3i
 hoster h'oUst3 $onlys
-hotellier hoUt@li:'eI
+hotellier hoU't2Eli:eI
 houstonian hju:'stoUni@n
 houstonians hju:'stoUni@nz
 howto haUt2u:
@@ -1447,6 +1626,7 @@ imho $abbrev //in my humble opinion
 immanuel Im'anju:El //name
 imobiledevice 'aI||m'oUb@L||dI'vaIs
 impa Impa#
+imperialdramon Im'pi@3i@Ldr@m0n
 imperva Im'p3v@ //what in the world is this
 impudent  $1
 incantatem Inkan't0t@m
@@ -1459,6 +1639,7 @@ infinote $1
 infinoted 'InfInoUt||d'i:
 inflammation  Infl@m'eIS@n
 infovox InfoUv0ks
+inky INki
 innerpants 'In3||'pants
 innings 'InINz
 innit 'InIt2
@@ -1486,6 +1667,7 @@ isay 'aI||s'eI
 isdn $abbrev $only //international subscriber digital number.  I think
 isendre I'sEndr@
 ishamael IS0meI'El //name
+ishida IS'i:d@
 Islanzadí Isl@n'z0t#i
 Ísolfr 'i:s0lv3 //norse name
 Ísólfr 'i:s0lv3 //norse name
@@ -1506,6 +1688,7 @@ jaden dZ'eId@n
 jaffar dZa#'fA@
 jaffordses  dZ'af3dzIz
 jagang dZ@'gaN
+jagerlowemon j'eIg3||l'oUIm0n
 jahoel dZ0hoU'El
 jaimeson dZ'eImIs@n
 jalousie dZal@si
@@ -1574,13 +1757,13 @@ kameltaur k'am@Lto@//cross between a camel and a t rex, I think
 kamikazeing k0mI'k0ziIN
 kamikaze k0mI'k0zi
 kamikazes k0mI'k0ziz
-kamo k'amoU
 kanji  k'0ndZi
 kapow k@'paU $only
 kapurimon k0'pU@Im0n
+Karatenmon k3'0t2i:nm0n
 karena k@r'i:n@
 kasim k0'si:m //name
-kassandra k@'sandr@
+kassandra k@sandr@ //name
 katana k@t2'0n@
 katarra k@'tA@@
 katega k@'t2eIg@
@@ -1618,7 +1801,8 @@ kholin k'oUlIn
 khz k'Il@h3ts
 kidebo kI'di:boU
 kigarin kI'gA@In
-kiko k/aIkoU //name
+kiko k'aIkoU //name
+kinesthetic kInEs'TEt#Ik
 kintaro kIn't2A@oU
 kitsune kIt'su:neI
 kittenish  k'I?nIS
@@ -1633,6 +1817,7 @@ kobuk k'oUbVk
 koch koUk $onlys //gun manufacturer, EG heckler and koch
 kodokugumon k'oU||doU'ku:gu:m0n
 koichi koU'i:tSi
+kokuwamon koU'ku:w@m0n
 kol koUl $only //kol adair
 konrád k'0nrad
 Konstantin k'0nst@nti:n
@@ -1643,6 +1828,7 @@ koshuta k@'Su:t@
 koyanni kOI'0ni
 kramisha kr@'mi:S@ //name
 kraselsky kr@s'Elski //name
+kratom kr'eIt@m //plant
 kreate create $text
 kreipke kr'eIpki
 krieged kr'i:gd //blitz-krieged
@@ -1651,6 +1837,7 @@ krychek kr'aItSEk
 kudos 'ku:doUz
 Kula k'u:j@
 kulasekaran ku:l@'seIk@r0n
+kumamon k'u:m@m0n
 kumbaya ku:mbaI'j0 //crude attempt
 kuper k'u:p3
 kuwagamon ku:'w0g@m0n
@@ -1660,6 +1847,7 @@ kyleman k'aIlman
 kyokyomon  k'aIoU||k'aIoUm0n
 kyriakus ki@3i'0ku:s
 kyubimon ki:j'u:bim0n
+Kyuubimon ki:'ju:bim0n
 labesia lI#b'i:S@ //name
 lacewing l'eIswIN
 lacuna l@'ku:n@
@@ -1706,7 +1894,7 @@ legolas 'lEg@l@s
 lekismon lI#'kizm0n
 lemke l'Emki //name
 (le mot) l@mA~ $only
-lemus l'eImu:s
+lemus l'eImu:s //name
 L'Enfant lA~n'fA~n $onlys
 L'Enfant's lA~n'fA~nz $onlys
 lenobia l@'noUbi@ //name
@@ -1714,6 +1902,7 @@ leno l'EnoU $onlys
 lenovo l@'noUvoU
 leomon l'i:oUm0n
 leonid li:'0nId
+leopardmon l'Ep3dm0n
 (les miserables)	leImIzEr'A:bl@-
 lestat l@'st0t $onlys
 lestrange l@'strA~nZ //name
@@ -1721,6 +1910,7 @@ Lethesanar l@'TEs@nA@
 leveque lI'vEk
 Levèque lI'vEk
 levesque l@'vEsk
+leviamon l@'vaI@m0n
 levi l'i:vaI //name //attempt
 levolor l@'voUl3
 Leydecker l'aIdEk3
@@ -1743,7 +1933,8 @@ libmtp l'Ib||'Em||'t2i:||p'i:
 libra l'i:bra#
 librefm l'i:br@||'Ef||'Em
 librejs 'li:br@||dZeI'Es
-libretro lIb'rEt2roU //library for multiple console gaming systems, ps2, psx, etc.
+libretro lib retro $text //library for multiple console gaming systems, ps2, psx, etc.
+libretro l'IbrEtroU
 libro l'i:broU
 libvoxin l'Ib||v'0ksIn
 licorice l'ik3Is
@@ -1755,6 +1946,7 @@ lighteyed l'aItaId
 lightheadedness  l'aIthEdI#dn@s
 lighttable l'aIt2t2eIb@L
 lila l'aIl@
+lilithmon l'IlITm0n
 l'il lIl $onlys //lil wayne, others
 lillymon l'Ilim0n
 linein l'aIn||'In
@@ -1784,6 +1976,7 @@ lorena l3:'eIn@ //name
 losin l'u:zIn $only
 lothain loU'TeIn //name
 lothlórien lOT'lo@i@n
+lotusmon l'oUt#@sm0n
 loudis l'oUdIs
 louis l'u:Is $only //name
 louisville l'u:ivIl //louisville kentucky
@@ -1793,10 +1986,12 @@ lovehatetragedy l'Vv||h'eIt2||tr'adZI#t#i//papa roach album
 lovelace l'Vvl@s /name
 lovell l'Vv@L
 loweemon l'oUIm0n
+lowemon l'oUIm0n
 lsusb  $abbrev $only //command in gnu/linux to list usb devices connected to the computer
 lucas lu:k@s //name
-lucemon l'u:seIm0n
+lucemon l'u:s@m0n
 Luchta l'u:kt2@ //irish name
+luciamon l'u:si@m0n
 ludewig l'VdwIg //name
 lugh l'u: $onlys
 luhhan l'u:h0n //name
@@ -1815,12 +2010,14 @@ machera m@'Si@r@ //name
 macho m'0tSoU $only //macho man, macho men
 macos m'ak||,oU'Es
 madre m'0dreI
+maelstrom m'eIlstr@m
 mae m'eI $onlys
 mafia m'0fi:@
 maggoty m'ag@ti
 magimon m'eIdZaIm0n
 (mag mell) m0'mEl //irish plain
 magnagarurumon m'agn@g3r'u:ru:m,0n
+magnamon m'agn@m0n
 magnetohydrodynamic mag'nEt#oU||h'aIdroU||daIn'amIk
 magnetosphere mag'nEt#oUsfi@3
 magruder m@'gru:d3 //name
@@ -1834,7 +2031,10 @@ MAIRELON m'e@l0n
 (maitre de) meIt3'di: $onlys
 (maître de) meIt3'di: $onlys
 majhere m0'dZi@3
+majiramon m@dZi@3@m0n
+makeinfo m'eIk||'InfoU
 makerspace  m'eIk3sp,eIs
+makiya m@k'i:@
 makuramon m@'kU@@m0n
 malachai  m'ala#k,aI
 malachite  m'al@k,aIt
@@ -1842,12 +2042,15 @@ maladies m@'leIdiz
 malady m@'leIdi
 malady's m@'leIdiz
 Maleficent m@'lEfIs@nt
+malestromon m@'lEstr@m0n
+malevomon m@'lEv@m0n
 malfoy $1 //name
 malkier mal'ki@3
 mallomar m'aloUmA@
 malyshka m0l'i:Sk@ //sounds russian
 Mamaroneck m@m'Er@nEk
 mamma m'0ma#
+mammothmon m'am@Tm0n
 manana m0n'j0n@ $only
 Manannan m0n@'n0n //irish name
 manaregen m'0n@||r'i:dZEn
@@ -1906,8 +2109,10 @@ medina mI'di:n@
 mediterranean  m,EdI2t23r'eIni@n
 mediumsize m'i:di@ms,aIz //mediumsized
 megadeth m'Eg@dET
+megadramon m'Eg@dr@m0n
 megaladon 'mEga#l@d0n
 megaman m'Eg@||m'an
+megatheriumon m'Eg@T'i@3i@m0n
 megidramon mE'gi:dr@m0n
 meiman m'aIm@n
 mejia mEhi;@
@@ -1919,6 +2124,7 @@ mellisacoffee m@'lIs@||k'Ofi
 mellisasbaby m@'lIs@z||b'eIbi
 memtest m'Emt2Est
 menswear m'Enzwe@ $only
+mephismon m'EfIsm0n
 meramon m'Er@m0n
 mercede m3'seIdi: $only //character on alteraeon, the s is left off deliberately in the name
 mercurochrome m3'kjU@@kroUm
@@ -1928,6 +2134,7 @@ merrilor  m'ErIlo@
 mesaana $2 //name
 metalgolemon m'Et#@L||g'oUl@m0n
 metalgreymon m'Et#@L||gr'eIm0n
+metalkabuterimon m'Et#@L||k0bu:'t2e@i:m0n
 metamorphosis  mEt#@m'o@f@sIs
 metastasize m@'t2astIsaIz
 métier mEti'eI
@@ -1964,12 +2171,14 @@ mipha m'i:f@
 miraflores mi@3@||fl'O@Ez
 miriani mi@3i'0ni
 misaki mIs'0ki
-misaki m'Is0ki //name
 misrepresentation $5
 mistwraith $1
 mistymon m'Istim0n
 mitake mi:t'A:keI
 mitm $abbrev //man in the middle
+mitragyna mItr@dZ'I:n@ //mitragyna speciosa
+mitragynine mI'tradZIni:n
+miya m'i:@
 mjolnir mj0lni@3
 mkexfatfs 'Em||'keI||'Eksfat||'Ef||'Es
 m'ladies m@'leIdiz
@@ -2004,6 +2213,7 @@ mortared mO@t3d
 motaro  moU'tA@oU
 motheaten m'0Ti:?n-
 Mötley m'0tli
+Motomiya moUt@'mi:@
 motorjesus m'oUt#3||dZ'i:z@s
 mouchard mu:'SA@d
 movelist m'u:vlIst
@@ -2031,6 +2241,7 @@ murtag 'm3t2ag
 musb $abbrev //mobile usb
 muscleman m'Vs@Lman
 musclemen m'Vs@LmEn
+mushroomon m'VSru:mm0n
 mushz mVS||zi:
 musicbrainz  mj'u:zI2kbr,eInz
 mussolini  m,Us@l'i:ni
@@ -2077,6 +2288,7 @@ ncaa $abbrev //some sort of sports organization, EG NCAA college football rom fo
 ndis $abbrev //windows networking api
 necropolis  nEkr'0p@lIs
 nectarine  nEkt3:r'i:n
+neemon n'eIm0n
 neferet nEf3r'Et
 néiat n'eI0t
 neighborsgo n'eIb3z||g'oU $onlys
@@ -2101,6 +2313,7 @@ nforce 'En||f'o@s //nvidia graphics card
 nicessus nIk'Es@s
 niceven nI'si:vI#n
 nickelback n'Ik@Lbak
+nicolae n'Ik@laI
 nicola nI'koUl@ $only //name
 nidhe n'aI
 nidus n'aId@s
@@ -2126,6 +2339,7 @@ norego no@'eIgoU //town
 norelco no@'ElkoU
 norepinephrine no@EpIn'Efri:n
 noriega no@i'eIg@
+noriko no@'i:koU
 normaliz n'o@m@LaIz $only
 norte n'o@t2eI
 noshow noU||SoU
@@ -2159,6 +2373,7 @@ oceania @'si:ni@
 ocella oUk'El@ //name
 ocher oUk3
 ocrdesktop oUsi:'A@||d'Eskt0p $only
+octagonal 0k'tag@n@L
 octopuses '0kt@pUsIz
 ocz $abbrev //defunct electronics corporation
 odair $2
@@ -2178,10 +2393,13 @@ ohci $abbrev //part of the usb spec
 ohmygod 'oU||m'aI||g'0d $only
 (o'kennedy) oUk@n'eIdi
 okleasik oUkl'i:zIk
+okuwamon oU'ku:w@m0n
 olivier $2
 ol oUl $only  //old
 omage oU'm0Z
 oman oU'm0n
+omegamon oU'meIg@m0n
+omnimon '0mni:m0n
 onaga oU'n0g@
 onedrivefs w'Vn||dr'aIv||'Ef||'Es
 onesie w'Vnzi
@@ -2217,6 +2435,7 @@ otc $abbrev //over the counter
 otg $abbrev //on the go
 oubre 'u:br@
 ouryuken o@i:;'u:kEn
+ouRyumon aU3raIju:m0n $capital
 outreachy  'aUtri:tSi $onlys
 outre u:'treI $only
 outré u:'treI $only
@@ -2231,6 +2450,7 @@ padan p'0d@n
 pae $abbrev //physical address extension, a way for a 32 bit processor to address more than 3 gb of ram
 paildramon paI'i:ldr@m0n
 paisley p'eIzli
+pajiramon p@'dZi@3@m0n
 palaver p@'lav3
 palencar 'pal@nkA@
 palerider p'eIl||r'aId3
@@ -2242,6 +2462,7 @@ palmon p'alm0n
 panopticon pan'0ptIk0n
 pantera pan't2e@@
 panwere p'anwe@
+papirus p@p'aIr@s
 paprika pap'ri:k@
 parabolagnulinux p3'ab@l@|g@n'u:|l'InVks
 parachutist  p'ar@S,u:t#Ist
@@ -2255,6 +2476,7 @@ parolee p3'oUli:
 partaken pA@'t2eIk@n
 partook pA@'t2Uk
 pasqual pas'kal
+pastebin p'eIstbIn
 pastiche past'i:S
 pastorelli past3'Eli
 pasty p'eIst2i
@@ -2271,7 +2493,9 @@ pcaudiolib pi:'si:||'O:di;oU||l'Ib
 pcmanfm pi:'si:||m'an||Ef'Em
 pcrepair p,i:s'i:||rI2p'e@
 peabody'll p'i:b0dI;@L
+peachy p'i:tSi
 pecanland pI#'k0n||land
+peckmon p'Ekm0n
 pedic pi:dIk $only
 pelee pEl'eI
 pelvises p'ElvIsIz
@@ -2293,6 +2517,8 @@ phentanyl f'Ent@nIl //opioid
 phien fjEn
 phnom p@'n0m $onlys
 phobophage 'foUboUfeIdZ
+phoenixmon f'i:nIksm0n
+phonemize foUni:maIz
 phonify f'oUnIfaI
 phoronix f3'0nIks //linux devotee website
 phouka f'u:k@
@@ -2302,6 +2528,7 @@ phytell faIt'El //name
 phz p'Et@h3ts
 piazza pj'0?:s@
 picketer  p'IkI2t3
+piddomon p'Id@m0n
 (piece de resistance) p'jEs||d@||reIzIst'A~ns
 piedaterre  pI;'Eda#t'e@
 pieman p'aIm@n $only
@@ -2391,6 +2618,7 @@ p'tit p@ti: $only //attempt
 puanani pw0'n0ni
 puget  pj'u:dZI2t
 Puparazzi pVpa#'r0zi
+pupiless pj'u:p@Ll@s//misspelling of the proper word
 puroromon p3r'o@@m0n
 purplebuddy  p'3:p@L||b'Vdi//apparently part of apple's internal //communication protocol. Over my head, but part of libimobiledevice docs
 pururumon p3r'u:ru:m0n
@@ -2398,6 +2626,7 @@ pustule pVstSu:l
 //putting p'VtIN $noun
 Qadhafi k@'d0fi
 qatar k@'t2A@
+qinglongmon kwEnl0Nm0n
 quaalude kw'eIlu:d
 quadricep  kw'0drI#s,Ep
 quasimodo kw0zi'moUdoU
@@ -2438,6 +2667,7 @@ ravener r'av@n3
 razr r'eIz3  //motorola razr
 reacquaint ri:@kw'eInt
 reacquire ri:a#kw'aI3
+reanalyze ri:'an@laIz
 reanchor $2
 rearchitect ri:'A@kIt2Ekt
 reas r'eI@s $only //name
@@ -2473,6 +2703,7 @@ reopening rI2;'oUp@nIN
 reorchestrate  rI2;'o@kI2str,eIt
 reprehensive rEprI'hEnsIv
 reprehens rEprI'hEns //reprehensable, reprehensive
+resend ri:s'End
 //resign ri:'saIn $verb $only
 resignup r'i:||s'aInVp
 restavec RrEst'0vEk
@@ -2487,6 +2718,7 @@ rexford r'Eksf3d //name
 reyes r'eI@s //name
 Rhea r'i:@ $onlys
 rhiannon ri'0n@n //name
+rhihimon r'aIh@m0n
 rhuidean ru:'idi0n
 riaz r'i:@z
 riddell $2 //name
@@ -2520,6 +2752,7 @@ rondinelly r0ndI#n'Eli //name
 rop $abbrev //retinopathy of prematurity
 rosanne roU'zan //name
 rosa r'oUz@
+rosemon r'oUzm0n
 rotc $abbrev
 rothschild  r'0TstSaIld
 rotunda roU'tVnd@
@@ -2534,6 +2767,7 @@ russinovich r@'sIn@vItS
 russo r'u:soU //name
 ruttledge r'Vt2lIdZ //name
 ryudamon raIj'u:d@m0n
+ryuumon r'aIju:m0n
 sa'angreal s0||0ngri0l
 sacagawea saka#dZ@'wi:@
 sacroiliac sakroU'Iliak
@@ -2634,6 +2868,7 @@ sergio s'e@dZioU
 Sérgio s'e@dZioU
 serotek 'sEr@t2Ek
 serviola se@vi:'oUl@
+setagaya s'Et#@g'aI@
 setalle sI#'t2al //name
 seuss s'u:s
 Sevastopol sI'vast@poUl
@@ -2673,15 +2908,17 @@ shyamalane SaI'am@leIn
 sidell sI'dEl
 siento s'jEnto
 sigebert s'i:@be@t //name
-sigil sIg@L
+sigil s'IdZ@L
 sigmatel sIgm@t2El
 signee saI'ni:
 Sigourney sI'go@ni
 sigul sIg@L //misspelled
+silphymon s'IlfIm0n
 silvester $2 //name
 simethicone sI'mETIkoUn //antigas medication
 simpleminded sImp@L||maIndI#d
 simurghmon sI'm3gm0n
+sinistromon s'InIstr@m0n
 Siodhachan 'Si@xan
 sirkal si@3'k0l
 sithen 'saIT@n
@@ -2698,6 +2935,7 @@ skypeweb sk'aIp||w'Eb
 Sláinte sl'0ntS@ //old irish for good health
 slalom sl0l@m
 sleazebag sleezebag $text
+sleipmon sl'eIpm0n
 slideout sl'aIdaUt2 $onlys
 slinger slIN3
 slough 'slVf
@@ -2706,6 +2944,8 @@ sma $abbrev //software maintenance agreement
 smarthome smA@t2hoUm
 SMÉAGOL 'smi:g0l
 smileage smaIlIdZ $1
+snes $abbrev
+snimon sn'i:m0n
 snohomish snoU'hoUmIS
 snorefest  sn'o@fEst
 snowdance sn'oUdans
@@ -2738,6 +2978,7 @@ sourcerer  s'o@s3r-3
 souris sU'Rri:
 sow s'aU $onlys
 spatiotemporal sp'eISi:oU||t2'Emp3:@L
+speciosa spi:si:'oUs@
 speidel spaIdEl $2
 sphinxmon sfINksm0n
 spielberged   sp'i:lb3gd $only
@@ -2825,6 +3066,7 @@ tahoma t2@'hoUm@
 taim t0'i:m $only
 tairen t'eI3I#n
 takuro t@'kU@oU
+takuya t@k'u:j@
 talamh t2'0l0m
 talkingarch t'O:kIN||'A@tS
 tallanvor t'0l@nvo@ //name
@@ -2834,6 +3076,7 @@ tamamon 't20m@m0n //root, part of other digimon names
 Tamater t@m'eIt#3 $onlys //redneck
 tami t2'ami //name
 tanchico tan'tSi:koU //city
+taniko t@'ni:koU
 tanja t'0nj@ //name
 tanne t2'0n@ //name
 tanya t2'0nj@ //name
@@ -2844,6 +3087,7 @@ tarabon t'A@@b@n//city
 taranis t@r'eInI#s //name
 taren t2'A@@n
 tarot t2'aroU
+tartarus t'A@t#3r@s
 (tar valon) tA@'v0l@n //city
 tarzan t'A@zan $onlys
 tatelman t'eIt@Lm@n //name
@@ -2958,6 +3202,7 @@ trojaned troUdZ@nd
 trolloc 'tr0l@k //dark moblin from the wheel of time series, by brandon sanderson and robert jordon
 truckbed tr'VkbEd
 trucrypt  tr'u:krIpt //abandoned semi open source encryption software for //windows, mac and linux. Veracrypt is the successor
+trujillo tru:'hi:oU
 trytian tr'It#i@n //name
  (tsi sgili)tsi:ts@'gi:li //ancient name for a god
 ttsynth 't2i:||'t2i:||s'InT $onlys //old unmaintained ibmtts speakup connector, similar to espeakup
@@ -2984,6 +3229,7 @@ tutus t2u:t2u:z $only
 tutu t2u:t2u:
 tuxera tVks'e@@
 t'would  tw'Ud
+tyilinmon t2aI@lInm0n
 tyna t2'aIn@
 tyn t2'aIn $onlys
 Tyrannomon t3r'0n@m0n
@@ -3022,6 +3268,7 @@ usbcore j'u:||'Es||b'i:||k'o@
 usbfs $abbrev //kernel module to access various file systems over usb. Actually part of the usbcore kernel module
 usblp $abbrev //kernel module for usb printers
 usefully j'u:sf@li
+userland ju:z3land
 Ushuaia u:'swaI;-@
 usmc $abbrev //US marine core
 usps $abbrev //united states postal service
@@ -3039,12 +3286,16 @@ Vágner v'0n3 //mame
 vagner v'0n3 //name
 vajramon v'0Zr@m0n
 vajra v'0Zr@
+valerian v@l'i@3i@n //plant
 valkyrimon val'ki@3@m0n
+vampiramon v'ampaI3@m0n
 vanadinite v@'nadInaIt
 vaporware 'veIp3we@ //software that either does not exist or does not perform it's stated function
 vasocongestion vas@k@ndZ'EstS@n
 vaudun vaU'du:n //true name for the voodoo religion
 vaya v'aI@ $only
+veedramon v'i:dr@m0n
+vega v'eIg@
 velgemon v'Elg@m0n
 vemarken v@'mA@kIn
 ventriloquate vEn'trIl@kweIt
@@ -3087,7 +3338,7 @@ walleyed  w'O:laId
 wal w'0l $only //walmart
 wan w0n $only
 warcry  w'O@kraI
-warmage w'O@meIdZ $noun
+warmage w'O@meIdZ
 waseau w0'soU
 waspmon w'0spm0n
 wassanasong wa#'s0n@s0n //name
@@ -3099,6 +3350,7 @@ weis w'aIs
 wendall w'End@L //name
 wendell w'End@L //name
 wes w'Es $onlys
+whaddya wVd@||j@ //odd spelling
 whamon w'eIm0n
 whataburger wVt#||a#||b3g3
 whatchado wVtS@'du: //whatchadoin, whatchadoing
@@ -3131,6 +3383,7 @@ wipefs w'aIp||Ef'Es
 wisemon w'aIzm0n //digimon
 wizardmon w'Iz3dm0n
 wminput d'Vb@Lju:||'Em||'InpUt
+wolfmon wUlfm0n
 wollypog  w'0lI2p,0g
 Wondrash w'0ndraS
 wong w'ON
@@ -3144,6 +3397,7 @@ wyrm w'3:m
 wytch witch $text
 xdgapp Eksdi:'dZi:||'ap
 xtra 'Ekstr@ //pib xtra
+xuanwumon Sw'0N,wu:m0n
 yakuza j0'ku:z@ ya'll  j'O:l
 yaml $abbrev //platform agnostic config standard, similar to xml
 yanmamon j'anm@m0n
