@@ -1,3 +1,4 @@
+escn $abbrev
 tsi $abbrev
 writeln r'aIt||El'En
 foreach f'o@'i:tS
