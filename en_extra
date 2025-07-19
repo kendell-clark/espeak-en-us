@@ -1,3 +1,4 @@
+ips $abbrev
 opml $abbrev
 coredumpctl core dump ctl $text
 fasl $abbrev
