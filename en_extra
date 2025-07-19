@@ -1,3 +1,4 @@
+opml $abbrev
 coredumpctl core dump ctl $text
 fasl $abbrev
 synopses sIn'0psi:z
