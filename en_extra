@@ -1,3 +1,4 @@
+themepack theme pack $text
 ips $abbrev
 opml $abbrev
 coredumpctl core dump ctl $text
