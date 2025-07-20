@@ -1,3 +1,4 @@
+openpgp open pgp $text
 eml $abbrev
 asx $abbrev
 epds $abbrev
