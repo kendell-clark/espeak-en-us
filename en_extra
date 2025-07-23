@@ -1,3 +1,4 @@
+gchararray g char array $text
 buildx build x $text
 icc $abbrev
 adw $abbrev
