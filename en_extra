@@ -1,3 +1,4 @@
+containerd container d $text
 nodejs node js $text
 apng $abbrev
 wonderswan wonder swan $text
