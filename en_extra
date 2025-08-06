@@ -1,3 +1,4 @@
+libldap lib ldap $text
 containerd container d $text
 nodejs node js $text
 apng $abbrev
