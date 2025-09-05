@@ -1,3 +1,4 @@
+journalctl journal ctl $text
 webkitqt webkit qt $text
 webkitgtk webkit gtk $text
 statoacoustic stat#oUa#'ku:stIk
