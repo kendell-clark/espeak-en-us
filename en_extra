@@ -1,3 +1,4 @@
+iot $abbrev
 journalctl journal ctl $text
 webkitqt webkit qt $text
 webkitgtk webkit gtk $text
