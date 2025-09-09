@@ -1,3 +1,4 @@
+libssh lib ssh $text
 iot $abbrev
 journalctl journal ctl $text
 webkitqt webkit qt $text
