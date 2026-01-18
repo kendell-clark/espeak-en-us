@@ -1,3 +1,4 @@
+findfs find fs $text
 libssh lib ssh $text
 iot $abbrev
 journalctl journal ctl $text
