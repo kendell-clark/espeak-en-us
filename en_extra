@@ -1,3 +1,4 @@
+freebsd free bsd $text
 findfs find fs $text
 libssh lib ssh $text
 iot $abbrev
