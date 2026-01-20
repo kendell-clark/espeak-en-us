@@ -1,4 +1,4 @@
-
+secureboot secure boot $text
 kafs $abbrev
 afs $abbrev
 freebsd free bsd $text
