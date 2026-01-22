@@ -5,7 +5,7 @@ afs $abbrev
 freebsd free bsd $text
 findfs find fs $text
 libssh lib ssh $text
-iot $abbrev
+iot $abbrev //internet of things
 journalctl journal ctl $text
 webkitqt webkit qt $text
 webkitgtk webkit gtk $text
