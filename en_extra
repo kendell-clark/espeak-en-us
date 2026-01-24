@@ -1,3 +1,4 @@
+opengpg open gpg $text
 uas $abbrev
 uhs $abbrev $only
 iosf $abbrev
