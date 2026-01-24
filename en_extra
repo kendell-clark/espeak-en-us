@@ -1,3 +1,5 @@
+ich $abbrev $only
+idma $abbrev
 bmof $abbrev
 btintel bt intel $text
 iwlmvm $abbrev
