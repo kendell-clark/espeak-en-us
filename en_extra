@@ -1,3 +1,5 @@
+rapl $abbrev
+rfim $abbrev
 ich $abbrev $only
 idma $abbrev
 bmof $abbrev
