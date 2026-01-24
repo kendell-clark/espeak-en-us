@@ -1,3 +1,4 @@
+btintel bt intel $text
 iwlmvm $abbrev
 uvcvideo uvc video $text
 cavs $abbrev
