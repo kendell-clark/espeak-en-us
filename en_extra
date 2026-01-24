@@ -1,3 +1,4 @@
+iosf $abbrev
 mei $abbrev $only
 rapl $abbrev
 rfim $abbrev
