@@ -1,3 +1,4 @@
+mei $abbrev $only
 rapl $abbrev
 rfim $abbrev
 ich $abbrev $only
