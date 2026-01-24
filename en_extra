@@ -1,3 +1,4 @@
+uas $abbrev
 uhs $abbrev $only
 iosf $abbrev
 mei $abbrev $only
