@@ -1,3 +1,4 @@
+iwlmvm $abbrev
 uvcvideo uvc video $text
 cavs $abbrev
 avs $abbrev
