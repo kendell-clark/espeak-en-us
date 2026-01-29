@@ -1,3 +1,4 @@
+sizeof size of $text
 toc $abbrev $only
 cdrdao $abbrev $only
 sysfs s'Is||Ef'Es
