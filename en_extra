@@ -1,3 +1,4 @@
+la $abbrev $only
 pinyin p'InjIn
 sizeof size of $text
 toc $abbrev $only
