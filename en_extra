@@ -1,3 +1,5 @@
+memops mem ops $text
+vmalloc vm alloc $text
 binfmt bin fmt $text
 usbnet j'u:'Esb'i:||n'Et
 bnep $abbrev
