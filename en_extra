@@ -1,3 +1,4 @@
+gpusvm $abbrev
 gpuvm $abbrev
 edac $abbrev
 igen $abbrev
