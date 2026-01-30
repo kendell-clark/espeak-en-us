@@ -1,3 +1,4 @@
+gpuvm $abbrev
 edac $abbrev
 igen $abbrev
 memops mem ops $text
