@@ -1,3 +1,4 @@
+vsec $abbrev
 gpusvm $abbrev
 gpuvm $abbrev
 edac $abbrev
