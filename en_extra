@@ -1,3 +1,5 @@
+edac $abbrev
+igen $abbrev
 memops mem ops $text
 vmalloc vm alloc $text
 binfmt bin fmt $text
