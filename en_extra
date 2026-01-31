@@ -1,12 +1,61 @@
+pciexpress pci express $text
+Duologuy du:'0l@dZaI
+pinctrl p'In||'s'i:t2'i:A@'El
+vsec $abbrev
+gpusvm $abbrev
+gpuvm $abbrev
+edac $abbrev
+igen $abbrev
+memops mem ops $text
+vmalloc vm alloc $text
+binfmt bin fmt $text
+usbnet j'u:'Esb'i:||n'Et
+bnep $abbrev
+sunrpc sun rpc $text
+ecorche eIko@'SeI
+la $abbrev $only
+pinyin p'InjIn
+sizeof size of $text
+toc $abbrev $only
+cdrdao $abbrev $only
+sysfs s'Is||Ef'Es
+libisofs l'Ib||'aIsoU||Ef'Es
+isofs 'aIsoU||'Ef'Es
+meson m'Ez0n
+opengpg open gpg $text
+uas $abbrev
+uhs $abbrev $only
+iosf $abbrev
+mei $abbrev $only
+rapl $abbrev
+rfim $abbrev
+ich $abbrev $only
+idma $abbrev
+bmof $abbrev
+btintel bt intel $text
+iwlmvm $abbrev
+uvcvideo uvc video $text
+cavs $abbrev
+avs $abbrev
+hdaudio hd audio $text
+intelhdmi intel hdmi $text
+iwlwifi 'aId'Vb@Lju:||'El||w'aIfaI
+shannara S@'nA@@
+asustek eIs@st2Ek
+secureboot secure boot $text
+kafs $abbrev
+afs $abbrev
+freebsd free bsd $text
+findfs find fs $text
 libssh lib ssh $text
-iot $abbrev
+iot $abbrev //internet of things
 journalctl journal ctl $text
 webkitqt webkit qt $text
 webkitgtk webkit gtk $text
 statoacoustic stat#oUa#'ku:stIk
 statize st'eIt2aIz
 otoacoustic oUt#oUa#'ku:stIk
-otjiherero O:tSi:h3E@oU
+otjiherero O:tSi:h3e@oU
 opygopagous paI'g0p@g@s
 margarodite mA@g3@daIt
 margarodid mA@g3'oUdId
