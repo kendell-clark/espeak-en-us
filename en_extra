@@ -1,3 +1,4 @@
+isa $abbrev
 pcieport pcie port $text
 usbhid usb HID $text
 hbci $abbrev
