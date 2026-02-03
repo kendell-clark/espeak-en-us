@@ -1,3 +1,4 @@
+pcieport pcie port $text
 usbhid usb HID $text
 hbci $abbrev
 unidecode ju:nIdI#k'oUd
