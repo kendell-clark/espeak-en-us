@@ -1,3 +1,5 @@
+autonegotiation 'O:t#oU||nI#g'oUSieIS@n
+autonegotiate 'O:t#oU||nI#g'oUSieIt
 isa $abbrev
 pcieport pcie port $text
 usbhid usb HID $text
