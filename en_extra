@@ -1,3 +1,4 @@
+ec $abbrev //embedded controller
 dcim $abbrev
 modinfo mod info $text
 reupload re upload $text
