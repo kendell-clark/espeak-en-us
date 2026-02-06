@@ -1,3 +1,4 @@
+dcim $abbrev
 modinfo mod info $text
 reupload re upload $text
 dnfdragora dnf dragora $text
