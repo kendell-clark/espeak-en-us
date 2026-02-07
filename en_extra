@@ -1,3 +1,4 @@
+nogpgcheck no gpg check $text
 corsicana ko@sI#k'an@
 mirrorlist mirror list $text
 ec $abbrev //embedded controller
