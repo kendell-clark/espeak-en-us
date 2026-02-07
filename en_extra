@@ -1,3 +1,4 @@
+libxmlb lib xmlb $text
 fwupd $abbrev
 libusb lib usb $text
 guc $abbrev
