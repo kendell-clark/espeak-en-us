@@ -1,3 +1,4 @@
+itlb $abbrev
 nogpgcheck no gpg check $text
 corsicana ko@sI#k'an@
 mirrorlist mirror list $text
