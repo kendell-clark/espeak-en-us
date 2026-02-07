@@ -1,3 +1,6 @@
+ibrs $abbrev
+ibpb $abbrev
+usercopy user copy $text
 itlb $abbrev
 nogpgcheck no gpg check $text
 corsicana ko@sI#k'an@
