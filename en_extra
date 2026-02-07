@@ -1,3 +1,4 @@
+fwupd $abbrev
 libusb lib usb $text
 guc $abbrev
 huc $abbrev
