@@ -1,3 +1,5 @@
+
+tsa $abbrev
 ibrs $abbrev
 ibpb $abbrev
 usercopy user copy $text
