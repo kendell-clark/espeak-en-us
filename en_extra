@@ -1,3 +1,4 @@
+wia $abbrev
 libjcat lib j cat $text
 libxmlb lib xmlb $text
 fwupd $abbrev
