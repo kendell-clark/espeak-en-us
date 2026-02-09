@@ -1,3 +1,6 @@
+libgbm lib gbm $text
+coregtk core gtk $text
+coreqt core qt $text
 wia $abbrev
 libjcat lib j cat $text
 libxmlb lib xmlb $text
