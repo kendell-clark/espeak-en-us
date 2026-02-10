@@ -1,3 +1,4 @@
+webui web ui $text
 libgbm lib gbm $text
 coregtk core gtk $text
 coreqt core qt $text
