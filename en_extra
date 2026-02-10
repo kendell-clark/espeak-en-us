@@ -1,3 +1,39 @@
+webui web ui $text
+libgbm lib gbm $text
+coregtk core gtk $text
+coreqt core qt $text
+wia $abbrev
+libjcat lib j cat $text
+libxmlb lib xmlb $text
+fwupd $abbrev
+libusb lib usb $text
+guc $abbrev
+huc $abbrev
+tanequil t2'anI#kwIl
+tsa $abbrev
+ibrs $abbrev
+ibpb $abbrev
+usercopy user copy $text
+itlb $abbrev
+nogpgcheck no gpg check $text
+corsicana ko@sI#k'an@
+mirrorlist mirror list $text
+ec $abbrev //embedded controller
+dcim $abbrev
+modinfo mod info $text
+reupload re upload $text
+dnfdragora dnf dragora $text
+dragora dr@'go@@
+mrowl mr'aUl
+chatgpt chat gpt $text
+autonegotiation 'O:t#oU||nI#goUSi'eIS@n
+autonegotiate 'O:t#oU||nI#g'oUSieIt
+isa $abbrev
+pcieport pcie port $text
+usbhid usb HID $text
+hbci $abbrev
+unidecode ju:nIdI#k'oUd
+exr $abbrev
 pciexpress pci express $text
 Duologuy du:'0l@dZaI
 pinctrl p'In||'s'i:t2'i:A@'El
@@ -69,7 +105,7 @@ naboris n@'bo@Is
 sidon s'aId0n
 ganon g'an@n
 Hateno h@'t2EnoU
-guay g'eI
+guay gw'eI
 titlepage title page $text
 Boutillier bu:t@li:'eI
 bulova bUl@v@
