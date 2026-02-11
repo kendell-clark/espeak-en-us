@@ -1,3 +1,4 @@
+libdns lib dns $text
 libstdc++ lib std c plus plus $text
 glibc g lib c $text
 libdll lib dll $text
