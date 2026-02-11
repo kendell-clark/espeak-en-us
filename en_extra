@@ -1,3 +1,4 @@
+baseurl base url $text
 qtwebengine qt web engine $text
 qtwebview qt webview $text
 webui web ui $text
