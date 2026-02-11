@@ -1,3 +1,4 @@
+subseries sub series $text
 baseurl base url $text
 qtwebengine qt web engine $text
 qtwebview qt webview $text
