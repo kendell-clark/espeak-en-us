@@ -1,3 +1,5 @@
+qtwebengine qt web engine $text
+qtwebview qt webview $text
 webui web ui $text
 libgbm lib gbm $text
 coregtk core gtk $text
