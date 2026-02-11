@@ -1,3 +1,6 @@
+libstdc++ lib std c plus plus $text
+glibc g lib c $text
+libdll lib dll $text
 libpng lib png $text
 libupnp lib u p n p $text
 tabindex tab index $text
