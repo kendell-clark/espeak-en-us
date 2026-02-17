@@ -1,3 +1,4 @@
+ioport i o port $text
 iomemory i o memory $text
 regmap r'Egmap
 gui $abbrev
