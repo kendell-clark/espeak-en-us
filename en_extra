@@ -1,3 +1,4 @@
+cec $abbrev $only
 ishtp $abbrev $only
 ish $abbrev $only
 ipc $abbrev $only
