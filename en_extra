@@ -1,3 +1,4 @@
+ishtp $abbrev $only
 ish $abbrev $only
 ipc $abbrev $only
 ufshcd $abbrev
