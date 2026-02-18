@@ -1,3 +1,5 @@
+ish $abbrev $only
+ipc $abbrev $only
 ufshcd $abbrev
 ucsi $abbrev
 ioport i o port $text
