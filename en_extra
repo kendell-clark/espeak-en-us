@@ -1,3 +1,4 @@
+ntuser nt user $text
 cec $abbrev $only
 ishtp $abbrev $only
 ish $abbrev $only
