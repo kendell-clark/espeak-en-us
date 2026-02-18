@@ -1,3 +1,5 @@
+ufshcd $abbrev
+ucsi $abbrev
 ioport i o port $text
 iomemory i o memory $text
 regmap r'Egmap
