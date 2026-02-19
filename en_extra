@@ -1,3 +1,5 @@
+kucn $abbrev $only
+ide $abbrev $only
 ntuser nt user $text
 cec $abbrev $only
 ishtp $abbrev $only
