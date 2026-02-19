@@ -1,3 +1,4 @@
+coreboot core boot $text
 kucn $abbrev $only
 ide $abbrev $only
 ntuser nt user $text
