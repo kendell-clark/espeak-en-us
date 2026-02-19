@@ -1,3 +1,4 @@
+procfs proc fs $text
 winearch wine arch $text
 coreboot core boot $text
 kucn $abbrev $only
