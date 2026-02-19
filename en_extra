@@ -1,3 +1,4 @@
+winearch wine arch $text
 coreboot core boot $text
 kucn $abbrev $only
 ide $abbrev $only
