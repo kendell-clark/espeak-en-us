@@ -1,3 +1,4 @@
+sysrq sys rq $text
 dapi $abbrev
 procfs proc fs $text
 winearch wine arch $text
