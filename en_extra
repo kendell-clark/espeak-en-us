@@ -1,3 +1,6 @@
+xcursorgen x cursor gen $text
+cursorgen cursor gen $text
+localectl locale ctl $text   $only
 biosbootspecification bios boot specification $text $onlys
 findmnt find mnt $text
 sysrq sys rq $text
