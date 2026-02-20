@@ -1,3 +1,5 @@
+biosbootspecification bios boot specification $text $onlys
+findmnt find mnt $text
 sysrq sys rq $text
 dapi $abbrev
 procfs proc fs $text
