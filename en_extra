@@ -1,3 +1,4 @@
+archinstall arch install $text
 xcursorgen x cursor gen $text
 cursorgen cursor gen $text
 localectl locale ctl $text   $only
