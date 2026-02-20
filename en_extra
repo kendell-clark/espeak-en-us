@@ -13,7 +13,6 @@ ide $abbrev $only
 ntuser nt user $text
 cec $abbrev $only
 ishtp $abbrev $only
-ish $abbrev $only
 ipc $abbrev $only
 ufshcd $abbrev
 ucsi $abbrev
