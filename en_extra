@@ -1,3 +1,4 @@
+libwww lib www $text
 cryptsetup crypt setup $text
 archinstall arch install $text
 xcursorgen x cursor gen $text
