@@ -1,3 +1,4 @@
+ufshci $abbrev
 usbhost usb host $text
 partmgr part mgr $text
 carolus k@roUl@s
