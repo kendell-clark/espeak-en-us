@@ -1,4 +1,6 @@
-ufs $abbrev
+
+ux $abbrev $only
+ax $abbrev $only
 ahci $abbrev
 ufshci $abbrev
 usbhost usb host $text
