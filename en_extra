@@ -1,3 +1,4 @@
+rhel $abbrev
 libdnf lib dnf $text
 downregulate down regulate $text
 upregulate up regulate $text
