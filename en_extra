@@ -1,3 +1,4 @@
+debugfs debug fs $text
 zwidget z widget $text
 pushbutton push button $text
 rhel $abbrev
