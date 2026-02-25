@@ -1,3 +1,5 @@
+zwidget z widget $text
+pushbutton push button $text
 rhel $abbrev
 libdnf lib dnf $text
 downregulate down regulate $text
