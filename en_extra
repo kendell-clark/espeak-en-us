@@ -1,3 +1,4 @@
+ntoskrnl $abbrev //windows kernel
 noarchive no archive $text
 umdf $abbrev
 bluetoothctl bluetooth ctl $text
