@@ -1,7 +1,7 @@
 endpoint end point $text
-Ragnarök ragnarok $text
-Jörmungandr yormungonder $text
-Jormungandr yormungonder $text
+Ragnarök ragnarok $text //norse end of the world apocalypse
+Jörmungandr yormungonder $text //norse serpent from norse mythology
+Jormungandr yormungonder $text //norse serpent from norse mythology
 ntoskrnl $abbrev //windows kernel
 noarchive no archive $text
 umdf $abbrev
