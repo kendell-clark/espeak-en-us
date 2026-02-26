@@ -1,3 +1,4 @@
+bluetoothctl bluetooth ctl $text
 debugfs debug fs $text
 zwidget z widget $text
 pushbutton push button $text
