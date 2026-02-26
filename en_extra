@@ -14,7 +14,7 @@ guerrilla g3'Il@
 hipaa h'ip@
 ultracheap ,Ultra#tS'i:p
 ux $abbrev $only
-ax $abbrev $only
+ax $abbrev $only //wi fi standard, 802.11ax
 ahci $abbrev
 ufshci $abbrev
 usbhost usb host $text
@@ -26,10 +26,10 @@ mg milligrams $text $only
 oz ounces $text $only
 aromatic e@oUm'at#Ik
 goto goUt2u:
-oobe $abbrev
+oobe $abbrev//out of box experience, windows setup
 bassier b'eIsI;3
-gitea g'It#i:@
-matroska m@'t2r0sk@
+gitea g'It#i:@ //open source git hosting server
+matroska m@'t2r0sk@ //completely open media codec
 telnet t2ElnEt2
 srcinfo src info $text
 disregulation dIsrEgju:l'eIS@n
