@@ -1,3 +1,4 @@
+initramfs init ram fs $text
 fvek $abbrev //bitlocker encryption algorithm
 cha $abbrev $only
 efail e fail $text $only //cryptographic vulnerability
