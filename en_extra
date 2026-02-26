@@ -1,3 +1,4 @@
+noarchive no archive $text
 umdf $abbrev
 bluetoothctl bluetooth ctl $text
 debugfs debug fs $text
