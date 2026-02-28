@@ -1,3 +1,4 @@
+asciidoc ascii doc $text
 winsxs win sxs $text
 initramfs init ram fs $text
 fvek $abbrev //bitlocker encryption algorithm
