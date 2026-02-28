@@ -1,3 +1,4 @@
+adm $abbrev
 latexextra latex extra $text
 texlive tex live $text
 fontsrecommended fonts recommended $text
