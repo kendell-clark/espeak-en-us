@@ -1,3 +1,4 @@
+udevadm udev adm $text
 adm $abbrev
 latexextra latex extra $text
 texlive tex live $text
