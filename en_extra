@@ -1,3 +1,4 @@
+keyid key id $text
 overlayfs overlay fs $text
 kexec  kIksEk
 //boot parameter
