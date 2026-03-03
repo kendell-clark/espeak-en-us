@@ -1,3 +1,4 @@
+overlayfs overlay fs $text
 kexec  kIksEk
 //boot parameter
 nmcli $abbrev
