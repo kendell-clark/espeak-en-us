@@ -1,4 +1,4 @@
-grubx64 grub x64 $text
+pyproject py project $text
 ca $abbrev $only
 kek $abbrev
 edk $abbrev
