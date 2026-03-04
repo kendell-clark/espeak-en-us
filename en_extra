@@ -1,3 +1,5 @@
+edk $abbrev
+ovmf $abbrev
 pithos p'aIToUs
 keyid key id $text
 overlayfs overlay fs $text
