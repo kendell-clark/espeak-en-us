@@ -1,3 +1,5 @@
+ca $abbrev $only
+kek $abbrev
 edk $abbrev
 ovmf $abbrev
 pithos p'aIToUs
