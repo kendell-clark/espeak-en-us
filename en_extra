@@ -1,3 +1,5 @@
+acl $abbrev
+acls eI,si:Elz
 pyproject py project $text
 ca $abbrev $only
 kek $abbrev
