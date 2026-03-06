@@ -1,3 +1,4 @@
+adduser add user $text
 initrd init rd $text
 deauthenticate di:O:T'EntI#k,eIt
 cledus kl'i:t#@s //cledus t judd
