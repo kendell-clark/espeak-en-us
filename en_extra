@@ -1,3 +1,5 @@
+efs $abbrev
+certmgr cert mgr $text
 kendellclark kendell clark $text
 libexec lib exec $text
 adduser add user $text
