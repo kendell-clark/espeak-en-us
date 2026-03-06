@@ -1,3 +1,4 @@
+kendellclark kendell clark $text
 libexec lib exec $text
 adduser add user $text
 initrd init rd $text
