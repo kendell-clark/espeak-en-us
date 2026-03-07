@@ -1,3 +1,4 @@
+repoquery repo query $text
 ldac $abbrev
 efs $abbrev
 certmgr cert mgr $text
