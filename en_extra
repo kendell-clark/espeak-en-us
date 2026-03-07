@@ -1,3 +1,5 @@
+mce $abbrev
+mcelog mce log $text
 mca $abbrev
 cpuinfo cpu info $text
 alsactl alsa ctl $text
