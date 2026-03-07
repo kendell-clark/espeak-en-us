@@ -1,9 +1,9 @@
-ut $abbrev $only
+ut $abbrev $only //university of tyler, among others
 ipp $abbrev //internet printing protocol
 naphtali n'aft@laI
-mce $abbrev
+mce $abbrev //machine check exception
 mcelog mce log $text
-mca $abbrev
+mca $abbrev //machine check algorithm
 cpuinfo cpu info $text
 alsactl alsa ctl $text
 repoquery repo query $text
