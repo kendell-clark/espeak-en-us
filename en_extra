@@ -1,3 +1,4 @@
+alsactl alsa ctl $text
 repoquery repo query $text
 ldac $abbrev
 efs $abbrev
