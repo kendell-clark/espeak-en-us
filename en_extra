@@ -1,3 +1,4 @@
+mca $abbrev
 cpuinfo cpu info $text
 alsactl alsa ctl $text
 repoquery repo query $text
