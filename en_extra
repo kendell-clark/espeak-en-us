@@ -1,3 +1,5 @@
+cdrom cd rom $text
+otb $abbrev //open font format
 gpuinfo gpu info $text
 ut $abbrev $only //university of tyler, among others
 ipp $abbrev //internet printing protocol
