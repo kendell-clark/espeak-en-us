@@ -1,3 +1,4 @@
+libpfm lib pfm $text
 otf $abbrev
 lsmod ls mod $text
 uw $abbrev //ultra wideband
