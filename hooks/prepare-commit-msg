@@ -1,0 +1,36 @@
+#!/bin/bash
+
+# Path to the commit message file
+MSG_FILE="$1"
+
+# Get distro info
+if [ -f /etc/os-release ]; then
+    . /etc/os-release
+    DISTRO="$NAME"
+else
+    DISTRO=$(uname -o)
+fi
+
+# Kernel, architecture, hostname, branch
+KERNEL=$(uname -r)
+ARCH=$(uname -m)
+HOST=$(hostname)
+BRANCH=$(git branch --show-current)
+
+# Compiler info (GCC or Clang)
+if command -v gcc &>/dev/null; then
+    COMPILER=$(gcc --version | head -n1)
+elif command -v clang &>/dev/null; then
+    COMPILER=$(clang --version | head -n1)
+else
+    COMPILER="No compiler detected"
+fi
+
+# Build the system info line
+SYSTEM_LINE="System: $DISTRO | Kernel: $KERNEL | Arch: $ARCH | Host: $HOST | Branch: $BRANCH | Compiler: $COMPILER"
+
+# Only add if not already present
+if ! grep -q "System:" "$MSG_FILE"; then
+    echo "" >> "$MSG_FILE"
+    echo "$SYSTEM_LINE" >> "$MSG_FILE"
+fi
