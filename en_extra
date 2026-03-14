@@ -1,3 +1,5 @@
+setxkbmap set x kb map $text
+xinput x input $text
 raban r'eIb@n //name
 virtsecretd virt secret d $text
 Legilemens lI#dZIl@m@nz
