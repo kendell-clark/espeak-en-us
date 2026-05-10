@@ -1,3 +1,5 @@
+acpixtract 'akpi||'Ekstrakt
+acpidump 'akpi||d'Vmp
 openmp open mp $text
 vojtapolasek v0dZta#p0l@sEk
 nocrs no crs $text
