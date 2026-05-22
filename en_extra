@@ -1,3 +1,4 @@
+smartctl smart ctl $text
 nopl $abbrev
 cmov $abbrev
 winmde win mde $text
