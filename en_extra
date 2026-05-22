@@ -1,3 +1,4 @@
+winmde win mde $text
 edd $abbrev
 vieweci view eci $text
 iasl $abbrev
