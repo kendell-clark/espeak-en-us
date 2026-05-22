@@ -1,3 +1,4 @@
+nopl $abbrev
 cmov $abbrev
 winmde win mde $text
 edd $abbrev
