@@ -114,7 +114,7 @@ acl $abbrev
 acls eIsi:Elz
 pyproject py project $text
 ca $abbrev $only
-kek $abbrev
+kek $abbrev //key exchange key, part of the UEFI standard
 edk $abbrev
 ovmf $abbrev
 pithos p'aIToUs
