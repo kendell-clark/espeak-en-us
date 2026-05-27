@@ -1,3 +1,8 @@
+smartctl smart ctl $text
+nopl $abbrev
+cmov $abbrev
+winmde win mde $text
+edd $abbrev
 vieweci view eci $text
 iasl $abbrev
 vicodan v'aIk@d@n
