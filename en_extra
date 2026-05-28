@@ -1,3 +1,4 @@
+dysregulate disregulate $text
 smartctl smart ctl $text
 nopl $abbrev
 cmov $abbrev
