@@ -1,3 +1,5 @@
+bdemount bde mount $text
+libbde lib bde $text
 bdesvc $abbrev
 libgit lib git $text
 timedatectl time date ctl $text
