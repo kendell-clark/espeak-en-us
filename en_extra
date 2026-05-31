@@ -1,3 +1,4 @@
+bdesvc $abbrev
 libgit lib git $text
 timedatectl time date ctl $text
 haughtling h'aUt2lIN
