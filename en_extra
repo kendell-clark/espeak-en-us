@@ -1,3 +1,4 @@
+scannow scan now $text
 bdemount bde mount $text
 libbde lib bde $text
 bdesvc $abbrev
