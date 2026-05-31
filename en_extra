@@ -83,7 +83,6 @@ Alohomora a#loUh@'mo@r@
 Colloportus k0l@'po@t#@s
 Leviosa lEvi:'oUs@
 Kubernetes  k'u:b3ni:ts
-co-ed koU'Ed
 Towler t'aU@l3
 Donaldson d'0n@Lds@n
 slytherins slitherins $text
@@ -156,7 +155,6 @@ initramfs init ram fs $text
 fvek $abbrev //bitlocker encryption algorithm
 cha $abbrev $only
 efail e fail $text $only //cryptographic vulnerability
-ed $abbrev $only //cryptographic algorithm also erectile disfunction
 ecc $abbrev //cryptographic algorithm
 endpoint end point $text
 Ragnarök ragnarok $text //norse end of the world apocalypse
