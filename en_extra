@@ -1,3 +1,4 @@
+xo $abbrev
 xfsprogs xfs progs $text
 btrfsprogs btrfs progs $text
 ntfsprogs ntfs progs $text
