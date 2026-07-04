@@ -1,3 +1,4 @@
+eciinstance eci instance $text
 apfs $abbrev
 rootfs root fs $text
 ipsw $abbrev
