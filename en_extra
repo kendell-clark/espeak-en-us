@@ -1,3 +1,4 @@
+apfs $abbrev
 rootfs root fs $text
 ipsw $abbrev
 Juárez w'A@Ez
