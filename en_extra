@@ -3890,10 +3890,6 @@ zytram z'aItram //opioid painkiller
 // Converted from IBM/Eloquence SPR-style dictionary. Review before installing.
 // Default format: word<TAB>eSpeak phonemes, suitable for en_extra-style files.
 // Tuning: Eloquence cr => eSpeak o@ for final/internal 'or' sound.
-postfix	'poUst,fIks
-postfixes	'poUst,fIks@z
-postfixed	'poUst,fIkst
-postfixing	'poUst,fIksIN
 heteroousian	,hEt@roU'u:Z@n
 ecorche	,eI,ko@'SeI
 seaborgium	,si:'bo@gi:@m
@@ -3904,8 +3900,6 @@ flexuosity	,flEkSu:'A:s@ti:
 latices	'leIt@si:z
 bifida	'bIf@t@
 insectivore	In'sEkt@,vo@
-microwatt	'maIkroU,wA:t
-microwatts	'maIkroU,wA:ts
 symposiac	s@m'poUzi:,ak
 cryptorchidism	,krIp'to@k@,dIz@m
 laristan	,lar@'stan
@@ -3932,7 +3926,7 @@ osteomata	,A:sti:'oUm@t@
 absentia	,ab'sEnS@
 cogeneration	,koU,dZEn@'reIS@n
 bullace	'bUl@s
-bacteriophage	,bak'ti:ri:@,feIdZ
+bacteriophage	,bak'ti@3i:@,feIdZ
 escapologist	E,skeI'pA:l@dZ@st
 dishabille	,dIs@'bi:l
 feijoada	,feIZ@'wA:t@
