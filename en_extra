@@ -1,3 +1,4 @@
+atspi at spi $text
 libevent lib event $text
 libmathcat lib mathcat $text
 eciinstance eci instance $text
