@@ -1,3 +1,4 @@
+msix $abbrev
 atspi at spi $text
 libevent lib event $text
 libmathcat lib mathcat $text
