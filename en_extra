@@ -1,3 +1,4 @@
+yml $abbrev
 libswscale lib sw scale $text
 msix $abbrev
 atspi at spi $text
