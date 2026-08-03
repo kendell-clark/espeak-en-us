@@ -1,3 +1,4 @@
+phonemelist phoneme list $text
 yml $abbrev
 libswscale lib sw scale $text
 msix $abbrev
