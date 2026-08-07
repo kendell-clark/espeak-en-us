@@ -1,3 +1,5 @@
+amdnpu $abbrev
+amdtee $abbrev
 phonemelist phoneme list $text
 yml $abbrev
 libswscale lib sw scale $text
