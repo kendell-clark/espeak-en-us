@@ -128,6 +128,25 @@ def convert_phone_string(src: str) -> tuple[str, list[str]]:
     return "".join(out), unknown
 
 
+def normalize_espeak_english(phones: str) -> str:
+    """Apply English-specific eSpeak fixes that cannot be expressed as 1:1 phone maps.
+
+    eSpeak distinguishes a velar/dark final L from plain l, and its plain r is
+    the form used before a following vowel.  These context-dependent fixes keep
+    word-final ``@l`` and ``r`` from being rendered too weakly or disappearing.
+    """
+    # English word-final schwa + l, e.g. imprescribable: @l -> @L
+    if phones.endswith("@l"):
+        phones = phones[:-1] + "L"
+
+    # eSpeak's explicit non-prevocalic/final r variant, e.g. searchbar.
+    # Do not touch an r that has already been made explicit as r/.
+    if phones.endswith("r"):
+        phones += "/"
+
+    return phones
+
+
 def parse_entries(lines: Iterable[str]) -> Iterable[ConvertedEntry]:
     for line_no, raw in enumerate(lines, 1):
         line = raw.rstrip("\n\r")
@@ -140,6 +159,7 @@ def parse_entries(lines: Iterable[str]) -> Iterable[ConvertedEntry]:
         word = m.group("word")
         src = m.group("phones")
         converted, unknown = convert_phone_string(src)
+        converted = normalize_espeak_english(converted)
         yield ConvertedEntry(word, src, converted, unknown, line_no, line)
 
 
