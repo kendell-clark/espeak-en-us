@@ -1,3 +1,4 @@
+iommu $abbrev
 amdnpu $abbrev
 amdtee $abbrev
 phonemelist phoneme list $text
