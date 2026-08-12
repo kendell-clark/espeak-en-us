@@ -1,3 +1,4 @@
+uup $abbrev
 iommu $abbrev
 amdnpu $abbrev
 amdtee $abbrev
