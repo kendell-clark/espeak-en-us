@@ -63,6 +63,7 @@ PHONE_MAP: dict[str, str] = {
 # Multi-symbol sequences. Kept separate so users can override special cases.
 MULTI_PHONE_MAP: dict[str, str] = {
     "?N": "t@n",    # greaten-like reduced /tən/; review if it appears in technical terms
+    "er": "Er",      # Eloquence e+r is DRESS-like before r, not FACE + r (verrucose)
 }
 
 STRESS_MAP = {
@@ -128,19 +129,26 @@ def convert_phone_string(src: str) -> tuple[str, list[str]]:
     return "".join(out), unknown
 
 
-def normalize_espeak_english(phones: str) -> str:
+def normalize_espeak_english(word: str, phones: str) -> str:
     """Apply English-specific eSpeak fixes that cannot be expressed as 1:1 phone maps.
 
-    eSpeak distinguishes a velar/dark final L from plain l, and its plain r is
-    the form used before a following vowel.  These context-dependent fixes keep
-    word-final ``@l`` and ``r`` from being rendered too weakly or disappearing.
+    These rules handle contexts where Eloquence relies on spelling/phonetic
+    context that is lost by a simple symbol-for-symbol conversion.
     """
-    # English word-final schwa + l, e.g. imprescribable: @l -> @L
-    if phones.endswith("@l"):
-        phones = phones[:-1] + "L"
+    # Eloquence often uses unstressed X in an initial in-/inter- syllable.
+    # A raw X -> @ mapping makes words such as interstice sound like
+    # "uhn-terstice".  Preserve the short-I quality when the spelling starts
+    # with "in" and the converted pronunciation begins @n.
+    if word.lower().startswith("in") and phones.startswith("@n"):
+        phones = "In" + phones[2:]
 
-    # eSpeak's explicit non-prevocalic/final r variant, e.g. searchbar.
-    # Do not touch an r that has already been made explicit as r/.
+    # eSpeak uses uppercase L for the dark/final L wanted in schwa+L endings.
+    # Handle both bare endings (@l) and common inflected endings such as
+    # tables/iptables (@lz), table's (@lz), and tabled (@ld).
+    phones = re.sub(r"@l(?=$|[zsd]$)", "@L", phones)
+
+    # eSpeak's explicit non-prevocalic/final r variant, e.g. searchbar and
+    # magnetosphere. Do not touch an r that is followed by another phone.
     if phones.endswith("r"):
         phones += "/"
 
@@ -159,7 +167,7 @@ def parse_entries(lines: Iterable[str]) -> Iterable[ConvertedEntry]:
         word = m.group("word")
         src = m.group("phones")
         converted, unknown = convert_phone_string(src)
-        converted = normalize_espeak_english(converted)
+        converted = normalize_espeak_english(word, converted)
         yield ConvertedEntry(word, src, converted, unknown, line_no, line)
 
 
