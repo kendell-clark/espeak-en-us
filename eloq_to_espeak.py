@@ -142,6 +142,11 @@ def normalize_espeak_english(word: str, phones: str) -> str:
     if word.lower().startswith("in") and phones.startswith("@n"):
         phones = "In" + phones[2:]
 
+    # Eloquence c+r represents the FORCE/NORTH-style "or" sequence in words
+    # such as vortoscope. A literal c -> O: followed by r produces O:r, which
+    # is not the eSpeak pronunciation wanted here; use o@ instead.
+    phones = phones.replace("O:r", "o@")
+
     # eSpeak uses uppercase L for the dark/final L wanted in schwa+L endings.
     # Handle both bare endings (@l) and common inflected endings such as
     # tables/iptables (@lz), table's (@lz), and tabled (@ld).
