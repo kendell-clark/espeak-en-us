@@ -155,10 +155,16 @@ def normalize_espeak_english(word: str, phones: str) -> str:
     if word.lower().startswith("cere"):
         phones = phones.replace("seIr@", "sEr@", 1)
 
+    # Eragon needs DRESS E rather than FACE eI at the start.
+    if word.lower() == "eragon" and phones.startswith("eIr@"):
+        phones = "Er@" + phones[4:]
+
     # eSpeak uses uppercase L for the dark/final L wanted in schwa+L endings.
     # Handle both bare endings (@l) and common inflected endings such as
     # tables/iptables (@lz), table's (@lz), and tabled (@ld).
-    phones = re.sub(r"@l(?=$|[zsd]$)", "@L", phones)
+    # Use dark L after schwa before the end of a syllable/word, including
+    # before consonants as in doubleganger.
+    phones = re.sub(r"@l(?=$|[^aeiouAEIOU@3:])", "@L", phones)
 
     # A final A:r sequence, as in toolbar, is pronounced correctly by
     # eSpeak as A@ rather than A:r/.  Other final r sequences retain the
