@@ -152,9 +152,12 @@ def normalize_espeak_english(word: str, phones: str) -> str:
     # tables/iptables (@lz), table's (@lz), and tabled (@ld).
     phones = re.sub(r"@l(?=$|[zsd]$)", "@L", phones)
 
-    # eSpeak's explicit non-prevocalic/final r variant, e.g. searchbar and
-    # magnetosphere. Do not touch an r that is followed by another phone.
-    if phones.endswith("r"):
+    # A final A:r sequence, as in toolbar, is pronounced correctly by
+    # eSpeak as A@ rather than A:r/.  Other final r sequences retain the
+    # explicit final-r marker used by fixes such as magnetosphere.
+    if phones.endswith("A:r"):
+        phones = phones[:-3] + "A@"
+    elif phones.endswith("r"):
         phones += "/"
 
     return phones
