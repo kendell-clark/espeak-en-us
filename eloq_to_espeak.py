@@ -147,6 +147,14 @@ def normalize_espeak_english(word: str, phones: str) -> str:
     # is not the eSpeak pronunciation wanted here; use o@ instead.
     phones = phones.replace("O:r", "o@")
 
+    # "ar" needs the centering-vowel form in eSpeak, including inside words
+    # such as Carlyle, not just at the end of words such as toolbar.
+    phones = phones.replace("A:r", "A@")
+
+    # cere-/cerebro- words such as cerebrospinal need DRESS E, not FACE eI.
+    if word.lower().startswith("cere"):
+        phones = phones.replace("seIr@", "sEr@", 1)
+
     # eSpeak uses uppercase L for the dark/final L wanted in schwa+L endings.
     # Handle both bare endings (@l) and common inflected endings such as
     # tables/iptables (@lz), table's (@lz), and tabled (@ld).
@@ -155,9 +163,7 @@ def normalize_espeak_english(word: str, phones: str) -> str:
     # A final A:r sequence, as in toolbar, is pronounced correctly by
     # eSpeak as A@ rather than A:r/.  Other final r sequences retain the
     # explicit final-r marker used by fixes such as magnetosphere.
-    if phones.endswith("A:r"):
-        phones = phones[:-3] + "A@"
-    elif phones.endswith("r"):
+    if phones.endswith("r"):
         phones += "/"
 
     return phones
