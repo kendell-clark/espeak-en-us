@@ -1,3 +1,4 @@
+winpe win p e $text
 winre win r e $text
 resumeobject resume object $text
 fwbootmgr fw boot mgr $text
