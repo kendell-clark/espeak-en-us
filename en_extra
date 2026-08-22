@@ -1,3 +1,4 @@
+bootems boot e m s $text
 displaymessageoverride display message override $text
 recoverysequence recovery sequence $text
 winpe win p e $text
