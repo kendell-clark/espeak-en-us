@@ -1,3 +1,4 @@
+esrt $abbrev
 reiserfs riser fs $text
 semodule s e module $text
 libsmbclient lib smb client $text
