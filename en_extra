@@ -1,3 +1,4 @@
+semodule s e module $text
 libsmbclient lib smb client $text
 libwbclient lib wb client $text
 libldb lib ldb $text
