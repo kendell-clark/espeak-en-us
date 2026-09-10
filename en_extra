@@ -1,3 +1,4 @@
+plymouthd plymouth d $text
 pyxdg py xdg $text
 ccid $abbrev
 opensc open sc $text
