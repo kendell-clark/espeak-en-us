@@ -1,3 +1,4 @@
+pyxdg py xdg $text
 ccid $abbrev
 opensc open sc $text
 imma 'Im@
