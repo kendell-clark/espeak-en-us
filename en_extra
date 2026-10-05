@@ -1,3 +1,4 @@
+fwupdtool fwupd tool $text
 liblouisxml liblouis xml $text
 mortalis mo@'t2alIs
 liveusb live usb $text
