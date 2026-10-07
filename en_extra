@@ -1,3 +1,4 @@
+edid $abbrev
 bioscfg bios cfg $text
 repodata repo data $text
 fwupdtool fwupd tool $text
