@@ -1,3 +1,4 @@
+onn $abbrev $only
 edid $abbrev
 bioscfg bios cfg $text
 repodata repo data $text
