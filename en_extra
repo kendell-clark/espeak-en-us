@@ -3956,7 +3956,6 @@ zytram z'aItram
 // Converted from IBM/Eloquence SPR-style dictionary. Review before installing.
 // Format: word<TAB>[[eSpeak phonemes]]
 postfix	'poUst,fIks
-postfix	'poUst,fIks
 postfixes	'poUst,fIks@z
 postfixed	'poUst,fIkst
 postfixing	'poUst,fIksIN
@@ -4303,7 +4302,7 @@ bourguignon	,b3:gIni:'oUn
 echoencephalography	,EkoU@n,sEf@'lA:gr@fi:
 audiocast	'O:ti:oU,kast
 immunoreaction	@m,ju:n@ri:'akS@n
-lopolith	'lA:p@,lIT
+lopolith	'lA:p@l@T
 oncogenicity	,A:Nk@dZ@'nIs@ti:
 hydrocarbonaceous	,haIdr@,kA@b@'neIS@s
 eudemon	,ju:'di:m@n
@@ -4395,7 +4394,7 @@ newfangled	,nu:'faNg@Ld
 suggestibility	s@,dZEst@'bIl@ti:
 inhume	In'hju:m
 preceptorial	,pri:sEp'to@i:@L
-curare	kju:'rA@i:
+curare	,kju:'rA@i:
 carme	'kA@mi:
 zoophilism	zoU'A:f@,lIz@m
 zithern	'zIT3:n
@@ -4558,7 +4557,7 @@ transcaucasia	,transh,kO:'keIZ@
 gastronomer	,ga'strA:n@m3:
 gesticulative	,dZE'stIkj@l@t@v
 backboned	'bak,boUnd
-frontes	'frA:nti:z
+frontes	'frA:n,ti:z
 decemviri	d@'sEmv@,raI
 voldemort	'voUld@,mo@t
 pneumothorax	,nu:m@'ToU,raks
@@ -5648,7 +5647,6 @@ denotatively	d@'noUt@t@vli:
 ozonospheric	,oUzoUn@s'fEr@k
 pleomorphism	,pli:@'mo@,fIz@m
 omniscience	,A:m'nIS@ns
-intersections	,Int3:'sEkS@nz
 rijstafel	'raIs,tA:f@L
 viva	'vi:v@
 tetragon	'tEtr@,gA:n
@@ -5803,7 +5801,7 @@ dipody	'dIp@ti:
 refugia	r@'fju:dZi:@
 kiwiness	'ki:wi:n@s
 ethnarchy	'ET,nA@ki:
-macrocytotic	,makr@saI'tA:t@k
+macrocytotic	,makr@,saI'tA:t@k
 ileostomy	,Ili:'A:st@mi:
 wisent	'vi:z@nt
 tetradic	,tE'trat@k
@@ -6189,7 +6187,7 @@ primatology	,praIm@'tA:l@dZi:
 induplicate	In'du:pl@k@t
 bayesian	'beIzi:@n
 voce	'voUtSi:
-seismography	saIz'mA:gr@fi:
+seismography	,saIz'mA:gr@fi:
 silvicultural	,sIlv@'kVltS3:@L
 paleobiochemic	,peIli:oU,baIoU'kEm@k
 rotiferal	,roU'tIf@r@L
@@ -6950,7 +6948,7 @@ copay	'koU,peI
 stapedectomy	,steIp@'dEkt@mi:
 outtake	'aUt,teIk
 interned	'In,t3:nd
-pontes	'pA:nti:z
+pontes	'pA:n,ti:z
 minivers	'mIn@v3:z
 telemarking	'tEl@,mA@kIN
 josé	,hoU'zeI
@@ -7067,14 +7065,14 @@ biobased	'baIoU,beIst
 metaphrases	'mEt@,freIz@z
 primogenitary	,praIm@'dZEn@,tEri:
 coryphaeus	,ko@@'fi:@s
-saxicoline	sak'sIk@l@n
+saxicoline	,sak'sIk@,laIn
 quadcopter	'kwA:d,kA:pt3:
 goosebumps	'gu:s,bVmps
 oligochaete	'A:l@goU,ki:t
 sheni	,SeI'ni:
 inspissate	In'spI,seIt
-ovarial	,oU'vEri:@L
-ovarian	,oU'vEri:@n
+ovarial	oU'vEri:@L
+ovarian	oU'vEri:@n
 relucent	r@'lu:s@nt
 anthraces	'anTr@si:z
 homoiotherms	'hoUmOI@,T3:mz
@@ -7227,7 +7225,7 @@ omegle	,oU'meIg@L
 anesthesiology	,an@s,Ti:,zi:'A:l@dZi:
 trichoses	tr@'koUsi:z
 bedpost	'bEd,poUst
-helioseismology	,hi:li:oUsaIz'mA:l@dZi:
+helioseismology	,hi:li:oU,saIz'mA:l@dZi:
 crystallographic	,krIst@l@'graf@k
 surtitle	's3:,taIt@L
 recidivistic	r@,sIt@'vIst@k
@@ -7297,7 +7295,7 @@ triumviral	,traI'Vmv@r@L
 amalia	@'mA:li:@
 cornify	'ko@n@,faI
 bibelot	'bIb@,loU
-piastre	,pi:'ast3:
+piastre	pi:'ast3:
 imaret	@'mA@@t
 uzbek	'u:z,bEk
 anionic	,anaI'A:n@k
@@ -7822,7 +7820,7 @@ garam	g@'rA:m
 frangipani	,frandZ@'pani:
 sounddevices	'saUndd@,vaIs@z
 underthings	'Vnd3:,TINz
-abducentes	@b,du:'sEnti:z
+abducentes	@b,du:'sEn,ti:z
 retinoscope	'rEt@nn@,skoUp
 physiographers	,fIzi:'A:gr@f3:z
 sybarite	'sIb@,raIt
@@ -7831,7 +7829,7 @@ shalebark	'SeIl,bA@k
 heartwarm	'hA@t,woUrm
 triforia	,traI'fo@i:@
 thrombopoietic	,TrA:mb@,pOI'Et@k
-soliloquist	s@'lIl@kw@st
+soliloquist	s@'lIl@,kwIst
 retinoscopy	,rEt@n'nA:sk@pi:
 withal	,wIT'O:l
 pasticcio	,pa'sti:tSoU
@@ -8561,6 +8559,7 @@ perinatologist	,peIr@,neI'tA:l@dZ@st
 tightfisted	,taIt'fIst@d
 husain	,hu:'seIn
 pantalet	,pant@'lEt
+associative	@'soUSi:@t@v
 faraday	'far@,deI
 advect	@d'vEkt
 perichondrial	,pEr@'kA:ndri:@L
@@ -9040,11 +9039,10 @@ ecotone	'i:k@,toUn
 galactose	g@'lak,toUs
 hocism	'hA:,kIz@m
 ethician	,E'TIS@n
-adiabatically	,adi:@'bat@kli:
 saprobe	'sa,proUb
 heterocyst	'hEt@r@s@st
 nociceptive	,noUs@'sEpt@v
-mantes	'manti:z
+mantes	'man,ti:z
 euphrosyne	j@'frA:s@ni:
 understory	'Vnd3:,sto@i:
 awespren	'O:,sprEn
@@ -9659,7 +9657,7 @@ sarode	s@'roUd
 metaplasms	'mEt@,plaz@mz
 ombrophobe	'A:mbr@,foUb
 otorhinolaryngologist	,oUtoU,raInoU,lEr@N'gA:l@dZ@st
-totipalmation	,toUt@pal'meIS@n
+totipalmation	,toUt@,pal'meIS@n
 remedially	r@'mi:ti:@li:
 randan	'ran,dan
 epicalyx	,Ep@'keIl@ks
@@ -9678,7 +9676,7 @@ silas	'saIl@s
 goethean	'g3:ti:@n
 bobolink	'bA:b@l@Nk
 coronae	k@'roUni:
-violone	,vi:@'loUneI
+violone	,vi:@'loU,neI
 necrose	n@k'roUs
 syslog	'sIs,lO:g
 inishbofin	,InIS'bO:f@n
@@ -9899,7 +9897,7 @@ conclave	'kA:N,kleIv
 protozoans	,proUt@'zoU@nz
 anaphrodisia	@,nafr@'dIzi:@
 perdurable	p3:'du:r@b@L
-seicento	seI'tSEntoU
+seicento	,seI'tSEntoU
 shevat	S@'vA:t
 stearine	'sti:@r@n
 trichromacy	,traI'kroUm@si:
@@ -9946,7 +9944,7 @@ ambidextrously	,amb@'dEkstr@sli:
 oligodendroglia	,A:l@goU,dEn'drA:gli:@
 girritkr	g@'rItk3:
 binaurally	,baI'no@@li:
-ctriglyph	'traI,glIf
+triglyph	'traI,glIf
 nodulose	'nA:dZ@loUs
 libo	'li:boU
 decalcify	,di:'kals@,faI
@@ -10345,7 +10343,7 @@ perineum	,peIr@'ni:@m
 yeatsian	'jeItsi:@n
 signiory	'si:nj@ri:
 largess	,lA@'dZEs
-golconda	gA:l'kA:nd@
+golconda	,gA:l'kA:nd@
 naturopathic	,neItS@r@'paT@k
 lousewort	'laUs,w3:t
 bilabiate	,baI'leIbi:@t
@@ -10446,7 +10444,7 @@ quesadilla	,keIs@'di:@
 micromoles	'maIkr@,moUlz
 ozonosphere	,oU'zoUn@s,fi:r/
 tarmacadam	,tA@m@'kat@m
-dourine	,du:'ri:n
+dourine	'du:,ri:n
 uropygium	,ju:r@'paIdZi:@m
 halobacteria	,haloU,bak'ti:ri:@
 danaë	'dan@i:
@@ -10470,7 +10468,6 @@ eustachian	ju:'steIS@n
 siree	,s3:'i:
 prelatic	pr@'lat@k
 heptarchy	'hEp,tA@ki:
-mollifiable	'mA:l@,faI@b@L
 decouple	,di:'kVp@L
 pronaoi	,proU'neI,OI
 metabolize	m@'tab@,laIz
@@ -10697,7 +10694,7 @@ hartlepool	'hA@tli:,pu:l
 glycoside	'glaIk@,saId
 anisotropic	,a,naIs@'trA:p@k
 florissant	'flo@@s@nt
-seigneurial	seI'nj3:i:@L
+seigneurial	,seI'nj3:i:@L
 autoscopies	,O:'tA:sk@pi:z
 psychobabblers	'saIkoU,babl3:z
 retrorse	'ri:,troUrs
@@ -10847,7 +10844,6 @@ hairsbreadth	'hErz,brEdT
 megalodon	'mEg@l@,dA:n
 phosphoprotein	,fA:sfoU'proU,ti:n
 boogieman	'bUgi:,man
-perithecium	,pEr@'Ti:Si:@m
 defilingly	d@'faIlINli:
 seronegative	,si:roU'nEg@t@v
 dispraise	,dIs'preIz
@@ -11812,7 +11808,7 @@ coccobacilli	kA:,koUb@'sI,laI
 megalomaniac	,mEg@l@'meIni:,ak
 walkyrie	,vA:l'ki:ri:
 aiúa	,aI'u:@
-bouleversement	,bu:l@v3:s@'mA:n
+bouleversement	,bu:l@v3:s@'mO:
 sarabande	'sEr@,band
 mockup	'mA:kVp
 tonguester	'tVNst3:
@@ -12240,6 +12236,7 @@ biota	,baI'oUt@
 micronesian	,maIkr@'ni:Z@n
 deboned	,di:'boUnd
 mesencephalic	,mEz@ns@'fal@k
+associativity	@,soUSi:@'tIv@ti:
 actinomycotic	,akt@,noUmaI'kA:t@k
 devest	d@'vEst
 northman	'no@Tm@n
@@ -12612,7 +12609,7 @@ moue	'mu:
 komplete	k@m'pli:t
 zooidal	zoU'OIt@L
 jainist	'dZaIn@st
-belafonte	,bEl@'fA:nteI
+belafonte	,bEl@'fA:n,teI
 regental	'ri:dZ@nt@L
 anodally	@'noUt@li:
 characterologic	,kEr@kt@r@'lA:dZ@k
@@ -12623,7 +12620,6 @@ interphase	'Int3:,feIz
 signifiable	'sIgn@,faI@b@L
 jainism	'dZaI,nIz@m
 chiasmatypy	,kaI'azm@,taIpi:
-intersection	,Int3:'sEkS@n
 superorder	'su:p3:,o@t3:
 maccabeus	,mak@'bi:@s
 autobuses	'O:toU,bVs@z
@@ -12704,7 +12700,7 @@ chalybeate	k@'lI,bi:@t
 whanau	'fA:noU
 buttinskis	,bV'tInski:z
 bifacial	,baI'feIS@L
-campagna	,kam'pA:nj@
+campagna	,kA:m'pA:nj@
 achernar	'eIk3:,nA@
 yukagir	'ju:k@g3:
 ballistocardiogram	b@,lIst@'kA@ti:@,gram
@@ -13103,7 +13099,7 @@ alyx	'al@ks
 pastina	,pA:'sti:n@
 picotee	,pIk@'ti:
 polarography	,poUl@'rA:gr@fi:
-roble	'roUbleI
+roble	'roUb,leI
 sheroot	S@'ru:t
 rhombi	'rA:m,baI
 cotoneaster	k@'toUni:,ast3:
@@ -13155,7 +13151,7 @@ coprology	,kA:'prA:l@dZi:
 edenhofer	'i:d@n,hO:f3:
 copypasta	'kA:pi:,pA:st@
 dihydroxyphenylalanine	,daIhaI,drA:ksi:,fEn@'lal@,ni:n
-interminability	,Int3:,mIn@'bIl@ti:
+interminability	In,t3:m@n@'bIl@ti:
 pinter	'pInt3:
 gelate	'dZE,leIt
 haruspex	h@'rV,spEks
@@ -13384,7 +13380,7 @@ hypostomes	'haIp@,stoUmz
 archaeozoic	,A@,ki:@'zoU@k
 cartogram	'kA@t@,gram
 zarathustra	,zA@@'Tu:str@
-seismographer	saIz'mA:gr@f3:
+seismographer	,saIz'mA:gr@f3:
 gnatcatcher	'nat,katS3:
 drachm	'dram
 multisport	'mVlti:,spo@t
@@ -13413,7 +13409,7 @@ acerose	'as@roUs
 subfields	'sVb,fi:ldz
 hygeia	,haI'dZi:@
 lethean	'li:Ti:@n
-ganglioside	'gaNli:@,saId
+ganglioside	'gaNgli:@,saId
 fubar	'fu:,bA@
 underwool	'Vnd3:,wUl
 changeup	'tSeIndZVp
@@ -13643,7 +13639,7 @@ geocaching	'dZi:oU,kaSIN
 gleichschaltung	'glaIk,SO:ltoUN
 emblematize	,Em'blEm@,taIz
 thiocyanic	,TaIoUsaI'an@k
-topographer	t@p'A:gr@f3:
+topographer	t@'pA:gr@f3:
 enamine	'En@,mi:n
 chiropter	,kaI'rA:pt3:
 mozambique	,moUz@m'bi:k
@@ -13853,7 +13849,7 @@ ganges	'gandZi:z
 endoenzyme	,EndoU'En,zaIm
 aten	'A:t@n
 cryptographer	,krIp'tA:gr@f3:
-asus	'eIsu:s
+asus	'eIs@s
 souslik	'sVsl@k
 cholangiographic	k@,landZi:@'graf@k
 devolatilization	,di:,vA:l@t@l@'zeIS@n
@@ -13893,7 +13889,7 @@ pettislip	'pEti:slIp
 halon	'heIl,A:n
 acaudal	,eI'kO:t@L
 catafalque	'kat@,falk
-orontes	@'rA:nti:z
+orontes	@'rA:n,ti:z
 sandglass	'sand,glas
 monostich	'mA:n@,stIk
 congius	'kA:nZi:@s
@@ -14121,7 +14117,7 @@ electrograph	@'lEktr@,graf
 entrée	'A:nt,reI
 socinus	,soU'saIn@s
 horseshoed	'ho@s,Su:d
-botrytis	,boU'traIt@s
+botrytis	b@'traIt@s
 bached	'batSt
 marquise	,mA@'ki:z
 macrofossils	'makroU,fA:s@Lz
@@ -14553,7 +14549,7 @@ nomadism	'noU,ma,dIz@m
 homeobox	'hoUmi:@,bA:ks
 linguine	l@N'gwi:ni:
 gallaudet	,gal@'dEt
-phagocytotic	,fag@s@'tA:t@k
+phagocytotic	,fag@,saI'tA:t@k
 suppositive	s@'pA:z@t@v
 stonechat	'stoUn,tSat
 chrysotile	'krIs@,taIl
@@ -14649,7 +14645,7 @@ petechia	p@'ti:ki:@
 zwitterion	'tsvIt@r,aI@n
 roentgen	'rEntg@n
 chernozem	'tSErn@,zEm
-ganglionated	'gaNli:@,neIt@d
+ganglionated	'gaNgli:@,neIt@d
 vouchsafe	,vaUtS'seIf
 première	pr@'mi:r/
 rumania	,rU'meIni:@
@@ -14678,8 +14674,8 @@ hyperdrive	'haIp3:,draIv
 hemodynamic	,hi:moU,daI'nam@k
 professoriate	,prA:f@'so@i:@t
 digraph	'daI,graf
-arrhythmically	@'rIDm@kli:
 alexandrian	,al@g'zandri:@n
+arrhythmic	@'rIDm@k
 counterpuncher	'kaUnt3:,pVntS3:
 entoil	@n'tOIl
 rehabilitative	,ri:@'bIl@t@t@v
@@ -15028,6 +15024,7 @@ aubade	oU'bA:d
 headforemost	,hEd'foUr,moUst
 amorist	'am@r@st
 mammogram	'mam@,gram
+encrypt	@N'krIpt
 protrudent	pr@'tru:t@nt
 dell'arte	,dEl'A@ti:
 bibliopolist	,bIbli:'A:p@l@st
@@ -15204,7 +15201,7 @@ esperantist	,Esp@'rA:nt@st
 monumentality	,mA:nj@mEn'tal@ti:
 perseid	'p3:,si:@d
 contractarian	,kA:n,trak'tEri:@n
-lymphocytotic	,lImf@saI'tA:t@k
+lymphocytotic	,lImf@,saI'tA:t@k
 homodont	'hoUm@,dA:nt
 geometrician	dZi:,oUm@'trIS@n
 desaparecido	,dEs@,pA@@'si:toU
@@ -15920,7 +15917,7 @@ minicomputer	'mIni:k@m,pju:t3:
 heterosis	,hEt@'roUs@s
 crematoria	,kri:m@'to@i:@
 galilaean	,gal@'li:@n
-tachyarrhythmia	,takj@'rITmi:@
+tachyarrhythmia	,takj@'rIDmi:@
 cerumen	s@'ru:m@n
 erotism	'eIr@,tIz@m
 rhizobia	,raI'zoUbi:@
@@ -16157,7 +16154,7 @@ yowza	'jaUz@
 dovekie	'dVvki:
 underboss	'Vnd3:,bO:s
 biconvex	,baI,kA:n'vEks
-cornichon	'ko@n@SA:n
+cornichon	,ko@ni:'SoUn
 felicific	,fi:l@'sIf@k
 mirliton	'm3:l@,tA:n
 suberous	'su:b@r@s
@@ -16386,6 +16383,7 @@ amphidiploid	,amf@'dI,plOId
 webcam	'wEb,kam
 poteen	p@'ti:n
 eicosapentaenoic	,aIkoUs@,pEnt@i:'noU@k
+dos	'du:z
 glycosaminoglycan	,glaIkoUs@mi:noU'glaI,kan
 protrusility	pr@,tru:'sIl@ti:
 paleoclimatologist	,peIli:oU,klaIm@'tA:l@dZ@st
@@ -17471,7 +17469,7 @@ geometrize	dZi:'A:m@,traIz
 deselect	,di:s@'lEkt
 squamosal	skw@'moUs@L
 erotomaniacally	@,rA:t@m@'naI@k@li:
-pipo	'pi:poU
+pipo	'pi:,poU
 stopple	'stA:p@L
 infeasibility	In,fi:z@'bIl@ti:
 sacrococcygeal	,seIkroU,kA:k'sIdZi:@L
@@ -17673,6 +17671,7 @@ betweenwhiles	b@'twi:n,waIlz
 clearheadedly	,kli:r'hEt@dli:
 viscountcy	'vaI,kaUntsi:
 coversine	,koU'v3:,saIn
+pokemon	'poUk@,mA:n
 plié	pli:'eI
 idahoan	,aIt@'hoU@n
 elysium	@'lIZi:@m
@@ -17859,10 +17858,10 @@ logocentrism	,loUg@'sEn,trIz@m
 politically	p@'lIt@kli:
 magneto	,mag'ni:toU
 dominatrix	,dA:m@'neI,trIks
-gilles	'Zi:l
+gilles	'dZIlz
 micromeres	'maIkroU,mi:rz
 monosomes	'mA:n@,soUmz
-ladysfinger	'leIti:,zfINg3:
+ladysfinger	'leIti:z,fINg3:
 angiogenic	,andZi:oU'dZEn@k
 saroyan	s@'rOI@n
 gonadotropic	,goU,nat@'trA:p@k
@@ -18411,7 +18410,7 @@ winnebago	,wIn@'beIgoU
 zedonk	'zi:,dA:Nk
 corroboratory	k@'rA:b@r@,to@i:
 natriuretic	,neI,tri:@'rEt@k
-latte	'lA:teI
+latte	'lA:,teI
 causerie	,koUz@'ri:
 twopence	'tVp@ns
 protozoology	,proUt@zoU'A:l@dZi:
@@ -18888,7 +18887,7 @@ starets	'stA@@ts
 vividest	'vIv@t@st
 biostromes	'baIoU,stroUmz
 heptahedral	,hEpt@'hi:dr@L
-gentes	'dZEnti:z
+gentes	'dZEn,ti:z
 geodes	'dZi:,oUdz
 nuclein	'nu:kli:@n
 instagrammable	'Inst@,gram@b@L
@@ -19779,7 +19778,7 @@ spenserian	spEn'si:ri:@n
 stratiform	'strat@,fo@m
 lapeer	l@'pi:r/
 propiophenone	,proU,pi:oU'fi:,noUn
-ovariectomy	,oUvEri:'Ekt@mi:
+ovariectomy	oU,vEri:'Ekt@mi:
 dentalium	,dEn'teIli:@m
 totemism	'toUt@,mIz@m
 pheneticist	f@'nEt@s@st
@@ -19822,7 +19821,7 @@ bituminization	b@,tu:m@n@'zeIS@n
 propofol	'proUp@,fO:l
 adenohypophysial	,at@noU,haIp@'fIzi:@L
 stibine	'stIbi:n
-topologist	t@p'A:l@dZ@st
+topologist	t@'pA:l@dZ@st
 auberge	oU'bErZ
 fianchetti	,fi:@n'tSEti:
 underplots	'Vnd3:,plA:ts
@@ -19887,7 +19886,7 @@ seasonality	,si:z@'nal@ti:
 stoneroller	'stoUn,roUl3:
 monopodes	'mA:n@,poUdz
 bandolier	,band@'li:r/
-pulque	'pUlkeI
+pulque	'pUl,keI
 nguni	,UN'gu:ni:
 developpe	d@,vEl@'peI
 ergotamine	3:'gA:t@,mi:n
@@ -20152,7 +20151,6 @@ fasciculate	f@'sIkj@l@t
 franca	'fraNk@
 autosite	'O:toU,saIt
 wikisource	'wIki:,so@s
-exhumation	,EkshjU'meIS@n
 renitency	'rEn@t@nsi:
 sjögren	'SoUgr@n
 creativity	,kri:eI'tIv@ti:
@@ -20537,7 +20535,7 @@ quay	'ki:
 screenplay	'skri:n,pleI
 rethondes	r@'tA:nd
 hydroxychloroquine	,haI,drA:ksi:'klo@@,kwIn
-tenentes	t@'nEnti:z
+tenentes	t@'nEn,ti:z
 trowelled	'traU@Ld
 goldthread	'goUldT,rEd
 planispheric	,pleIn@s'fEr@k
@@ -21407,7 +21405,6 @@ futhark	'fu:,TA@k
 monopsonist	m@'nA:ps@n@st
 disfavor	,dIs'feIv3:
 farandole	'far@n,doUl
-ratine	,rat@n'neI
 abatises	'ab@,ti:z
 jailbait	'dZeIl,beIt
 eval	,i:'val
@@ -22529,7 +22526,7 @@ melancholiac	,mEl@N'koUli:,ak
 callosum	k@'loUs@m
 bulbourethral	,bVlboUj@'ri:Tr@L
 okanogan	,oUk@'nA:g@n
-disseise	,dIs'si:z
+disseise	d@s'si:z
 preadulthood	,pri:@'dVlt,hUd
 diagramed	'daI@,gramd
 septuagintal	,sEptu:@'dZInt@L
@@ -22822,6 +22819,7 @@ perspirative	p3:'spaIr@t@v
 septicentennial	,sEpt@s@n'tEni:@L
 barouche	b@'ru:S
 humvee	'hVm,vi:
+susurrous	sU's3:@s
 lovelorn	'lVv,lo@n
 meliorate	'mi:lj@,reIt
 arbitrageur	,A@b@trA:'Z3:
@@ -23869,7 +23867,6 @@ legwarmer	'lE,gwo@m3:
 confidentiality	,kA:nf@,dEnSi:'al@ti:
 parietal	p@'raI@t@L
 entrecôte	'A:ntr@,koUt
-saecula	'sEkj@l@
 oceanologist	,oUS@'nA:l@dZ@st
 prader	'prO:t3:
 chipewyan	,tSIp@'waI@n
@@ -24233,7 +24230,7 @@ inbreathe	'In,bri:D
 shakti	'SVkti:
 tajik	t@'dZIk
 hegemonist	h@'dZEm@n@st
-perithecia	,pEr@'Ti:Si:@
+perithecia	,pEr@'Ti:si:@
 metropoly	m@'trA:p@li:
 chemosorb	'kEm@,zo@b
 shabbat	S@'bA:t
@@ -24286,7 +24283,7 @@ dumas	,du:'mA:
 basidiomycete	b@,sIti:oU'maI,si:t
 dedans	d@'dO:n
 chemoprophylactic	,ki:moU,proUf@'lakt@k
-ovariole	,oU'vEri:,oUl
+ovariole	oU'vEri:,oUl
 ancient	'eInS@nt
 philhellenist	,fIl'hEl@n@st
 rester	'rEst3:
@@ -24585,6 +24582,7 @@ tridimensional	,traIt@'mEnS@n@L
 hypermarkets	'haIp3:,mA@k@ts
 resinic	r@'zIn@k
 subapical	,sVb'ap@k@L
+artificiality	,A@t@,fISi:'al@ti:
 thimerosal	,TaI'mEr@,sal
 eisegesis	,aIs@'dZi:s@s
 excusal	@ks'kju:z@L
@@ -24649,7 +24647,7 @@ hybridism	'haIbr@,dIz@m
 magnetosphere	,mag'ni:t@s,fi:r/
 phraseology	,freIzi:'A:l@dZi:
 polymorphs	'pA:li:,mo@fs
-fibraio	f@'braIoU
+fibraio	f@b'raIoU
 catholicization	k@,TA:l@s@'zeIS@n
 marin	'meIr@n
 mario	'mA@i:oU
@@ -25605,7 +25603,7 @@ incommensurably	,INk@'mEns3:@bli:
 torula	'to@j@l@
 vitellin	v@'tEl@n
 polyposis	,pA:li:'poUs@s
-corybantes	,ko@@'banti:z
+corybantes	,ko@@'ban,ti:z
 foramen	f@'reIm@n
 roentgenoscopy	,rEntg@'nA:sk@pi:
 incommensurable	,INk@'mEns3:@b@L
@@ -25643,6 +25641,7 @@ winebibbing	'waIn,bIbIN
 miniskis	'mIni:ski:z
 micrometeorologist	maI,kroUmi:ti:@'rA:l@dZ@st
 inebriant	@'ni:bri:@nt
+electricity	@,lEk'trIs@ti:
 intranets	'Intr@,nEts
 shinsplints	'SIn,splInts
 moana	m@'wA:n@
@@ -25654,7 +25653,7 @@ lymphopoieses	,lImfoUpOI'i:si:z
 bireme	'baI,ri:m
 jeunesse	Z@'nEs
 inshore	In'So@
-exocytotic	,Eks@saI'tA:t@k
+exocytotic	,Eks@,saI'tA:t@k
 collinses	'kA:l@nz@z
 caeca	'si:k@
 ceftriaxone	,sEftraI'ak,soUn
@@ -25807,7 +25806,6 @@ shamanistic	,SA:m@'nIst@k
 panegyrist	,pan@'dZIr@st
 nantucket	,nan'tVk@t
 preciosity	,prESi:'A:s@ti:
-ibogaine	@'boUg@,i:n
 anthropocentricity	,anTr@p@,sEn'trIs@ti:
 spectrometry	spEk'trA:m@tri:
 valproate	,val'proU,eIt
@@ -26037,6 +26035,7 @@ cloture	'kloUtS3:
 vicegerent	,vaIs'dZi:r@nt
 deuterostome	'du:t@r@,stoUm
 defibrillate	,di:'fIbr@,leIt
+changelog	'tSeIndZ,lO:g
 topograph	'tA:p@,graf
 biotites	'baI@,taIts
 glochidiate	,gloU'kIti:@t
@@ -26333,7 +26332,7 @@ zoogleal	,zoU@'gli:@L
 buddleia	,bVd'li:@
 tchaikovskyan	,tSaI'kA:fskj@n
 exhaustivity	@g,zO:'stIv@ti:
-irrupt	,i:'rVpt
+irrupt	@'rVpt
 underkill	'Vnd3:,kIl
 tachysterol	t@'kIst@,rO:l
 kingbolt	'kIN,boUlt
@@ -26344,7 +26343,6 @@ retrenchment	r@'trEntSm@nt
 newspaperman	'nu:z,peIp3:,man
 terete	,teI'ri:t
 aecial	'i:si:@L
-aggrandizement	@'grand@zm@nt
 happenstance	'hap@n,stans
 somatology	,soUm@'tA:l@dZi:
 aruspices	@'rVsp@,si:z
@@ -26397,7 +26395,6 @@ duchenne	,du:'SEn
 interrobang	In'tEr@,baN
 ringbolt	'rIN,boUlt
 heterophile	'hEt@r@,faIl
-adiabatic	,adi:@'bat@k
 heterotaxis	,hEt@r@'taks@s
 lipari	'lIp@ri:
 costume	'kA:,stu:m
@@ -26648,7 +26645,7 @@ perceptivity	,p3:,sEp'tIv@ti:
 gastropodan	,ga'strA:p@,dA:n
 toews	'teIvz
 agraphia	,eI'grafi:@
-campo	'kA:mpoU
+campo	'kA:m,poU
 agraphic	,eI'graf@k
 supersizing	'su:p3:,saIzIN
 admeasure	@d'mEZ3:
@@ -27793,7 +27790,7 @@ mulaney	m@'leIni:
 netvibes	'nEt,vaIbz
 axelrod	'aks@L,rA:d
 amanpour	@,mA:n'pu:r/
-hermès	'h3:,mi:z
+hermès	'h3:mi:z
 supertaster	'su:p3:,teIst3:
 supertasters	'su:p3:,teIst3:z
 supertasting	'su:p3:,teIstIN
@@ -27927,7 +27924,6 @@ septuplicate	,sEp'tu:pl@,keIt
 silentially	,saI'lEnS@li:
 speculoos	'spEkj@loUs
 suity	'su:ti:
-tergite	't3:,gaIt
 vinarterta	,vi:n3:'t3:t@
 disqus	d@'skVs
 jolu	'hoU,lu:
@@ -28013,7 +28009,7 @@ votarist	'voUt3:@st
 epigoni	@'pIg@,naI
 epigonism	@'pIg@,nIz@m
 epigyna	@'pIdZ@n@
-mourinho	,moU'ri:ni:oU
+mourinho	,moU'ri:njoU
 cogon	'koU,gO:n
 mistral	'mIstr@L
 diester	,daI'Est3:
@@ -28077,7 +28073,6 @@ propanoate	,proUp@'noU,eIt
 dipropionate	,daI'proUpi:@,neIt
 methanesulfonate	,mETeIn'sVlf@,neIt
 methanesulfonic	,mETeIns@L'fA:n@k
-methacrylate	,mE'Takr@,leIt
 methaqualone	,mET@'kweI,loUn
 beclomethasone	,bEkl@'mET@,soUn
 indomethacin	,IndoU'mET@s@n
@@ -28191,7 +28186,7 @@ gameweek	'geIm,wi:k
 gameplan	'geIm,plan
 sewer	'su:3:
 littley	'lIt@li:
-berbere	,b3:b@'reI
+berbere	'b3:b@,reI
 bemonster	b@'mA:nst3:
 bemouth	b@'maUT
 bemud	b@'mVd
@@ -28834,8 +28829,8 @@ cheirology	,kaI'rA:l@dZi:
 memeticist	m@'mEt@s@st
 milieu	,mIl'ju:
 solidi	'sA:l@,daI
-ovarium	,oU'vEri:@m
-ovaria	,oU'vEri:@
+ovarium	oU'vEri:@m
+ovaria	oU'vEri:@
 bling	'blIN
 hippocamp	'hIp@,kamp
 caespitose	'sEsp@,toUs
@@ -29081,7 +29076,7 @@ tretinoin	tr@'tInoUw@n
 unitrust	'ju:n@,trVst
 unmacho	,Vn'mA:tSoU
 viewshed	'vju:,SEd
-conglomerateur	k@n,glA:m@r@'t3:
+conglomerateur	k@N,glA:m@r@'t3:
 dosimetrist	,doU'sIm@tr@st
 hexosaminidase	,hEksA:s@'mIn@,deIs
 polywater	'pA:li:,wO:t3:
@@ -29118,7 +29113,7 @@ muffuletta	,mVf@'lEt@
 owie	'aUi:
 owies	'aUi:z
 proabortion	,proU@'bo@S@n
-shabu	'SA:bu:
+shabu	'SA:,bu:
 shiatsu	,Si:'A:tsu:
 shiatzu	,Si:'A:tsu:
 teenybop	'ti:ni:,bA:p
@@ -29258,6 +29253,7 @@ defeature	d@'fi:tS3:
 denialist	d@'naI@l@st
 exponentiation	,Eksp@,nEnSi:'eIS@n
 fabregas	'fabr@,gas
+faery	'feIri:
 gamertag	'geIm3:,tag
 hyperacute	,haIp3:@'kju:t
 hyperalert	,haIp3:@'l3:t
@@ -29271,7 +29267,7 @@ inositol	@'noUs@,tO:l
 inotrope	'i:n@,troUp
 kamaaina	,kA:m@'aIn@
 kantele	'kA:nt@l@
-krummholz	'kru:,mhoUlts
+krummholz	'krV,mhoUlts
 kunzite	'ku:nt,saIt
 nicotrol	'nIk@,troUl
 pepe	'pEpeI
@@ -29359,8 +29355,8 @@ wrapup	'rapVp
 yippee	'jIpi:
 bisociation	,baI,soUSi:'eIS@n
 bisoprolol	,bIsoU'proU,lO:l
-bisphenol	b@s'fi:,nO:l
-bisphosphate	b@s'fA:s,feIt
+bisphenol	'bIs,fi:,nO:l
+bisphosphate	'bIs,fA:s,feIt
 blowby	'bloU,baI
 bullyboy	'bUli:,bOI
 c'mon	k@'mA:n
@@ -30726,8 +30722,6 @@ cofavorite	'koU,feIvr@t
 disomic	,daI'soUm@k
 disoperative	d@'sA:pr@t@v
 drylot	'draIl,A:t
-encephalitogenic	@n,sEf@,laIt@'dZEn@k
-encephalitogen	@n,sEf@'laIt@dZ@n
 etatism	,eI'tA:,tIz@m
 etatist	,eI'tA:t@st
 foreshank	'fo@,SaNk
@@ -31311,6 +31305,7 @@ jyväskylä	'ju:,vask@l@
 jyvaskyla	'ju:,vask@l@
 paolini	,paU'li:ni:
 alagaësia	,al@'geIzi:@
+eragon	'eIr@,gA:n
 votrax	'voU,traks
 doubleganger	'dVb@L,gaN3:
 technote	'tEk,noUt
@@ -31893,7 +31888,7 @@ talonavicular	,teIloUn@'vIkj@l3:
 talotibial	,teIloU'tIbi:@L
 joaquin	wA:'ki:n
 joaquín	wA:'ki:n
-chapo	'tSA:poU
+chapo	'tSA:,poU
 fado	'fA:,Du:
 glidepath	'glaId,paT
 guzman	,gu:z'mA:n
@@ -32207,8 +32202,8 @@ oophorectomize	,oU@f@'rEkt@,maIz
 oophorectomise	,oU@f@'rEkt@,maIz
 ooplasm	'oU@,plaz@m
 ooplasmic	,oU@'plazm@k
-ovariectomize	,oU,vEri:'Ekt@,maIz
-ovariectomise	,oU,vEri:'Ekt@,maIz
+ovariectomize	oU,vEri:'Ekt@,maIz
+ovariectomise	oU,vEri:'Ekt@,maIz
 ovariohysterectomy	oU,veIri:oU,hIst@'rEkt@mi:
 ovariotestis	oU,vEri:oU'tEst@s
 ovariotestes	oU,vEri:oU'tEsti:z
@@ -32223,7 +32218,7 @@ penup	'pEnVp
 berenson	'bEr@ns@n
 carlile	'kA@,laIl
 dawid	d@'wi:d
-devonte	d@'vA:nteI
+devonte	d@'vA:n,teI
 meningoencephalitides	m@,nINgoU@n,sEf@'lIt@,ti:z
 archosauria	,A@k@'so@i:@
 ghislaine	g@'leIn
@@ -32647,7 +32642,7 @@ nidifugous	naI'dIfj@g@s
 rivulose	'rIvj@loUs
 schematist	'ski:m@t@st
 avondale	'av@n,deIl
-daunte	'dA:nteI
+daunte	'dA:n,teI
 imagineer	@,madZ@'ni:r/
 lensbaby	'lEnz,beIbi:
 shiloh	'SaIloU
@@ -32759,7 +32754,7 @@ endophily	@n'dA:f@li:
 endophlebitis	,End@fl@'baIt@s
 endophlebitises	,End@fl@'baIt@s@z
 endophlebitides	,End@fl@'bIt@,ti:z
-endophthalmitis	@n,dA:fTal'maIt@s
+endophthalmitis	,En,dA:fTal'maIt@s
 endometritis	,End@m@'traIt@s
 endometrium	,End@'mi:tri:@m
 endometria	,End@'mi:tri:@
@@ -33222,7 +33217,7 @@ tetrahydroaminoacridine	,tEtr@,haIdr@@,mi:noU'akr@,di:n
 tetrahydrofolate	,tEtr@,haIdr@'foU,leIt
 tetrahydrofolic	,tEtr@,haIdr@'foUl@k
 tetrahymena	,tEtr@'haIm@n@
-tetraiodophenolphthalein	,tEtr@aI,oUdoU,fi:nO:l'TeI,li:n
+tetraiodophenolphthalein	,tEtr@aI,oUdoU,fi:nO:l'Ta,li:n
 abioseston	,eI,baIoU'sEst@n
 abiotrophy	,eIbaI'A:tr@fi:
 abiotrophic	,eI,baIoU'trA:f@k
@@ -33414,7 +33409,7 @@ aerosondes	'EroU,sA:ndz
 biolab	'baIoU,lab
 biolabs	'baIoU,labz
 giannis	'jA:n@s
-antetokounmpo	,A:n,tEt@'ku:mpoU
+antetokounmpo	,A:n,tEt@'ku:m,poU
 johnathon	'dZA:n@T@n
 luzon	,lu:'zA:n
 marmoset	'mA@m@,sEt
@@ -34235,7 +34230,7 @@ osseomucoid	,A:si:oU'mju:,kOId
 ossiculectomy	,A:s@kj@'lEkt@mi:
 ossiculotomy	,A:s@kj@'lA:t@mi:
 ossificans	A:'sIf@,kanz
-pesante	peI'sA:nteI
+pesante	peI'sA:n,teI
 rallentando	,rA:l@n'tA:ndoU
 sophonias	,sA:f@'naI@s
 zephaniah	,zEf@'naI@
@@ -34948,7 +34943,6 @@ proamniotic	,proU,amni:'A:t@k
 proapoptotic	,proU,ap@p'tA:t@k
 proatlas	,proU'atl@s
 probacteriophage	,proU,bak'ti:ri:@,feIdZ
-promotee	pr@'moUhti:
 shamook	S@'mUk
 microfridge	'maIkroU,frIdZ
 microfridges	'maIkroU,frIdZ@z
@@ -34963,8 +34957,8 @@ brachymorphic	,brak@'mo@f@k
 brachyuranic	,braki:j@'ran@k
 brachyurany	,braki:'ju:r@ni:
 conjunctivum	,kA:ndZ@Nk'taIv@m
-hypsarrhythmia	,hIps@'rITmi:@
-hypsarhythmia	,hIps@'rITmi:@
+hypsarrhythmia	,hIps@'rIDmi:@
+hypsarhythmia	,hIps@'rIDmi:@
 hypsarrhythmic	,hIps@'rIDm@k
 hypsarhythmic	,hIps@'rIDm@k
 hypsistenocephalic	,hIps@,stEn@s@'fal@k
@@ -35837,7 +35831,7 @@ ergothioneine	,3:goUTaI'oUni:,i:n
 thioneine	,TaI@'ni:,i:n
 anisocytosis	,a,naIs@saI'toUs@s
 anisocytoses	,a,naIs@saI'toUsi:z
-anisocytotic	,a,naIs@saI'tA:t@k
+anisocytotic	,a,naIs@,saI'tA:t@k
 anisocoria	,a,naIs@'ko@i:@
 homoiosmotic	,hoU,mOIA:z'mA:t@k
 poikilocyte	,pOI'kIl@,saIt
@@ -36223,7 +36217,7 @@ hoosac	'hu:s@k
 kecak	'kE,tSA:k
 ketjak	'kE,tSA:k
 knausgaard	k@'nVs,gA@d
-ramapo	'ram@poU
+ramapo	'ram@,poU
 ramayana	r@'maI@n@
 skullcandy	,skVl'kandi:
 uinta	ju:'Int@
@@ -37752,7 +37746,7 @@ previae	'pri:vi:i:
 actinometric	,akt@n@'mEtr@k
 antinous	'ant@n@s
 communicans	k@'mju:n@,kanz
-communicantes	k@,mju:n@'kanti:z
+communicantes	k@,mju:n@'kan,ti:z
 lechon	,lE'tSA:n
 opisthenar	@'pIsT@,nA@
 opisthocranion	@,pIsT@'kreIni:,A:n
@@ -38450,8 +38444,8 @@ electrotonically	@,lEktr@'tA:n@kli:
 ethisterone	@'TIst@,roUn
 codicological	,koUt@k@'lA:dZ@k@L
 sprakkar	,sprA:'kA@
-totipotential	,toUt@p@'tEntS@L
-totipotentiality	,toUt@p@,tEntSi:'al@ti:
+totipotential	,toUt@p@'tEnS@L
+totipotentiality	,toUt@p@,tEnSi:'al@ti:
 ashkenazy	,aSk@'nA:zi:
 cartagena	,kA@t@'heIn@
 jamil	dZ@'mi:l
@@ -38487,7 +38481,7 @@ haemocytolyses	,hi:moU,saI'tA:l@si:z
 luuk	'lu:k
 lymphoidocyte	l@m'fOIt@,saIt
 opponens	@'poU,nEnz
-opponentes	,A:p@'nEnti:z
+opponentes	,A:p@'nEn,ti:z
 proerythroblast	,proU@'rITr@,blast
 proerythroblastic	,proU@,rITr@'blast@k
 proerythrocyte	,proU@'rITr@,saIt
@@ -39635,7 +39629,7 @@ huneven	'hVn@v@n
 eiger	'aIg3:
 iger	'aIg3:
 mandeep	,mA:n'di:p
-nigerien	,naI,dZi:ri:'En
+nigerien	,naI,dZEri:'En
 nigerois	,ni:Z3:'wA:
 fouta	'fu:t@
 djallon	dZ@'loUn
@@ -39653,7 +39647,7 @@ musculotropic	,mVskj@loU'trA:p@k
 muscularis	,mVskj@'leIr@s
 musicogenic	,mju:z@k@'dZEn@k
 musicotherapy	,mju:z@koU'TEr@pi:
-volitantes	,vA:l@'tanti:z
+volitantes	,vA:l@'tan,ti:z
 arseniuretted	,A@'sEnj@,rEt@d
 arseniureted	,A@'sEnj@,rEt@d
 hypopus	'haIp@p@s
@@ -40065,7 +40059,7 @@ autotopagnosia	,O:toU,tA:p@g'noUZ@
 simultanagnosia	,saIm@Lt@nag'noUZ@
 somatize	'soUm@,taIz
 daigou	'daI,goU
-adiabat	'ati:@,bat
+adiabat	'eI,daI@,bat
 agarbatti	,ag3:'bA:ti:
 automats	'O:t@,mats
 braai	'braI
@@ -40903,8 +40897,8 @@ ecocity	'i:koU,sIti:
 amatol	'am@,tO:l
 amylobarbitone	,am@loU'bA@b@,toUn
 amylodextrin	,am@loU'dEkstr@n
-amylolytic	,am@loU'lIt@k
-amylopectin	,am@loU'pEkt@n
+amylolytic	,am@l@'lIt@k
+amylopectin	,am@l@'pEkt@n
 butabarbital	,bju:t@'bA@b@,tO:l
 cristoforetti	,krIst@f@'rEti:
 cytocidal	,saIt@'saIt@L
@@ -42735,7 +42729,7 @@ fluorimeter	flO:'rIm@t3:
 fluorimetry	flO:'rIm@tri:
 vaporimeter	,veIp@'rIm@t3:
 weightometer	,weI'tA:m@t3:
-andante	,A:n'dA:nteI
+andante	,A:n'dA:n,teI
 creatinuria	,kri:@t@'nu:ri:@
 diplosome	'dIpl@,soUm
 informosome	In'fo@m@,soUm
@@ -43181,7 +43175,7 @@ haemodynamic	,hi:moU,daI'nam@k
 haemorrhagic	,hEm@'radZ@k
 ischaemic	@'ski:m@k
 lieselotte	'li:z@,lA:t
-liselotte	,li:s@'lA:teI
+liselotte	,li:s@'lA:,teI
 lymphocytoblast	,lImf@'saIt@,blast
 lymphocytogenesis	,lImf@,saIt@'dZEn@s@s
 lymphocytogeneses	,lImf@,saIt@'dZEn@si:z
@@ -43335,7 +43329,7 @@ maghrebi	'magr@bi:
 maghrebis	'magr@bi:z
 maghribi	'magr@bi:
 maghribis	'magr@bi:z
-chante	'SA:nteI
+chante	'SA:n,teI
 shikar	S@'kA@
 micrographics	,maIkr@'graf@ks
 micrographically	,maIkr@'graf@kli:
@@ -44346,7 +44340,7 @@ microtexts	'maIkroU,tEksts
 mirabel	'mi:r@,bEl
 mitre	'maIt3:
 nasalis	,neI'zeIl@s
-nepo	'nEpoU
+nepo	'nE,poU
 nitre	'naIt3:
 autotyped	'O:t@,taIpt
 autotyping	'O:t@,taIpIN
@@ -44631,7 +44625,7 @@ recreancies	'rEkri:@nsi:z
 wojciechowski	,wOItS@'haUski:
 eremuri	,Er@'mju:r,aI
 ordnung	'o@dnUN
-orecchiette	oU,reIki:'EteI
+orecchiette	oU,reIki:'E,teI
 oremus	,oU'reIm@s
 ragnarök	'ragn@,rA:k
 kyphoses	,kaI'foUsi:z
@@ -45419,6 +45413,7 @@ frappart	'frapA@
 gelstrip	'dZEl,strIp
 giger	'gi:g3:
 hilfigerrr	'hIl,fIg3:
+jared	'dZeIr@d
 jellyvision	'dZEli:,vIZ@n
 joão	,Zu:'aU
 kreayshawn	'kreISA:n
@@ -46115,6 +46110,7 @@ fitbench	'fIt,bEntS
 frederica	,frEd@'ri:k@
 fricando	'frIk@n,doU
 frication	fr@'keIS@n
+gitignore	'gIt@g,noUr/
 halliburton	'hal@,b3:t@n
 heydrich	'haIdr@k
 heinrich	'haInr@k
@@ -46351,7 +46347,7 @@ béarn	,beI'A@n
 bearne	'bi:rn
 capernaum	k@'p3:neI@m
 gilad	g@'lA:d
-igwebuike	,INgweI'bju:keI
+igwebuike	,INgweI'bju:,keI
 mallika	m@'lIk@
 okwuegbunam	,oUk'weIb@,nam
 sirianna	,si:ri:'A:n@
@@ -46502,7 +46498,7 @@ noura	'nu:r@
 tadashi	'tA:d@Si:
 uniqlo	'ju:n@kloU
 yanai	'jA:,naI
-abert	'eIb3:t
+abert	'ab3:t
 aberystwyth	,ab@'rIs,twIT
 bilamellar	,baIl@'mEl3:
 bilaterian	,baIl@'ti:ri:@n
@@ -47454,7 +47450,7 @@ multigraphing	'mVlti:,grafIN
 multigym	'mVlti:,dZIm
 multigyms	'mVlti:,dZImz
 neurotech	'nu:roU,tEk
-okereke	,oU'kEr@keI
+okereke	,oU'kEr@,keI
 videograph	'vIti:oU,graf
 wegovy	w@'goUvi:
 autocade	'O:t@,keId
@@ -47898,7 +47894,7 @@ menazon	'mEn@,zA:n
 nayib	,naI'i:b
 predatism	'prEt@,tIz@m
 predatisms	'prEt@,tIz@mz
-preterhuman	,prEt3:'hju:m@n
+preterhuman	,pri:t3:'hju:m@n
 preterism	'prEt@,rIz@m
 preterist	'prEt@r@st
 preterists	'prEt@r@sts
@@ -48373,7 +48369,7 @@ stoechiological	,stOIki:@'lA:dZ@k@L
 dimethylamine	,daI'mET@l@,mi:n
 perchloroethane	,p3:,klo@oU'E,TeIn
 perchloromethane	,p3:,klo@oU'mE,TeIn
-sulphonmethane	,sVl,foUn'mi:,TeIn
+sulphonmethane	,sVl,foUn'mE,TeIn
 tetrachloromethane	,tEtr@,klo@oU'mE,TeIn
 tetrabromofluorescein	,tEtr@,broUmoUflO:'rEsi:n
 tolualdehyde	,tA:lju:'ald@,haId
@@ -48822,7 +48818,7 @@ epitheliomuscular	,Ep@,Ti:li:oU'mVskj@l3:
 epitrachelion	,Ep@tr@'ki:li:@n
 epitrochoid	,Ep@'troU,kOId
 epizooty	,Ep@'zoU@ti:
-indicia	In'dIsi:@
+indicia	In'dISi:@
 binarity	,baI'nEr@ti:
 biomodeling	'baIoU,mA:t@lIN
 biangular	,baI'aNgj@l3:
@@ -49089,8 +49085,7 @@ isochasmic	,aIs@'kazm@k
 isocheim	'aIs@,kaIm
 isochore	'aIs@,ko@
 isochrony	,aI'sA:kr@ni:
-isocolon	'aIs@,koUl@n
-isocola	'aIs@,koUl@
+isocolon	,aIs@'koUl@n
 isocyanic	,aIs@saI'an@k
 isocyanine	,aIs@'saI@,ni:n
 isocyano	,aIs@'saI@noU
@@ -49776,6 +49771,7 @@ followme	'fA:loU,mi:
 hurkacz	,hu:r'kA:tS
 jpeg	'dZeI,pEg
 lahai	l@'haI
+nearby	,ni:r'baI
 objnav	'A:bdZ,nav
 onclick	,A:N'klIk
 oneplus	'wVn,plVs
@@ -50465,7 +50461,7 @@ rigmaree	'rIgm3:i:
 rigling	'rIglIN
 scalewing	'skeIlwIN
 trochoblast	'trA:k@,blast
-whistlewing	'wIs@L,wIN
+whistlewing	'wIs@LwIN
 biwing	'baIwIN
 chaffee	'tSafi:
 copaliferous	,koUp@'lIf@r@s
@@ -50738,7 +50734,7 @@ corolliform	k@'rA:l@,fo@m
 corolline	'ko@@,laIn
 coronach	'ko@@,nak
 retinite	'rEt@n,naIt
-ritenente	,ri:t@n'nEnteI
+ritenente	,ri:t@n'nEn,teI
 ritenuto	,ri:t@n'nu:toU
 bifenthrin	,baI'fEnTr@n
 bifolium	,baI'foUli:@m
@@ -51121,7 +51117,7 @@ sociatrist	s@'saI@tr@st
 swiftnomic	,swIft'nA:m@k
 taiaha	'taI@h@
 bicornous	,baI'ko@n@s
-erigentes	,Er@'dZEnti:z
+erigentes	,Er@'dZEn,ti:z
 lancisi	,lA:n'tSi:zi:
 mezzogiorno	,mEtsoU'dZo@noU
 mezzograph	'mEts@,graf
@@ -51189,7 +51185,7 @@ degreen	,di:'gri:n
 gastrilegous	,ga'strIl@g@s
 guanxi	'gwA:nSi:
 illuminagraphic	@,lu:,mIn@'graf@k
-imitatress	,Im@'teItr@s
+imitatress	'Im@,teItr@s
 imitatrix	,Im@'teI,trIks
 imitatrices	,Im@'teItr@si:z
 immane	@'meIn
@@ -51269,7 +51265,7 @@ morquio	'mo@ki:oU
 mosquitocide	m@'ski:t@,saId
 webamp	'wEb,amp
 cancelo	,kA:n'sEloU
-conniventes	,kA:n@'vEnti:z
+conniventes	,kA:n@'vEn,ti:z
 deitsch	'daItS
 parapedesis	,pEr@p@'di:s@s
 parapedeses	,pEr@p@'di:si:z
@@ -51446,7 +51442,7 @@ nephrogram	'nEfr@,gram
 nephrolithiasis	,nEfroUl@'TaI@s@s
 nephrolithiases	,nEfroUl@'TaI@si:z
 nephrolyses	n@'frA:l@si:z
-adegoke	,at@'goUkeI
+adegoke	,at@'goU,keI
 echidnophaga	,E,kId'nA:f@g@
 echinulation	@,kInj@'leIS@n
 echographic	,EkoU'graf@k
@@ -51917,7 +51913,7 @@ madhur	'mA:,tSu:r/
 odette	,oU'dEt
 paroccipital	,pEr,A:k'sIp@t@L
 procapitalist	,proU'kap@t@l@st
-pyramidical	,pIr@'mIt@k@L
+pyramidic	,pIr@'mIt@k
 pyranometer	,paIr@'nA:m@t3:
 murati	m@'rA:ti:
 rebanks	'ri:,baNks
@@ -52005,7 +52001,7 @@ edestin	@'dEst@n
 edinger	'E,dIN3:
 edurant	'i:d@r@nt
 efinaconazole	,Ef@n@'kA:n@,zoUl
-efferentes	,Ef@'rEnti:z
+efferentes	,Ef@'rEn,ti:z
 emmeline	'Em@,li:n
 emocore	'i:moU,ko@
 haringey	'har@N,geI
@@ -52208,7 +52204,7 @@ toparch	'tA:,pA@k
 toparchy	'tA:,pA@ki:
 extorsion	@k'sto@S@n
 ilotycin	,Il@'taIs@n
-imessage	'aI,mEsIdZ
+imessage	'aI,mEs@dZ
 imiglucerase	,Im@'glu:s@,reIs
 iminodiacetic	,Im@noU,daI@'si:t@k
 iminoglycinuria	,Im@noU,glaIs@'nu:ri:@
@@ -52571,7 +52567,7 @@ uroradiologic	,ju:r@,reIti:@'lA:dZ@k
 urosepses	,ju:r@'sEpsi:z
 apicobasal	,eIp@koU'beIs@L
 aurinasal	,o@@'neIz@L
-machiavel	'maki:@,vEl
+machiavel	,maki:@'vEl
 machilid	'mak@l@d
 machinima	m@'SIn@m@
 machpelah	,mak'pi:l@
@@ -52742,7 +52738,7 @@ intitle	In'taIt@L
 intitule	In'tI,tSu:l
 podiobook	'pA:ti:oU,bUk
 podomatic	,pA:t@'mat@k
-yoshinobu	,joUSi:'noUbu:
+yoshinobu	,joUSi:'noU,bu:
 fortesa	,fo@'tEs@
 wallfever	'wO:l,fi:v3:
 nightography	,naI'tA:gr@fi:
@@ -52959,7 +52955,7 @@ desynonymize	,di:s@'nA:n@,maIz
 enstool	@n'stu:l
 hieronymian	,haIr@'nImi:@n
 comitans	'koUm@,tanz
-comitantes	,koUm@'tanti:z
+comitantes	,koUm@'tan,ti:z
 kaopectate	,keIoU'pEk,teIt
 ketogeneses	,ki:toU'dZEn@si:z
 kenacort	'kEn@,ko@t
@@ -53191,8 +53187,8 @@ phenolsulfonate	,fi:n@L'sVlf@,neIt
 phenolsulphonate	,fi:n@L'sVlf@,neIt
 phenolsulfonic	,fi:n@Ls@L'fA:n@k
 phenolsulphonic	,fi:n@Ls@L'fA:n@k
-phenolsulfonphthalein	,fi:n@Ls@L,fA:n'Tali:@n
-phenolsulphonphthalein	,fi:n@Ls@L,fA:n'Tali:@n
+phenolsulfonphthalein	,fi:n@L,sVlf@n'Tali:@n
+phenolsulphonphthalein	,fi:n@L,sVlf@n'Tali:@n
 phenprocoumon	,fEn,proU'ku:,mA:n
 phocomeli	f@'kA:m@,laI
 phonendoscope	f@'nEnd@,skoUp
@@ -53719,11 +53715,11 @@ adharma	@'dA@m@
 adherend	@d'hi:r@nd
 adhesin	@d'hi:z@n
 adhesivemeter	@d'hi:s@v,mi:t3:
-adiaphorism	,ati:'af@,rIz@m
-adiaphorist	,ati:'af@r@st
-adiaphoristic	,ati:,af@'rIst@k
-adiaphoron	,ati:'af@r@n
-adiaphorous	,ati:'af@r@s
+adiaphorism	,adaI'af@,rIz@m
+adiaphorist	,adaI'af@r@st
+adiaphoristic	,adaI,af@'rIst@k
+adiaphoron	,adaI'af@r@n
+adiaphorous	,adaI'af@r@s
 adiathermancy	@,daI@'T3:m@nsi:
 akaay	@'kaIeI
 edaphon	'Et@,fA:n
@@ -53759,7 +53755,7 @@ jamuna	'dZA:,mu:n@
 limnoplankton	,lImnoU'plaNkt@n
 rheoplankton	,ri:oU'plaNkt@n
 zebrula	'zi:bru:l@
-zebu	'zi:bu:
+zebu	'zi:,bu:
 zebulunite	'zEbj@l@,naIt
 epiphytal	,Ep@'faIt@L
 epiplankton	,Ep@'plaNkt@n
@@ -53790,14 +53786,14 @@ metalenz	'mEt@,lEnz
 metasurface	'mEt@,s3:f@s
 metasurfaces	'mEt@,s3:f@s@z
 aberrans	'ab@,ranz
-aberrantes	,ab@'ranti:z
+aberrantes	,ab@'ran,ti:z
 dacryocystoblennorrhea	,dakrjoU,sIst@,blEn@'ri:@
 dacryocystoblennorrhoea	,dakrjoU,sIst@,blEn@'ri:@
 danazol	'dan@,zoUl
 d'arsonval	'dA@s@n,vO:l
 daraprim	'dEr@,prIm
 dartos	'dA@t@s
-deferentes	,dEf@'rEnti:z
+deferentes	,dEf@'rEn,ti:z
 diaphanometric	,daIaf@n@'mEtr@k
 diarticular	,daI,A@'tIkj@l3:
 diazobenzenesulfonic	,daIazoU,bEnzi:ns@L'fA:n@k
@@ -54242,7 +54238,7 @@ waal	'wO:l
 amapiano	,A:m@,pi:'anoU
 anisogametic	,anaIsoUg@'mEt@k
 lagopous	l@'goUp@s
-logopoeia	,loUg@'pi:@
+logopoeia	,lO:g@'pi:@
 melophonist	'mEl@,foUn@st
 melopiano	,mEloU,pi:'anoU
 melopoeia	,mEl@'pi:@
@@ -54521,7 +54517,7 @@ zermatt	tsEr'mA:t
 exoatmosphere	,EksoU'atm@s,fi:r/
 udiomusic	,ju:ti:oU'mju:z@k
 nuvole	'nu:v@leI
-bianche	,bi:'A:NkeI
+bianche	,bi:'A:N,keI
 lenire	l@'ni:r/
 nafij	n@'fi:dZ
 olyslagers	'A:l@s,lA:g3:z
@@ -54648,7 +54644,7 @@ messud	m@'su:d
 mukhopadhyay	,mu:k@'pA:,deI
 nutrivore	'nu:tri:,vo@
 samburu	,sam'bu:ru:
-ryusuke	,ri:@'su:keI
+ryusuke	,ri:@'su:,keI
 hamaguchi	,hA:m@'gu:tSi:
 miroslav	'mIr@,slA:v
 misomath	'mIs@,maT
@@ -55060,7 +55056,7 @@ massgrave	'mas,greIv
 sultaness	'sVlt@nn@s
 atlatl	'A:t,lA:t@L
 armpatch	'A@m,patS
-enchaînement	,A:nSEn'mA:n
+enchaînement	,A:nSEn'mO:
 esconson	@'skA:ns@n
 innomine	@'nA:m@neI
 mapuches	m@'pu:tSi:z
@@ -55279,8 +55275,8 @@ derivatization	d@,rIv@t@'zeIS@n
 derivatize	d@'rIv@,taIz
 bivoltine	,baI'voUl,ti:n
 cyclodehydrogenation	,saIkloU,di:,haI,drA:dZ@'neIS@n
-decarchy	'dEk3:ki:
-dekarchy	'dEk3:ki:
+decarchy	'dE,kA@ki:
+dekarchy	'dE,kA@ki:
 deforciant	d@'fo@S@nt
 degustator	,di:'gV,steIt3:
 dehair	,di:'hEr/
@@ -55349,7 +55345,7 @@ intuniv	In'tu:n@v
 intussusceptum	,Int@s@'sEpt@m
 intussuscepta	,Int@s@'sEpt@
 intussuscipiens	,Int@s@'sIpi:,Enz
-intussuscipientes	,Int@s@,sIpi:'Enti:z
+intussuscipientes	,Int@s@,sIpi:'En,ti:z
 ninjago	n@n'dZA:goU
 sacajawea	,sak@dZ@'wi:@
 sacahuiste	,sak@'wIst@
@@ -56570,7 +56566,7 @@ electrolyzable	@,lEktr@'laIz@b@L
 electrolysation	@,lEktr@l@'zeIS@n
 electrolyzation	@,lEktr@l@'zeIS@n
 electrolization	@,lEktr@l@'zeIS@n
-furikake	,f3:i:'kA:keI
+furikake	,f3:i:'kA:,keI
 galamsey	'gal@m,seI
 gaman	'gA:mA:n
 interrail	'Int3:,reIl
@@ -56670,7 +56666,7 @@ hydroxycorticosteroid	,haI,drA:ksi:,ko@t@koU'steI,rOId
 hydroxydopamine	,haI,drA:ksi:'doUp@,mi:n
 hydroxyindoleacetic	,haI,drA:ksi:,IndoUl@'si:t@k
 hydroxymitragynine	,haI,drA:ksi:m@'tradZ@,ni:n
-mabute	m@'bu:teI
+mabute	m@'bu:,teI
 methoxypsoralen	,mETA:k,si:'so@@l@n
 methylrosaniline	,mET@LroU'zan@l@n
 methyprylon	,mET@'praI,lA:n
@@ -56682,7 +56678,7 @@ muralis	,mju:'reIl@s
 nortestosterone	,no@,tEs'tA:st@,roUn
 quadrangulate	,kwA:d'raNgj@,leIt
 quadrans	'kwA:d,ranz
-quadrantes	,kwA:d'ranti:z
+quadrantes	,kwA:d'ran,ti:z
 quadrantally	,kwA:'drant@li:
 quadrantanopia	,kwA:dr@nt@'noUpi:@
 quadrantanopsia	,kwA:dr@nt@'nA:psi:@
@@ -57193,7 +57189,7 @@ remanation	,rEm@'neIS@n
 remanency	'rEm@n@nsi:
 remanet	'rEm@,nEt
 remanié	r@,mA:n'jeI
-remaniement	r@,man@'mA:n
+remaniement	r@,man@'mO:
 tritylodontoid	,traIht@loU'dA:n,tOId
 triumphancy	,traI'Vmf@nsi:
 triunal	,traI'ju:n@L
@@ -57823,7 +57819,7 @@ oligozoospermia	,A:l@,goU,zoU@'sp3:mi:@
 olinguito	,oUl@N'gi:toU
 ovariotomist	oU,veIri:'A:t@m@st
 ovariotomize	oU,veIri:'A:t@,maIz
-ovarious	,oU'veIri:@s
+ovarious	oU'veIri:@s
 ovarist	'oUv@r@st
 paleofantasy	,peIli:oU'fant@si:
 primase	'praI,meIs
@@ -58768,7 +58764,7 @@ cuneated	'kju:ni:,eIt@d
 cuneatic	,kju:ni:'at@k
 cuneator	'kju:ni:,eIt3:
 exoascous	,EksoU'ask@s
-exoccipital	,EksA:k'sIp@t@L
+exoccipital	,Eks,A:k'sIp@t@L
 exocoelar	,Eks@'si:l3:
 exocoele	'Eks@,si:l
 exoculation	,Ek,sA:kj@'leIS@n
@@ -60634,7 +60630,7 @@ lithochrysography	,lIToUkr@'sA:gr@fi:
 lithoclast	'lIT@,klast
 lithodipyra	,lIToUt@'paIr@
 lithodomize	l@'TA:t@,maIz
-lithofellinic	,lIToUf@'lIn@k
+lithofellinic	,lIT@f@'lIn@k
 lithofracteur	,lIT@'frakt3:
 forteana	,fo@ti:'an@
 violetta	,vi:@'lEt@
@@ -61657,7 +61653,7 @@ pediscript	'pEt@,skrIpt
 pediplane	'pEt@,pleIn
 pediunker	,pEti:'VNk3:
 polarchy	'pA:,lA@ki:
-pollarchy	'pA:l@ki:
+pollarchy	'pA:l3:ki:
 protoplasmist	,proUt@'plazm@st
 protoplasmists	,proUt@'plazm@sts
 protoplot	'proUt@,plA:t
@@ -61678,7 +61674,7 @@ typotheter	,taI'pA:T@t3:
 whigarchy	'wI,gA@ki:
 countercycle	'kaUnt3:,saIk@L
 countercycles	'kaUnt3:,saIk@Lz
-ganglionopathy	,gangli:@'nA:p@Ti:
+ganglionopathy	,gaNgli:@'nA:p@Ti:
 hydrocycle	'haIdr@,saIk@L
 hydrocycles	'haIdr@,saIk@Lz
 hydrocyst	'haIdr@,sIst
@@ -62285,7 +62281,7 @@ hypopepsia	,haIpoU'pEpS@
 orchidophile	'oUrk@t@,faIl
 orchidomania	,oUrk@toU'meIni:@
 pneumatomachi	,nu:m@toU'maki:
-pneumatomachian	,nu:m@toU'maki:@n
+pneumatomachian	,nu:m@toU'meIki:@n
 pneumatomachist	,nu:m@'tA:m@k@st
 pneumatophobia	,nu:m@t@'foUbi:@
 phthisiophobia	,TIzi:oU'foUbi:@
@@ -63262,7 +63258,6 @@ octoic	,A:k'toU@k
 pentoic	,pEn'toU@k
 postallantoic	,poUst,al@n'toU@k
 pteris	'tEr@s
-sphenopteris	,sfi:'nA:pt@r@s
 emilia	@'mi:li:@
 emilio	@'mi:li:oU
 lehnovet	'lEnoU,vEt
@@ -65789,8 +65784,8 @@ paravail	'peIr@,veIl
 paravents	'peIr@,vA:nts
 parawai	'peIr@,waI
 parawais	'peIr@,waIz
-parawing	'peIr@,wIN
-parawings	'peIr@,wINz
+parawing	'peIr@wIN
+parawings	'peIr@wINz
 paralian	p@'rA:li:@n
 paralipomenon	,peIr@l@'pA:m@,nA:n
 parallelepipedon	,peIr@,lEl@'pIp@,dA:n
@@ -66161,8 +66156,8 @@ matthiessen	'maT@s@n
 cyclocoelic	,saIkl@'si:l@k
 entlebucher	'Ent@L,bu:tS3:
 entocoelic	,Ent@'si:l@k
-schizocoelic	,skIz@'si:l@k
-schizocoelous	,skIz@'si:l@s
+schizocoelic	,skIts@'si:l@k
+schizocoelous	,skIts@'si:l@s
 schizognathism	sk@'zA:gn@,TIz@m
 somatocoelic	s@,mat@'si:l@k
 completism	k@m'pli:,tIz@m
@@ -66203,7 +66198,7 @@ tanqueray	'taNk@,reI
 veteranality	,vEt@r@'nal@ti:
 veterascent	,vEt@'reIs@nt
 litheli	'laITli:
-philanthrope	'fi:l@n,TroUp
+philanthrope	'fIl@n,TroUp
 philanthropine	f@'lanTr@,pi:n
 philanthropinism	,fIl@n'TrA:p@,nIz@m
 philanthropinist	,fIl@n'TrA:p@n@st
@@ -66818,7 +66813,7 @@ saloney	s@'loUni:
 sangre	'sA:N,reI
 seanbaby	'SO:n,beIbi:
 seiter	'saIt3:
-shantae	'SA:nteI
+shantae	'SA:n,teI
 sheepit	'Si:p@t
 sheikh	'SeIk
 shiva	'Si:v@
@@ -67215,7 +67210,7 @@ hippomachia	,hIp@'mA:ki:@
 hippomane	h@'pA:m@ni:
 leucoxene	,lu:'kA:k,si:n
 lysimachia	,laIs@'maki:@
-meroxene	m@'rA:k,zi:n
+meroxene	m@'rA:k,si:n
 papenmeier	'pA:p@n,maI3:
 psycholytic	,saIk@'lIt@k
 psychoma	,saI'koUm@
@@ -68377,9 +68372,9 @@ halong	h@'lO:N
 lycanthropus	,laI'kanTr@p@s
 lychnapsia	l@k'napZ@
 lychnic	'lIkn@k
-baboo	'bA:bu:
-babu	'bA:bu:
-babus	'bA:bu:z
+baboo	'bA:,bu:
+babu	'bA:,bu:
+babus	'bA:,bu:z
 pulldoo	'pUldu:
 powerbomb	'paU3:,bA:m
 rimaye	,ri:'meI
@@ -68735,10 +68730,10 @@ lithospermous	,lIT@'sp3:m@s
 oleoduct	'oUli:@,dVkt
 oleoducts	'oUli:@,dVkts
 xanthospermous	,zanT@'sp3:m@s
-bamonte	b@'mA:nteI
+bamonte	b@'mA:n,teI
 arseniasis	,A@s@'naI@s@s
 arsenicize	,A@'sEn@,saIz
-bamonte	b@'mA:nteI
+bamonte	b@'mA:n,teI
 decelticize	,di:'sElt@,saIz
 deplumate	d@'plu:,meIt
 depoeticize	,di:poU'Et@,saIz
@@ -68880,7 +68875,7 @@ dolioloid	'doUli:@,lOId
 nanobiomaterial	,nanoU,baIoUm@'ti:ri:@L
 propagule	'prA:p@,gju:l
 toxicogenomic	,tA:ks@koUdZ@'nA:m@k
-abrokyire	@b'roUtS@reI
+abrokyire	@b'roUtS@,reI
 adowa	,ad@'wA:
 ajumma	'A:dZ@m@
 aljotta	,al'jA:t@
@@ -69832,7 +69827,7 @@ bidie	'baIti:
 buist	'bu:st
 buka	'bu:k@
 bukateria	,bu:k@'ti:ri:@
-bukkake	,bu:'kA:keI
+bukkake	,bu:'kA:,keI
 buko	'bu:koU
 chipmunky	'tSIp,mVNki:
 delicense	,di:'laIs@ns
@@ -70123,7 +70118,7 @@ choristic	k@'rIst@k
 choristid	k@'rIst@d
 choristophyllous	k@,rIst@'fIl@s
 chorization	,ko@@'zeIS@n
-chorizontes	,ko@@'zA:nti:z
+chorizontes	,ko@@'zA:n,ti:z
 cichoraceous	,sIk@'reIS@s
 cichorium	s@'ko@i:@m
 ereader	'i:,ri:t3:
@@ -70160,7 +70155,7 @@ isotretinoin	,aIsoUtr@'tInoUw@n
 isotrimorphism	,aIs@,traI'mo@,fIz@m
 isotrimorphous	,aIs@,traI'mo@f@s
 isotypy	'aIs@,taIpi:
-logotypy	'loUg@,taIpi:
+logotypy	'lO:g@,taIpi:
 megatypy	'mEg@,taIpi:
 phototypy	'foUt@,taIpi:
 stigmatypy	'stIgm@,taIpi:
@@ -70350,7 +70345,7 @@ ecocivilization	,i:koU,sIv@l@'zeIS@n
 illahee	,Il@'hi:
 khayelitsha	,kaI@'li:tS@
 n'dama	@n'dA:m@
-ndembu	@n'dEmbu:
+ndembu	@n'dEm,bu:
 ndrangheta	,ndraN'gEt@
 ndugu	@n'du:gu:
 recoverableness	r@'kVv3:@b@Ln@s
@@ -70365,8 +70360,8 @@ damasquine	,dam@s'ki:n
 echoize	'EkoU,aIz
 echolalian	,EkoU'leIli:@n
 eclaircise	,eIk'lEr,saIz
-éclaircissement	eIk,lEr,si:s'mA:n
-eclaircissement	eIk,lEr,si:s'mA:n
+éclaircissement	eIk,lEr,si:s'mO:n
+eclaircissement	eIk,lEr,si:s'mO:n
 enruin	@n'ru:@n
 ensaimada	,EnsaI'mA:t@
 ensained	@n'seInd
@@ -70592,7 +70587,7 @@ somnopathy	,sA:m'nA:p@Ti:
 cyberselfish	,saIb3:'sElf@S
 flummadiddle	'flVm@,dIt@L
 taramellite	,tar@'mE,laIt
-kakapo	'kA:k@poU
+kakapo	'kA:k@,poU
 kakigori	,kA:ki:'goUri:
 yakitori	,jA:ki:'toUri:
 kakahi	'kA:k@hi:
@@ -70854,7 +70849,7 @@ thanatophidia	,Tan@t@'fIti:@
 tigridia	,taIg'rIti:@
 vuilgoed	'veIl,gUd
 trionda	,traI'A:nd@
-zapsplat	'zats,plat
+zapsplat	'zaps,plat
 faouzia	'foUzi:@
 homocore	'hoUm@,ko@
 queercore	'kwi:r,ko@
@@ -71747,7 +71742,7 @@ segeneration	si:,dZEn@'reIS@n
 sideral	'saIt@r@L
 sideration	,saIt@'reIS@n
 siderean	,saI'di:ri:@n
-audiopub	'O:ti:oU,pVv
+audiopub	'O:ti:oU,pVb
 hindlimb	'haInd,lIm
 hydrochaeris	,haIdroU'kEr@s
 hydrochaerus	,haIdroU'kEr@s
@@ -72009,7 +72004,7 @@ diageo	di:'aZi:oU
 diaglyph	'daI@,glIf
 diagnost	'daI@g,nA:st
 prakash	pr@'kA:S
-chemulpo	dZ@'mVlpoU
+chemulpo	dZ@'mVl,poU
 dodecahedric	,doU,dEk@'hi:dr@k
 hemioctahedron	,hEmi:,A:kt@'hi:dr@n
 inagua	@'nA:gw@
@@ -72170,12 +72165,13 @@ ooecium	,oU'i:Si:@m
 oecium	,oU'i:Si:@m
 oobyjiver	'u:bi:,dZaIv3:
 oocyan	,oU@'saI@n
+awedly	'O:dli:
 awedness	'O:dn@s
 conspue	k@n'spju:
 wedl	'weIt@L
 parametrise	p@'ram@t,raIz
 parametrised	p@'ram@t,raIzd
-parametrises	p@'ram@t,raIzIz
+parametrises	p@'ram@t,raIz@z
 parametrising	p@'ram@t,raIzIN
 parametrisation	p@,ram@tr@'zeIS@n
 denitrate	,di:'naIt,reIt
@@ -72184,6 +72180,7 @@ denitrificator	,di:,naIt'rIf@,keIt3:
 denitrize	,di:'naIt,raIz
 poetrize	'poU@t,raIz
 panthera	'panT@r@
+glowmad	'gloU,mad
 microcation	,maIkroU'keIS@n
 microcations	,maIkroU'keIS@nz
 beautiless	'bju:ti:l@s
@@ -72212,8 +72209,8 @@ soulify	'soUl@,faI
 cellepore	'sEl@,po@
 gemmipore	'dZEm@,po@
 lepore	l@'po@
-countertariff	'kaUnt3:,tar@f
-countertariffs	'kaUnt3:,tar@fs
+countertariff	'kaUnt3:,teIr@f
+countertariffs	'kaUnt3:,teIr@fs
 fulshear	'fUlS3:
 keweenawan	,ki:wi:'noU@n
 okenite	'oUk@,naIt
@@ -72228,7 +72225,7 @@ katharophore	'kaT@r@,fo@
 scolopophore	'skA:l@p@,fo@
 spermaphore	'sp3:m@,fo@
 daymond	'deIm@nd
-fubu	'fu:bu:
+fubu	'fu:,bu:
 diffeomorphism	,dIfi:@'mo@,fIz@m
 heautandrous	,hi:O:'tandr@s
 heautomorphism	,hi:O:toU'mo@,fIz@m
@@ -72335,7 +72332,7 @@ nigeran	'naIdZ@,ran
 nigerianization	,naI,dZi:ri:@n@'zeIS@n
 nigericin	,naI'dZIr@s@n
 nigerite	'naIdZ@,raIt
-ukeke	,u:'keIkeI
+ukeke	,u:'keI,keI
 ukemi	'u:,kEmi:
 ukrainer	,ju:k'reIn3:
 ukrainization	,ju:,kreIn@'zeIS@n
@@ -72545,7 +72542,7 @@ chromotrope	'kroUm@,troUp
 enorthotrope	@n'o@T@,troUp
 euratom	'ju:r@,tA:m
 kalotrope	'kal@,troUp
-logarithmetic	,lA:g@,rIT'mEt@k
+logarithmetic	,lA:g@r@T'mEt@k
 logatom	'lA:g,at@m
 panatrope	'pan@,troUp
 panax	'pa,naks
@@ -72604,6 +72601,8 @@ cryptand	'krIp,tand
 cryptarithmetic	,krIpt@r@T'mEt@k
 reena	'ri:n@
 gonorynchiformes	,gA:n@,rINk@'fo@mi:z
+materialised	m@'ti:ri:@,laIzd
+materialising	m@'ti:ri:@,laIzIN
 promotress	pr@'moUtr@s
 promotrix	pr@'moUt,rIks
 promovable	pr@'mu:v@b@L
@@ -72963,7 +72962,7 @@ pennantite	'pEn@n,taIt
 pennatulacean	,pEn@tS@'leIS@n
 pennatularian	,pEn@tS@'leIri:@n
 portulacaceous	,po@tS@l@'keIS@s
-simulacral	,sImj@'leIkr@L
+simulacral	,sImj@'lakr@L
 soulace	'su:,leIs
 stereoregulate	,stEri:oU'rEgj@,leIt
 stereoregulation	,stEri:oU,rEgj@'leIS@n
@@ -73096,8 +73095,9 @@ regulatress	'rEgj@,leItr@s
 spectatress	,spEk'teItr@s
 stimulatress	'stImj@,leItr@s
 vindicatress	'vInd@,keItr@s
+dysrhythmia	d@s'rIDmi:@
+dysrhythmic	d@s'rIDm@k
 eurhythmician	,ju:r@D'mIS@n
-
 rhythmic	'rIDm@k
 chawinga	S@'wINg@
 soulog	'soU,lA:g
@@ -73148,3 +73148,44 @@ kenyanthropus	,kEni:'anTr@p@s
 pananthropologic	,pan,anTr@p@'lA:dZ@k
 theophilanthrope	,Ti:oU'fIl@n,TroUp
 fleshtone	'flES,toUn
+redtiger	'rEd,taIg3:
+triacontane	,traI@'kA:n,teIn
+vampirarchy	'vam,paIr,A@ki:
+healthleap	'hElT,li:p
+assemblée	,asA:mb'li:
+contrôlée	,kO:ntr@'leI
+coulée	'ku:,leI
+couverte	,ku:'vErt
+criblée	,kri:b'leI
+giclée	Zi:k'leI
+headlee	'hEdli:
+manière	m@'njEr/
+purallee	'pu:r@,leI
+recercelée	r@,s3:s@'leI
+samee	'seImi:
+shiralee	'SIr@li:
+stylee	'staIli:
+tiralee	'tIr@li:
+tsatlee	'tsatli:
+tsaricide	'zA@@,saId
+czaricide	'zA@@,saId
+tsaristic	,zA:'rIst@k
+czaristic	,zA:'rIst@k
+tsaritsa	,zA:'rIts@
+tschermigite	'tS3:m@,gaIt
+upflee	,Vp'fli:
+upflees	,Vp'fli:z
+upfled	,Vp'flEd
+upfleeing	,Vp'fli:IN
+veillée	,vE'jeI
+ovalescent	,oUv@'lEs@nt
+ovalling	'oUv@lIN
+ovaloid	'oUv@,lOId
+ovaltine	'oUv@L,ti:n
+ovaltiney	'oUv@L,ti:ni:
+leporicide	'lEp@r@,saId
+librate	'laIb,reIt
+libricide	'laIbr@,saId
+temporicide	'tEmp@r@,saId
+gershom	'g3:S@m
+scholasm	'skoU,laz@m
