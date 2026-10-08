@@ -1,5 +1,6 @@
+ntamd $abbrev
 onn $abbrev $only
-edid $abbrev
+edid $abbrev //extended display identification data
 bioscfg bios cfg $text
 repodata repo data $text
 fwupdtool fwupd tool $text
