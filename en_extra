@@ -1,3 +1,4 @@
+simpledrm simple drm $text
 endian 'Endi@n
 ntamd $abbrev
 onn $abbrev $only
