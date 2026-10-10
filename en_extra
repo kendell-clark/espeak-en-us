@@ -1,3 +1,4 @@
+endian 'Endi@n
 ntamd $abbrev
 onn $abbrev $only
 edid $abbrev //extended display identification data
