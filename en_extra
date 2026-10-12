@@ -1,3 +1,4 @@
+amdpsp $abbrev //amd psp, a security processor in my new eliteBook
 wudf $abbrev //windows universal driver framework
 udevd udev d $text
 lsinitrd ls init rd $text
