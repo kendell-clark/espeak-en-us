@@ -1,3 +1,4 @@
+wudf $abbrev //windows universal driver framework
 udevd udev d $text
 lsinitrd ls init rd $text
 reversible rI'v3sIb@L
