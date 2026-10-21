@@ -230,6 +230,10 @@ def main() -> int:
                 parse_errors += 1
                 review_lines.append(f"{e.line_no}\tPARSE_ERROR\t{e.original_line}")
                 continue
+            # eSpeak-NG already pronounces these words correctly. Do not
+            # override its built-in dictionary with a converted Eloquence entry.
+            if e.word.lower() in {"automated"}:
+                continue
             if e.unknown:
                 unknown_counter.update(e.unknown)
                 review_lines.append(f"{e.line_no}\t{e.word}\t{e.source}\t{e.converted}\tunknown={','.join(e.unknown)}")
