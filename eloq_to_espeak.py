@@ -172,6 +172,10 @@ def normalize_espeak_english(word: str, phones: str) -> str:
     if phones.endswith("r"):
         phones += "/"
 
+    # Use eSpeak's t# for standalone t sounds. Preserve tS (the ch
+    # affricate) and any already-converted t# to avoid corrupting them.
+    phones = re.sub(r"t(?![S#])", "t#", phones)
+
     return phones
 
 
