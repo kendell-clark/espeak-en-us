@@ -172,11 +172,17 @@ def normalize_espeak_english(word: str, phones: str) -> str:
     if phones.endswith("r"):
         phones += "/"
 
-    # Keep the t# pronunciation at the end of words (e.g. copresident,
-    # coresident), but use t2 for other standalone t sounds (e.g. presenter).
-    # Preserve tS (ch) and existing t# / t2 sequences.
+    # Use t2 for ordinary standalone t sounds, while preserving the tS
+    # affricate and an already-explicit t# or t2. Keep final t# behavior.
     phones = re.sub(r"t(?![S#2])(?=$)", "t#", phones)
     phones = re.sub(r"t(?![S#2])", "t2", phones)
+
+    # Eloquence's reduced consonant in co-president/co-resident is voiced.
+    # The broad t2 rule above would produce z@t2@nt, but the desired
+    # eSpeak sequence is z@d@nt. Restrict this to the two known words;
+    # presenter and other words must retain their existing t2 behavior.
+    if word.lower() in {"copresident", "coresident"}:
+        phones = phones.replace("z@t2@nt#", "z@d@nt")
 
     return phones
 
